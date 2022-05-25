@@ -1,0 +1,4 @@
+collections:
+  about-rulang:
+    output: true
+    order: []
