@@ -2,4 +2,5 @@ collections:
   our-rulang-family:
     output: true
     order:
+      - Organisational Chart & Executive Committee (EXCO).md
       - School Leaders.md
