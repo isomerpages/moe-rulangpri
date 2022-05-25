@@ -1,4 +1,5 @@
 collections:
   rulangnites-achievements:
     output: true
-    order: []
+    order:
+      - Rulangnites' Achievements.md
