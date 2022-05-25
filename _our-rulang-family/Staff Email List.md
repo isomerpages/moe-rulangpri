@@ -144,3 +144,80 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**LHs / SHs / AYHs**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-iual{background-color:#E5E5E5;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-scbu{background-color:#FFF;color:#E62F14;text-align:left;vertical-align:top}
+.tg .tg-v9yw{background-color:#E5E5E5;color:#E62F14;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1k38{background-color:#E5E5E5;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9u4g">Designation</th>
+    <th class="tg-9u4g">Key Personnel</th>
+    <th class="tg-9u4g">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1k38">LH<br>ENGLISH LANGUAGE</td>
+    <td class="tg-iual">(Mrs)    Audrey Lim</td>
+    <td class="tg-v9yw"><a href="mailto:gan_wen_qi_audrey@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">gan_wen_qi_audrey@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-9u4g"><span style="font-weight:bold">LH</span><br>ENGLISH LANGUAGE <br>MRL COORDINATOR</td>
+    <td class="tg-fwnj">(Ms)     Ker Hui Ling<br></td>
+    <td class="tg-scbu"><a href="https://rulangpri.moe.edu.sg/"><span style="text-decoration:none;color:#E62F14">ker_hui_ling@moe.edu.sg </span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1k38"><span style="font-weight:bold">LH</span><br>MATHEMATICS</td>
+    <td class="tg-iual">(Ms)     Ee Wei Leng</td>
+    <td class="tg-v9yw"><a href="mailto:ee_wei_leng@moe.edu.sg%C2%A0"><span style="text-decoration:none;color:#E62F14">ee_wei_leng@moe.edu.sg </span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-9u4g"><span style="font-weight:bold">LH</span><br>MATHEMATICS</td>
+    <td class="tg-fwnj">(Mr)     Susiayanto<br>           Sunaryo</td>
+    <td class="tg-scbu"><a href="mailto:susiayanto_sunaryo@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">susiayanto_sunaryo@moe.edu.sg</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-1k38"><span style="font-weight:bold">LH</span><br>SCIENCE</td>
+    <td class="tg-iual">(Mdm)  Norlida Bte<br>            Abdullah</td>
+    <td class="tg-v9yw"><a href="mailto:norlida_abdullah@moe.edu.sg%C2%A0"><span style="text-decoration:none;color:#E62F14">norlida_abdullah@moe.edu.sg </span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-9u4g"><span style="font-weight:bold">SH</span><br>CHINESE LANGUAGE</td>
+    <td class="tg-fwnj">(Mdm)   Ji Lin</td>
+    <td class="tg-scbu"><a href="mailto:ji_lin@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ji_lin@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1k38"><span style="font-weight:bold">SH</span><br>ICT &amp;<br>DATA MANAGEMENT</td>
+    <td class="tg-iual">(Mdm)  Noriah Abdul Rahim</td>
+    <td class="tg-v9yw"><a href="mailto:noriah_abdul_rahim@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">noriah_abdul_rahim@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-9u4g"><span style="font-weight:bold">SH</span><br>PHF &amp; CCA<br></td>
+    <td class="tg-fwnj">(Mr)     Mohammed Bazli<br>           Azmy</td>
+    <td class="tg-scbu"><a href="mailto:mohammed_bazli_azmy@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">mohammed_bazli_azmy@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-1k38"><span style="font-weight:bold">AYH</span><br>LOWER PRIMARY</td>
+    <td class="tg-iual">(Ms)     Maslishah Punari</td>
+    <td class="tg-v9yw"><a href="mailto:maslishah_punari@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">maslishah_punari@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-9u4g"><span style="font-weight:bold">AYH</span><br>MIDDLE PRIMARY</td>
+    <td class="tg-fwnj">(Mrs)    Rina Tan</td>
+    <td class="tg-scbu"><a href="mailto:tan_rina@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tan_rina@moe.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
