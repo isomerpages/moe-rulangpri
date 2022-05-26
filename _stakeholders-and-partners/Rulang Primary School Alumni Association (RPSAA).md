@@ -147,3 +147,11 @@ Seeing the Alumni Association working in tandem and supporting their alma mater 
   </tr>
 </tbody>
 </table>
+
+*Source: https://www.rulangalumni.org/our-patrons*
+
+For more information on Rulang Primary School Alumni Association (RPSAA), please click the following links to be directed to the website or Facebook Page.
+
+Rulang Primary School Alumni Association (RPSAA) Website
+
+Rulang Primary School Alumni Association (RPSAA) Facebook Page
