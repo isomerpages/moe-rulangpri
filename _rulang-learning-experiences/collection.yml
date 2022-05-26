@@ -2,4 +2,5 @@ collections:
   rulang-learning-experiences:
     output: true
     order:
+      - Instructional Programme/English.md
       - Instructional Programme/.keep
