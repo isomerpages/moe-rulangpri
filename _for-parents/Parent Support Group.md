@@ -22,4 +22,8 @@ The PSG truly believes that parental involvement in the School and PSG programme
 # Gallery 
 
 **2016 PSG**
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRO4k_9jdOwq_r7lIeW_-vc7WymA2CUvkeRbHNqd5iVa-ulxohZfdtPeRor1J5e-9HjLqjOvEO1oact/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRO4k_9jdOwq_r7lIeW_-vc7WymA2CUvkeRbHNqd5iVa-ulxohZfdtPeRor1J5e-9HjLqjOvEO1oact/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+**2017 P1 Orientation Programme - PSG Recruitment**
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNYzgOS2j29eZmMWm6DdevMK-dgNm1FlwvEWcWIywOlcqpmrXhmMwMbB8AL2gSyQuAidcZ5o4zBoE2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
