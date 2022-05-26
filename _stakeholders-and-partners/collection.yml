@@ -2,6 +2,7 @@ collections:
   stakeholders-and-partners:
     output: true
     order:
+      - Sister's Schools.md
       - Strategic Partners.md
       - Rulang Primary School Alumni Association (RPSAA).md
       - School Advisory Committee.md
