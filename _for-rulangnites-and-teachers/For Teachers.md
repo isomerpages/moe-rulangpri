@@ -22,3 +22,10 @@ description: ""
 * [SC Mobile](https://scmobile.moe.edu.sg/login)
 * [School Cockpit - Login using with @schools.gov.sg](https://schoolcockpit.moe.gov.sg/)
 * [SLS ](https://vle.learning.moe.edu.sg/login)
+
+
+**RULANG-SPECIFIC LINKS**
+
+* [HBL @ Rulang](https://sites.google.com/moe.edu.sg/hblrulang/home)
+* [Staff Resources @ Rulang ](https://sites.google.com/view/ictrulang/home)
+* [Rulang PHF](https://sites.google.com/moe.edu.sg/rulang-strive/home)
