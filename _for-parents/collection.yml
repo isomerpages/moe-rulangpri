@@ -2,5 +2,6 @@ collections:
   for-parents:
     output: true
     order:
+      - Forms for Parents.md
       - Cyber Wellness.md
       - Useful Links.md
