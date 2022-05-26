@@ -1,4 +1,5 @@
 collections:
   rulang-learning-experiences:
     output: true
-    order: []
+    order:
+      - Instructional Programme/.keep
