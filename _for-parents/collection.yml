@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - School Fees.md
+      - School Fees & Services.md
       - Road Safety.md
       - Parent Support Group.md
       - Financial Schemes.md
