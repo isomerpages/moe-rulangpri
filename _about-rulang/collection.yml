@@ -2,6 +2,7 @@ collections:
   about-rulang:
     output: true
     order:
+      - Strategic Thrust.md
       - Mission, Vision, Motto, Core Values, Desired Outcomes.md
       - School Crest & Philosophy.md
       - Principal's Message.md
