@@ -2,5 +2,6 @@ collections:
   about-rulang:
     output: true
     order:
+      - School Crest & Philosophy.md
       - Principal's Message.md
       - School's History.md
