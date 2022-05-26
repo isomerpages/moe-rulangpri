@@ -4,8 +4,7 @@ permalink: /rulang-learning-experiences/Instructional-Programme/aesthetic-art-an
 description: ""
 third_nav_title: Instructional Programme
 ---
-# Aesthetic (Art and Music)
-**Aesthetics**
+# Aesthetics
 **Vision**
 
 Reflective, Proactive and Sagacious aesthetes in a vibrant community
@@ -92,3 +91,54 @@ In harnessing potential as well as capabilities in pupils, Aesthetic programme i
   </tr>
 </tbody>
 </table>
+
+# Visual Arts
+**Rulang Aesthetics Xcellent (RAX)**
+
+Rulang Primary School promotes excellence in the Visual Arts by providing opportunities for every pupil to experience it through: creative and fun lessons, learning journeys and assembly programmes. These authentic experiences in our Visual Arts Programme provide platforms for pupils to develop skills such as observation, interpretation and valuing diversity.
+
+The spiral art curriculum, which is built upon the previous level on a yearly basis, also aims to expose pupils to different mediums as well as art forms. This is to enhance their creative and expressive capacities, thereby boosting their confidence and abilities. Pupils who develop a special interest or display artistic talent in specific areas are given further opportunities to specialise and develop their potential in the respective art forms. Through these programmes, Rulang pupils will be guided towards excellence in both the national and international arena.
+
+**Visual Art Curriculum Plan**
+![](/images/04%20Visual%20Arts%20Education%20in%20Rulang.jpg)
+**I Love Pottery**
+![](/images/05%20I%20love%20Pottery%201.jpg)
+![](/images/05%20I%20love%20Pottery%202.jpg)
+**P1 and P2 Visual Arts Curriculum**<br>
+Drawing and Painting Lesson
+![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Drawing%20Painting%201.jpg)
+![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Drawing%20Painting%202.jpg)
+Gallery Walk & Art Appreciation Lesson
+![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Gallery%20Walk%203.jpg)
+Doodling with Clay Lesson
+![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Doodling%20with%20Clay%204.jpg)
+Sculpture Making
+![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Sculpture.jpg)
+**P3 and P4 Visual Arts Curriculum**<br>
+Paper Sculpting Lesson
+![](/images/07%20P3%20P4%20Visual%20Arts%20Curriculum%20-%20Paper%20Sculpting%201.jpg)
+Drawing and Painting Lesson
+![](/images/07%20P3%20P4%20Visual%20Arts%20Curriculum%20-%20Drawing%20and%20Painting.jpg)
+Digital Art using Wacom Pad
+![](/images/07%20P3%20P4%20Visual%20Arts%20Curriculum%20-%20Museum%20Based%20Learning%204.jpg)
+P5 and P6 Visual Arts Curriculum
+Still Life Drawing: "Inspired by Georgette Chan"
+![](/images/08%20P5%20P6%20Visual%20Arts%20Curriculum%20-%20Still%20Life%201.jpg)
+![](/images/08%20P5%20P6%20Visual%20Arts%20Curriculum%20-%20Still%20Life%202.jpg)
+![](/images/08%20P5%20P6%20Visual%20Arts%20Curriculum%20-%20Still%20Life%203.jpg)
+
+# Music
+![](/images/09%20Music%20Framewok%20in%20Rulang.jpg)
+Rulang’s pupils are given opportunities to develop their creativity, express and showcase themselves through various platforms and appreciate Singapore’s multi-cultural heritage through diverse learning experiences in Music throughout their primary school years. Thus, these provides opportunities for our pupils to demonstrate teamwork, values in action, develop social-emotional skills and leadership qualities which in turn hone the 21st century competencies.
+**P1 and P2 Music Curriculum**
+![](/images/09%20P1%20P2%20Music%20Curriculum%201.jpg)
+![](/images/09%20P1%20P2%20Music%20Curriculum%202.jpg)
+![](/images/09%20P1%20P2%20Music%20Curriculum%203.jpg)
+
+**P3 and P4 Music Curriculum**
+![](/images/09%20P3%20P4%20Music%20Curriculum%201.jpg)
+![](/images/09%20P3%20P4%20Music%20Curriculum%202.jpg)
+![](/images/09%20P3%20P4%20Music%20Curriculum%203.jpg)
+
+**P5 and P6 Music Curriculum**
+![](/images/09%20P5%20P6%20Music%20Curriculum%201.jpg)
