@@ -108,3 +108,42 @@ Seeing the Alumni Association working in tandem and supporting their alma mater 
   </tr>
 </tbody>
 </table>
+
+*Source: https://www.rulangalumni.org/organisation*
+
+**RPSAA Patrons**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k2a6{background-color:#E31D3C;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-d298{background-color:#FFFCFD;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-8fqz{background-color:#FFFCFD;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-k2a6">Patrons</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-d298">Mr Tan Fuh Gih, BBM<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-d298">Mr Tan Teck Yoke, PBM<br><span style="font-style:italic">(Mr Tan was the President of the association from 2012 to 2016, the longest serving President to date)</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-8fqz"><span style="font-weight:bold"> Mdm Low Chew Yun</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-d298"> Mr Ng Poh Wah, PBM<br><span style="font-style:italic">(Mr Ng has also set-up a separate fund for needy pupils of Rulang Primary School. He is an alumnus who is well remembered by the teachers. While being a patron of the RPSAA, Mr Ng also sits in the management committee of the SAC as the Vice Chairman. </span></td>
+  </tr>
+  <tr>
+    <td class="tg-d298"> Mr Chew Chin Seng</td>
+  </tr>
+</tbody>
+</table>
