@@ -25,5 +25,10 @@ Rulang’s philosophy:
 
 The Mathematics Department is committed to providing the teachers and pupils with the right environment and support so that:
 * The teachers will become specialists in Teaching and Learning of Mathematics, with their passion for teaching Mathematics sustained 
-* Rulangnites will become Engaged Learners of Mathematics 
+* Rulangnites will become Engaged Learners of Mathematics
 
+
+With engaging learners as our focus, the environment which the department would like to create is one where:
+* Assessments and Learning Experiences are meaningful and well-balanced 
+* Curriculum Innovations are meaningful and well-balanced 
+Mathematics Teachers are committed to improving themselves in order to seek breakthroughs
