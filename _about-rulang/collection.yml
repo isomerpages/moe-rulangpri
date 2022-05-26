@@ -2,6 +2,7 @@ collections:
   about-rulang:
     output: true
     order:
+      - School Song.md
       - True Hearts Culture.md
       - Strategic Thrust.md
       - Mission, Vision, Motto, Core Values, Desired Outcomes.md
