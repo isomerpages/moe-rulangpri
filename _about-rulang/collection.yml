@@ -2,6 +2,7 @@ collections:
   about-rulang:
     output: true
     order:
+      - School Rules & Regulation.md
       - School Song.md
       - True Hearts Culture.md
       - Strategic Thrust.md
