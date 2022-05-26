@@ -1,4 +1,5 @@
 collections:
   about-rulang:
     output: true
-    order: []
+    order:
+      - School's History.md
