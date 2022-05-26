@@ -46,3 +46,12 @@ In a world where our children belong to a generation who are constantly connecte
 * [Developing Your Child to be a Positive Influencer Online](/files/2018%20T1%20Parents%20Tip%20Sheet_pdf.pdf)
 
 
+**Tip Sheets for Parents**
+
+
+Excessive Internet Use
+![](/images/Tip%20sheet%20for%20Parents-Excessive%20Internet%20Use.png)
+
+Helping Your Children Manage Online Scams
+![](/images/Tip%20sheet%20for%20Parents-Helping%20Your%20Child%20Manage%20Online%20Scams.jpg)
+
