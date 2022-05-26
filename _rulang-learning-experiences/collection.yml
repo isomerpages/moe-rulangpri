@@ -2,6 +2,7 @@ collections:
   rulang-learning-experiences:
     output: true
     order:
+      - Instructional Programme/Mathematics.md
       - Instructional Programme/Mother Tongue.md
       - Instructional Programme/English.md
       - Instructional Programme/.keep
