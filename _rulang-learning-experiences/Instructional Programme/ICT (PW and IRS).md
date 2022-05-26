@@ -121,3 +121,57 @@ Rulang Primary School has mapped a learning journey so that interesting and dive
 
 ![](/images/20170803_091336.jpg)
 ![](/images/20170803_091426.jpg)
+
+**Objectives**
+![](/images/picture%201.jpg)
+
+The Media Resource Library strives to provide opportunities for pupils to develop their enjoyment, confidence and independence in learning and using multi-media resources.
+
+This requires the Media Resource Library to
+develop a current collection of multi-media resources for the Media Resource Library and iRead books for the class library that is relevant to all
+create areas within the library to accommodate various purpose and use for both staff and pupils
+
+**Desired Outcomes**
+
+With the wide range of books and fun activities held regularly, the library is an inviting place to more than just read!
+
+**Differentiated Teaching and Learning Programme for Readers**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">Avid Readers</th>
+    <th class="tg-amwm">Enthusiastic Readers</th>
+    <th class="tg-amwm">Novice Readers</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-amwm" colspan="3">Activities</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="background-color:transparent">Avid Readers </span>Class Library (iRead Books)<br><br><span style="background-color:transparent">Movies@MRL </span><br><br><span style="background-color:transparent">Book Talk &amp; Book Recommendation </span><br><br><span style="background-color:transparent">Aesthetic-cum-MRL Week</span></td>
+    <td class="tg-baqh"><span style="background-color:transparent">Avid Readers</span><br><br><span style="background-color:transparent">Class Library (iRead Books) </span><br><br><span style="background-color:transparent">Once Upon A Time@MRL Movies@MRL </span><br><br><span style="background-color:transparent">Book Talk &amp; Book Recommendation </span><br><br><span style="background-color:transparent">Aesthetic-cum-MRL Week</span></td>
+    <td class="tg-baqh"><br><span style="background-color:transparent">Avid Readers </span><br><br><span style="background-color:transparent">Class Library (iRead Books) </span><br><br><span style="background-color:transparent">Once Upon A Time@MRL Movies@MRL</span><br><span style="background-color:transparent"> </span><br><span style="background-color:transparent">Book Talk &amp; Book Recommendation </span><br><br><span style="background-color:transparent">Aesthetic-cum-MRL Week</span></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm" colspan="3">Spaces</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><span style="background-color:transparent">Mini Auditorium </span><br><br><span style="background-color:transparent">Thematic Display Board</span><br><span style="background-color:transparent"> </span><br><span style="background-color:transparent">My Work Station</span><br><span style="background-color:transparent"> </span><br><span style="background-color:transparent">Class Library</span><br><span style="background-color:transparent"> </span><br><span style="background-color:transparent">Various study and reading corners in the library (Reference, Fiction and Non-Fiction)</span></td>
+    <td class="tg-baqh"><span style="background-color:transparent">Mini Auditorium </span><br><br><span style="background-color:transparent">Thematic Display Board </span><br><br><span style="background-color:transparent">My Learning Space </span><br><br><span style="background-color:transparent">My Work Station </span><br><br><span style="background-color:transparent">Class Library </span><br><br><span style="background-color:transparent">Various study and reading corners in the library (Reference, Fiction and Non-Fiction)</span></td>
+    <td class="tg-baqh"><span style="background-color:transparent">Mini Auditorium </span><br><br><span style="background-color:transparent">Thematic Display Board </span><br><br><span style="background-color:transparent">My Learning Space </span><br><br><span style="background-color:transparent">My Work Station </span><br><br><span style="background-color:transparent">Class Library </span><br><br><span style="background-color:transparent">Various study and reading corners in the library</span></td>
+  </tr>
+</tbody>
+</table>
+
+ 
