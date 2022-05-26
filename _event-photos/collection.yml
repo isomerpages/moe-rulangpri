@@ -1,4 +1,5 @@
 collections:
   event-photos:
     output: true
-    order: []
+    order:
+      - 90th Anniversary.md
