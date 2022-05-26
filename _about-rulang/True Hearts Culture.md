@@ -60,8 +60,12 @@ True Hearts, through our lives  True Hearts, to soar new heights  That’s the
 **T**eam synergy in life and learning to give our best  
 	
 	
-True Hearts, beat as one  True Hearts, through our lives  True Hearts, to soar new heights  That’s the Rulang Spirit!
+True Hearts, beat as one  <br>
+True Hearts, through our lives  <br>
+True Hearts, to soar new heights  <br>
+That’s the Rulang Spirit!
 
-True Hearts, beat as one  True Hearts, through our lives  True Hearts, to soar new heights That’s the Rulang Spirit!  
+True Hearts, beat as one  
+<br>True Hearts, through our lives  <br>True Hearts, to soar new heights <br>That’s the Rulang Spirit!  
 
 That's the Rulang Spirit!  True-hearted Rulangnites!
