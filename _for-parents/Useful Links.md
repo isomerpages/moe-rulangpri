@@ -15,3 +15,8 @@ For more information on how to use Parents Gateway, click to:
 
 * [Read FAQ ](/files/Frequently-Asked-Questions-For-Parents.pdf)
 * download the app on [Android](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG&gl=US) devices and [Apple](https://apps.apple.com/sg/app/parents-gateway/id1267198708#?platform=iphone) devices
+
+
+![](/images/parentingmoe.jpg)
+*   [Instagram](https://www.instagram.com/parentingwith.moesg/)
+*   [Parent Kit](https://www.moe.gov.sg/parentkit)
