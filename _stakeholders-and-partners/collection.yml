@@ -2,4 +2,5 @@ collections:
   stakeholders-and-partners:
     output: true
     order:
+      - Rulang Primary School Alumni Association (RPSAA).md
       - School Advisory Committee.md
