@@ -2,5 +2,6 @@ collections:
   event-photos:
     output: true
     order:
+      - Event Photos.md
       - Singapore Book of Records (Largest National Flag).md
       - 90th Anniversary.md
