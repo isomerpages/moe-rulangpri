@@ -43,3 +43,9 @@ description: ""
 ![](/images/CL%204.png)
 ![](/images/CL%205.png)
 ![](/images/CL%206.png)
+
+**MOTHER TONGUE - MALAY LANGUAGE**
+![](/images/ML%201.png)
+![](/images/ML%202.png)
+![](/images/ML%203.png)
+![](/images/ML%204.png)
