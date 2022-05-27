@@ -265,3 +265,21 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
   </tr>
 </thead>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-9u4g">LLP Sports Module<br>(Primary 3)<br> <br>HOD-in-charge:<br> <br>Mr Woody Woo</td>
+    <td class="tg-fwnj" colspan="3"> <br>The LLP Sports module is a broad based, inclusive sports programme for pupils to promote the joy of learning and positive association with physical activities. Through the sports module, there will be opportunities for those with greater interest and/or talent to further develop their strengths and interest in sports CCAs. Pupils will be encouraged to pursue lifelong learning in physical activities beyond their primary school experience.<br>As this module involves physical activities, pupils can opt to sit out if they are not physically ready to take part in the programme. Participants should also be appropriately dressed – reminders would be given nearer to the date of the programme.<span style="color:inherit;background-color:transparent"> </span></td>
+  </tr>
+</thead>
+</table>
