@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - For Teachers/For Teachers.md
       - For Teachers/.keep
       - For Rulangnites/West Zone Secondary School Stories.md
       - For Rulangnites/For Rulangnites.md
