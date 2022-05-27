@@ -22,3 +22,23 @@ Since 2010, the programme has seen greater integration with core subjects to pro
 *   The school’s IRC complemented and enabled teachers to ‘teach less learn more’ as it provided experiential opportunities for pupils to learn through interaction with manipulative and technology. This allows better engagement of interests for subjects in both core and non-core.
 *   The learning experience in IRC will be S.P.A.C.E-driven to allow character development in pupils especially in the area of being an effective communicator, a good team player and an independent and active learner.
 *   Achieve an enduring understanding as well as appreciation on how robotics complements their learning thus seeing robotics as an integral component to their acquisition of knowledge.
+
+![](/images/ALP3.jpg)
+![](/images/ALP4.jpg)
+
+**The Talented**
+
+Different Robotics Systems will be infused into the technology lessons under Accelerated Education Programme (AEP) to expose pupils to more advanced programming, construction and building techniques. Eventually, these pupils in AEP will be identified and further nurtured to apply their skills and knowledge in their Project Work. The Project Work comprises of five main components which give pupils an opportunities to apply their knowledge and skills. The pupils are assessed based on the following:  
+
+*   Technology Skill  
+    
+*   Oral Presentation Skill  
+    
+*   Research Skill  
+    
+*   Team work  
+    
+*   Self- Reflection
+
+
+This approach would in one way or another enable the pupils to experience the process of collaborative learning in S.P.A.C.E strategy thus benefitting the projected desired outcomes and be equipped with the 21st century skills and traits of an active learner.
