@@ -55,8 +55,9 @@ True Hearts, beat as one
 True Hearts, through our lives  True Hearts, to soar new heights  That’s the Rulang Spirit!  
 
 
-**H**ighest commitment to excellence                               **E**nable one another in our work and play  
-**A**ltruistic purposes  In our course of action 
+**H**ighest commitment to excellence     <br> 
+**E**nable one another in our work and play  <br>
+**A**ltruistic purposes  In our course of action <br>
 **R**einforcing strengths  of dynamic individuals  <br>
 **T**eam synergy in life and learning to give our best  
 	
