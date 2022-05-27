@@ -119,11 +119,16 @@ Having acquired the richness of language from the literary works available, our 
 
 Rulang Primary School has mapped a learning journey so that interesting and diversed learning can take place for the pupils. And Media Resource Library, in its main or supportive role, will work together to provide the necessary resources available.
 
-![](/images/20170803_091336.jpg)
-![](/images/20170803_091426.jpg)
+<img src="/images/20170803_091336.jpg" 
+     style="width:50%">
+		 
+<img src="/images/20170803_091426.jpg" 
+     style="width:50%">
 
 **Objectives**
-![](/images/picture%201.jpg)
+
+<img src="/images/picture%201.jpg" 
+     style="width:50%">
 
 The Media Resource Library strives to provide opportunities for pupils to develop their enjoyment, confidence and independence in learning and using multi-media resources.
 
@@ -173,5 +178,3 @@ With the wide range of books and fun activities held regularly, the library is a
   </tr>
 </tbody>
 </table>
-
- 
