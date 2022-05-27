@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Staff Email List.md
       - Share a Compliment.md
       - Subject Based Banding Brochure.md
       - School Fees & Services.md
