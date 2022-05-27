@@ -44,50 +44,38 @@ In harnessing potential as well as capabilities in pupils, Aesthetic programme i
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-a3j2"></th>
-    <th class="tg-a3j2">Mass</th>
-    <th class="tg-baqh">Talented</th>
+    <th class="tg-lygy"></th>
+    <th class="tg-a3j2"><span style="font-weight:400;font-style:normal">Mass</span></th>
+    <th class="tg-baqh"><span style="font-weight:400;font-style:normal">Talented</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Art &amp; Crafts</span></td>
-    <td class="tg-lygy">I love Pottery<br><br>Co-curricular Special Project<br><br>Curriculum which encompasses 2D, 3D and Digital Arts<br><br>PAL (P1 and P2)<br></td>
-    <td class="tg-tsok">Art Club<br><br>SYF Art</td>
+    <td class="tg-lygy">- I love Pottery<br><br>- Co-curricular Special Project<br><br>- 2D, 3D and Digital Arts<br><br>- PAL (P1 and P2)<br></td>
+    <td class="tg-lygy">- Art Club<br><br>- SYF Art<br></td>
   </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
   <tr>
-    <th class="tg-a3j2"></th>
-    <th class="tg-a3j2"><span style="color:#222;background-color:transparent">Mass</span></th>
-    <th class="tg-baqh">Talented</th>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
   </tr>
-</thead>
-<tbody>
+  <tr>
+    <td class="tg-a3j2"></td>
+    <td class="tg-a3j2">Mass</td>
+    <td class="tg-a3j2"><span style="font-weight:400;font-style:normal">Talented</span></td>
+  </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:#222;background-color:transparent">Music</span></td>
-    <td class="tg-lygy">  Music Comes Alive Using Vivaldi Approach<br><br> Choral Singing<br><br> Playing with instruments - Ocarina, Recorders, Ukelele<br><br> PAL (P1 and P2)</td>
-    <td class="tg-lygy">SYF (Choir, Symphonic Band and Chinese Orchestra)</td>
+    <td class="tg-lygy">- Music Comes Alive Using Vivaldi Approach<br><br>- Choral Singing<br><br>- Playing with instruments - Ocarina, Recorders, Ukelele<br><br>- PAL (P1 and P2)</td>
+    <td class="tg-lygy">- SYF (Choir, Symphonic Band and Chinese Orchestra)</td>
   </tr>
 </tbody>
 </table>
