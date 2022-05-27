@@ -21,3 +21,8 @@ description: ""
 
 **CHESS**
 ![](/images/Chess%201.png)
+![](/images/Chess%202.png)
+![](/images/Chess%203.png)
+![](/images/Chess%204.png)
+![](/images/Chess%205.png)
+![](/images/Chess%206.png)
