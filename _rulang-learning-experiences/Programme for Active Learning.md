@@ -26,3 +26,24 @@ To develop
 The philosophy that guides us in the PAL implementation is our belief in providing a supportive and inviting social environment to make learning fun and engaging. With that, PAL lessons are crafted based on the unique **P.R.I.S.M** strategy- **Play. Rehearse. Internalise. Shine. Motivate.**  
   
 In summary, PAL aims to facilitate the well-rounded development of pupils in the five learning domains (cognitive, moral, social, aesthetics and physical) and help pupils to develop social emotional competencies.
+
+
+**Primary 1 (ILOVEKampung Games)**
+  
+  
+**Primary 1 (ILOVEArtyfacts)**
+  
+  
+**Primary 1 (ILOVEDance ‘n’ Drama)**
+
+**Primary 2 (IYMusic)**
+![](/images/P2%20I%20Love%20Music%201.jpg)
+![](/images/P2%20I%20Love%20Music%202.jpg)
+
+**Primary 2 (ILOVENature)**
+![](/images/P2%20I%20Love%20Nature%201.jpg)
+![](/images/P2%20I%20Love%20Nature%202.jpg)
+
+**Primary 2 (ILOVEGames)**
+![](/images/P2%20I%20Love%20Games%201.jpg)
+![](/images/P2%20I%20Love%20Games%202.jpg)
