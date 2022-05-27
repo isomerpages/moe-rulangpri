@@ -10,4 +10,4 @@ AEP for Robotics
 ----------------
 
   
-This programme is currently part of our **Applied Learning Programme (ALP)**. For more details, please click [HERE](https://rulangpri.moe.edu.sg/applied-learning-programme-alp-learning-for-life-programme-llp/applied-learning-programme-alp-robotics).
+This programme is currently part of our **Applied Learning Programme (ALP)**. For more details, please click [HERE](/rulang-learning-experiences/ALP-and-LLP/west-zone-centre-of-excellence-robotics).
