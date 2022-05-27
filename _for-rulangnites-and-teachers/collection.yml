@@ -2,5 +2,4 @@ collections:
   for-rulangnites-and-teachers:
     output: true
     order:
-      - West Zone Secondary School Stories.md
       - For Teachers.md
