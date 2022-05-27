@@ -49,3 +49,8 @@ description: ""
 ![](/images/ML%202.png)
 ![](/images/ML%203.png)
 ![](/images/ML%204.png)
+
+**MOTHER TONGUE - TAMIL LANGUAGE**
+![](/images/TL%201.png)
+![](/images/TL%202.png)
+![](/images/TL%203.png)
