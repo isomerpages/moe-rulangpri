@@ -239,3 +239,29 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-i2s5{background-color:#FFF;color:#454545;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-9u4g" rowspan="3">Student Leadership<br>   <br>HOD in-charge:<br>Ms Christina Foo</td>
+    <td class="tg-i2s5" colspan="2"><span style="font-weight:bold">Student-Initiated Project (SIP)Level 1 - School Improvement Projects</span><br>●     Pupils will be taught Brainstorming Techniques<br>●     Pupils will learn to plan a self-initiated project for school improvement</td>
+    <td class="tg-i2s5" rowspan="2"><span style="font-weight:bold">Habits of Mind (HOM) &amp; Introduction to Cheerleading and Teambuilding (ICAT)</span><br>●     Pupils will learn two Habits of Mind through brain teasers and teambuilding games <br>●     Pupils will work in groups to achieve the objectives of the games</td>
+  </tr>
+  <tr>
+    <td class="tg-i2s5" colspan="2"><span style="font-weight:bold">Habits of Mind (HOM) &amp; Introduction to Cheerleading and Teambuilding (ICAT)</span><br><span style="font-weight:400;font-style:normal;text-decoration:underline">● </span>Pupils will learn three Habits of Mind through brain teasers and team building games<br><span style="font-weight:400;font-style:normal;text-decoration:underline">● </span>Pupils will work in groups to achieve the objectives of the games<br><span style="font-weight:400;font-style:normal;text-decoration:underline">● </span>Pupils will work in groups to write and perform their own cheers<br><span style="font-weight:400;font-style:normal;text-decoration:underline">● </span>Cheers writing and performing competition</td>
+  </tr>
+  <tr>
+    <td class="tg-fwnj" colspan="3">The bedrock of our programmes is the 16 Habits of Mind (HOM) advocated by Arthur L. Costa. The HOM focus on observing how pupils produce knowledge rather than how they merely reproduce knowledge. It also covers how intelligent human beings act on known information presented to them. In this programme, pupils will discover, acquire and strengthen their habits of mind, which are the characteristics of what intelligent people do when they are confronted with problems. </td>
+  </tr>
+</thead>
+</table>
