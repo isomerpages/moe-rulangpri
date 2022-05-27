@@ -2,4 +2,5 @@ collections:
   general-information:
     output: true
     order:
+      - For Parents/Subject Based Banding Brochure.md
       - For Parents/.keep
