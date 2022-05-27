@@ -36,3 +36,33 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+*You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.*
+
+**Overview of Sexuality Education Programme for 2022**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yvtv{background-color:#E5E5E5;color:#454545;text-align:left;vertical-align:middle}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-iual{background-color:#E5E5E5;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fwnj"><span style="font-weight:normal">4)</span></th>
+    <th class="tg-tsok"><span style="font-weight:normal;color:#222">Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click </span><a href="https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach" target="_blank" rel="noopener noreferrer"><span style="background-color:#FFFE65">here</span></a><span style="font-weight:normal;color:#222"> for more information on the scope of Sexuality Education in the school curriculum.</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-yvtv"> 5)</td>
+    <td class="tg-iual">The subjects that incorporates topics on sexuality include:<br><span style="color:#222">a.</span>        <span style="color:black">Science </span><br><span style="color:#222">b.</span>        <span style="color:black">Form Teacher Guidance Period (FTGP)</span><br><span style="color:#222">c.</span>        <span style="color:black">Character and Citizenship Education (CCE)</span></td>
+  </tr>
+</tbody>
+</table>
