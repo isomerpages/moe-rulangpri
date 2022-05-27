@@ -2,13 +2,13 @@ collections:
   about-rulang:
     output: true
     order:
-      - Organisational Chart & Executive Committee (EXCO).md
+      - School's History.md
+      - Principal's Message.md
+      - School Crest & Philosophy.md
+      - Mission, Vision, Motto, Core Values, Desired Outcomes.md
       - School Leaders.md
+      - Organisational Chart & Executive Committee (EXCO).md
       - School Rules & Regulation.md
       - School Song.md
       - True Hearts Culture.md
       - Strategic Thrust.md
-      - Mission, Vision, Motto, Core Values, Desired Outcomes.md
-      - School Crest & Philosophy.md
-      - Principal's Message.md
-      - School's History.md
