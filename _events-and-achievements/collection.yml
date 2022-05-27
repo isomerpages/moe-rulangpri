@@ -1,5 +1,5 @@
 collections:
-  event-photos:
+  events-and-achievements:
     output: true
     order:
       - Event Photos.md
