@@ -4,8 +4,9 @@ permalink: /about-rulang/principals-message
 description: ""
 ---
 # Principal's Message
-
-![](/images/IMG_2265New.jpg)
+<img src = "/images/principal.jpg"
+		 width = "100%">
+		 
 
 2020 marks the 90th anniversary of Rulang Primary School, and it is my great honour to join a school which has distinguished herself as an institution of excellence, with a long illustrious history and sterling reputation of providing her pupils with unique holistic educational experiences. A common thread binds generations of Rulangnites – one of innovative thinking, coupled with a passion to learn and excel and a selfless dedication to lead, serve and contribute to society. From a humble village school of 34 pupils in 1930, Rulang has since established herself to be one of the most sought after schools in Jurong.  
   
