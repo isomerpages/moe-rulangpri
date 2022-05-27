@@ -2,6 +2,7 @@ collections:
   rulang-learning-experiences:
     output: true
     order:
+      - ALP & LLP/West Zone Centre of Excellence (Robotics).md
       - ALP & LLP/.keep
       - Programme for Active Learning.md
       - Sexuality Education.md
