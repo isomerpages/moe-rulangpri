@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - For Parents/School Fees & Services.md
       - For Parents/Share a Compliment.md
       - For Parents/Subject Based Banding Brochure.md
       - For Parents/.keep
