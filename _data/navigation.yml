@@ -1,6 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Our Rulang Family
+    collection: our-rulang-family
+  - title: About Rulang
+    collection: about-rulang
+  - title: Achievements & Events
+    collection: events-and-achievements
