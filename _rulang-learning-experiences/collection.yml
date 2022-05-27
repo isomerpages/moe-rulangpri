@@ -2,14 +2,7 @@ collections:
   rulang-learning-experiences:
     output: true
     order:
-      - ALP & LLP/Applied Learning Programme (ALP) @ Robotics.md
-      - ALP & LLP/Learning for Life Programme (LLP) @ Aesthetics Sports.md
-      - ALP & LLP/West Zone Centre of Excellence (Robotics).md
-      - ALP & LLP/.keep
-      - Programme for Active Learning.md
-      - Sexuality Education.md
-      - Co Curricular Special Programme (CCSP).md
-      - Accelerated Education Programme (AEP).md
+      - Instructional Programme/.keep
       - Instructional Programme/PE,CCA & HE.md
       - Instructional Programme/ICT (PW and IRS).md
       - Instructional Programme/Aesthetic (Art and Music).md
@@ -18,4 +11,11 @@ collections:
       - Instructional Programme/Mathematics.md
       - Instructional Programme/Mother Tongue.md
       - Instructional Programme/English.md
-      - Instructional Programme/.keep
+      - Accelerated Education Programme (AEP).md
+      - Co Curricular Special Programme (CCSP).md
+      - Sexuality Education.md
+      - Programme for Active Learning.md
+      - ALP & LLP/.keep
+      - ALP & LLP/Applied Learning Programme (ALP) @ Robotics.md
+      - ALP & LLP/Learning for Life Programme (LLP) @ Aesthetics Sports.md
+      - ALP & LLP/West Zone Centre of Excellence (Robotics).md
