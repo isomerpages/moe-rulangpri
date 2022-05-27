@@ -8,7 +8,7 @@ description: ""
 
 **TRUE HEARTS Culture**
 <img src="/images/RuBear1.png" 
-     style="width:50%">
+     style="width:30%">
 **T**rust built through Sincerity
 
 **R**eality is never the limit, Passion/Beliefs and Attitudes are
@@ -33,7 +33,7 @@ description: ""
 **TRUE HEARTS the Rulang Spirit**
 
 <img src="/images/RuBear2.png" 
-     style="width:50%">
+     style="width:30%">
 
 True Hearts, beat as one
 
