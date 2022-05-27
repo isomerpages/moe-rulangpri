@@ -35,3 +35,11 @@ description: ""
 ![](/images/SCI%205.png)
 ![](/images/SCI%206.png)
 ![](/images/SCI%207.png)
+
+**MOTHER TONGUE - CHINESE LANGUAGE**
+![](/images/CL%201.png)
+![](/images/CL%202.png)
+![](/images/CL%203.png)
+![](/images/CL%204.png)
+![](/images/CL%205.png)
+![](/images/CL%206.png)
