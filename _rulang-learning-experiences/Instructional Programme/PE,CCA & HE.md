@@ -12,7 +12,10 @@ third_nav_title: Instructional Programme
 A Community of Physically Healthy and Mentally Robust Rulangnites
 
 **Philosophy**
-![](/images/Sports%20Day%2003.jpg)
+
+<img src="/images/Sports%20Day%2003.jpg" 
+     style="width:70%">
+		 
 The Physical Education (PE) programme plays an important role in the physical growth and development of pupils. It provides an avenue for them to express themselves non-verbally and creatively through movement and physical activity.
 
 Physical activity should be the cornerstone of the PE programme. The delivery of PE determines how pupils will feel about making physical activities a part of their lifestyle. The PE programme for pupils should be enjoyable to ensure that they develop a positive association with physical activity .PE lessons should include meaningful discussions to promote interaction and the fundamental understanding of basic health-related concepts.
@@ -20,7 +23,9 @@ Physical activity should be the cornerstone of the PE programme. The delivery of
 In addition, PE provides a natural platform and valuable opportunities to inculcate self- management skills, social and cooperative skills and to build character. It serves to complement other educational area in promoting educational outcomes that are less likely to be achieved in other subject areas.
 
 **Principles of Teaching and Learning**
-![](/images/Skipfest%20(1).jpg)
+
+<img src="/images/Skipfest%20(1).jpg" 
+     style="width:70%">
 
 The PE syllabus focuses on developing pupils’ motor and game skills and equipping them with the knowledge, skills and attitudes to pursue and enjoy a physically active and healthy lifestyle.
 
@@ -40,11 +45,15 @@ The objectives of the PE Programmes are to:
 * Demonstrate positive self-esteem through body awareness and control 
 * Demonstrate the spirit of teamwork, sportsmanship and fair play 
 * Practice safety habits during physical activities 
-![](/images/ACES%20day%20(1).jpg)
+<img src="/images/ACES%20day%20(1).jpg" 
+     style="width:70%">
+
 
 # Health Education
 **Principles of Teaching and Learning**
-![](/images/P3%20Swimsafer.jpg)
+
+<img src="/images/P3%20Swimsafer.jpg" 
+     style="width:50%">
 
 We use a thematic approach to plan our Health Promotion Programmes in Rulang. In term 1, we focus on mental / emotional health. In Term 2, we focus on physical health. In Term 3, we focus on nutrition and in Term 4, we focus on social health. We strongly feel that health promotion initiatives should be all year round so as to lead our staff, pupils and stakeholders towards healthy living. Our holistic health programme, comprising of physical, social and emotional well-being, is customized, integrated to impact the whole school.
 
@@ -67,7 +76,10 @@ Inspiring Excellence, Nurturing Talents
 Nurturing Wholesome Individuals, Reaching Maximum Potential
 
 **Philosophy**
-![](/images/CCSP%201.jpg)
+
+<img src="/images/CCSP%201.jpg" 
+     style="width:50%">
+		 
 The Co-Curricular activities & Special Programmes (CCSP) introduced are aligned to the school’s vision, mission and thrusts. They not only complement the curriculum, but are also rapidly evolving as integral parts of the curriculum.
 
 Participating in CCSPs offer opportunities for pupils to develop multiple intelligences and engage in meaningful social interactions with their teachers and peers. Also, through the planned activities, pupils undergo experiences which afford them the opportunity to enhance character and uplift their ethics. These experiences hone self-discipline skills which are crucial if they were to develop their highest potential.
@@ -89,7 +101,9 @@ Working on a system similar to Texton's Talent Development Model (shown in the d
 * pupils are trained in skills that allow them to establish individual accomplishments, in addition to affording them an advantage over their peers as they move on to secondary schools 
 
 **Objectives**
-![](/images/CCSP%203.jpg)
+
+<img src="/images/CCSP%203.jpg" 
+     style="width:50%">
 
 The objectives of the CCSP:
 * Provide challenging and fun experiences for pupils to cater to their educational and psychomotor developmental needs 
