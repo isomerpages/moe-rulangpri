@@ -4,7 +4,7 @@ permalink: /rulang-learning-experiences/ALP-and-LLP/west-zone-centre-of-excellen
 description: ""
 third_nav_title: ALP & LLP
 ---
-#West Zone Centre of Excellence (Robotics)
+# West Zone Centre of Excellence (Robotics)
 
 
 In line with MOE’s direction of ‘Teach Less, Learn More’ (TLLM), Robotics has been introduced and integrated into Rulang Primary School’s formal curriculum to complement the shift in focus of our education system from quantity to quality teaching and learning since 2005. The school’s Robotics education comprises different programmes catering for different purposes: mass participation, interest groups and talent development. It empowers pupils to learn through experience and exposure, along with specially-planned activities to enable talent development.  
