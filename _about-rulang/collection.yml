@@ -2,7 +2,6 @@ collections:
   about-rulang:
     output: true
     order:
-      - Staff Email List.md
       - Organisational Chart & Executive Committee (EXCO).md
       - School Leaders.md
       - School Rules & Regulation.md
