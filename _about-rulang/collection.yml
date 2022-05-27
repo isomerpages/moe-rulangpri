@@ -2,6 +2,7 @@ collections:
   about-rulang:
     output: true
     order:
+      - Our Rulang Family/School Leaders.md
       - Our Rulang Family/.keep
       - Staff Email List.md
       - School's History.md
