@@ -7,7 +7,8 @@ third_nav_title: Instructional Programme
 # Mathematics
 **Mission**
 
-![](/images/Maths.png)
+<img src="/images/Maths.png" 
+     style="width:50%">
 The Mathematics Department provides a conducive environment for:
 1. Rulang Teachers to develop and sustain their passion for teaching Mathematics.
 2. Rulangnites to:
