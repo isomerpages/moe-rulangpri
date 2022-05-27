@@ -2,11 +2,7 @@ collections:
   general-information:
     output: true
     order:
-      - For Teachers/For Teachers.md
-      - For Teachers/.keep
-      - For Rulangnites/West Zone Secondary School Stories.md
-      - For Rulangnites/For Rulangnites.md
-      - For Rulangnites/.keep
+      - For Parents/.keep
       - For Parents/Useful Links.md
       - For Parents/Cyber Wellness.md
       - For Parents/Forms for Parents.md
@@ -16,4 +12,8 @@ collections:
       - For Parents/School Fees & Services.md
       - For Parents/Share a Compliment.md
       - For Parents/Subject Based Banding Brochure.md
-      - For Parents/.keep
+      - For Rulangnites/.keep
+      - For Rulangnites/West Zone Secondary School Stories.md
+      - For Rulangnites/For Rulangnites.md
+      - For Teachers/.keep
+      - For Teachers/For Teachers.md
