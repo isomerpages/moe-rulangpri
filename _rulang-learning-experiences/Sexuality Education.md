@@ -66,3 +66,31 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+**Sexuality Education**: *“Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package*
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-yvtv{background-color:#E5E5E5;color:#454545;text-align:left;vertical-align:middle}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-7rem{background-color:#E5E5E5;color:#222;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fwnj"><span style="font-weight:normal">6)</span></th>
+    <th class="tg-tsok"><span style="font-weight:normal;color:#222">The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-yvtv"> 7)</td>
+    <td class="tg-7rem"><span style="color:#222">The Primary 5 &amp; 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2</span>nd<span style="color:#222"> Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate </span>changes<span style="color:#222">, build healthy </span>relationships<span style="color:#222">, especially online relationships, and exercise </span>safety<span style="color:#222">.</span></td>
+  </tr>
+</tbody>
+</table>
