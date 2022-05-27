@@ -26,3 +26,12 @@ description: ""
 ![](/images/Chess%204.png)
 ![](/images/Chess%205.png)
 ![](/images/Chess%206.png)
+
+**SCIENCE**
+![](/images/SCI%201.png)
+![](/images/SCI%202.png)
+![](/images/SCI%203.png)
+![](/images/SCI%204.png)
+![](/images/SCI%205.png)
+![](/images/SCI%206.png)
+![](/images/SCI%207.png)
