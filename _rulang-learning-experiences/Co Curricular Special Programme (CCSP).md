@@ -178,3 +178,64 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
 **Overview of Special Programmes (SP) 2021**
 
 **(Mondays and Fridays)**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9u4g">SP Focus</th>
+    <th class="tg-9u4g">Primary 3</th>
+    <th class="tg-9u4g">Primary 4</th>
+    <th class="tg-9u4g">Primary 5</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9u4g"> ICT / Design Thinking<br> <br>HOD-in-charge:<br> <br>Mdm Lynn Chia /<br>Mr Gary Chua</td>
+    <td class="tg-fwnj">Pupils will get to challenge their logical thinking as they use a simple robot to move around a playmat, solving challenges with ever-increasing difficulty.</td>
+    <td class="tg-fwnj">Focusing on Design Thinking skills, pupils will be given a short course on the different stages of Design Thinking with activities to help them understand the different stages better.</td>
+    <td class="tg-fwnj">Through the ICT/Design Thinking lessons, pupils will learn basic Design Thinking skills and combine them with Robotics elements to create real-world solutions to real-world problems. Pupils will learn to empathise, ask questions, brainstorm, prototype and test solutions with robotics kits to build creative designs and come up with solutions that can potentially benefit people.</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9u4g">SP Focus</th>
+    <th class="tg-9u4g">Primary 4</th>
+    <th class="tg-9u4g">Primary 5</th>
+    <th class="tg-9u4g">Primary 6</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9u4g">Entrepreneurship<br> <br> <br> <br>HOD in-charge:<br>Mr Tan Puh Chen<br> <br> <br> <br> </td>
+    <td class="tg-fwnj">Pupils will learn basic economics concepts<br>●      Scarcity (Needs and Wants)<br>●      Opportunity Cost<br>●      Short-term and Long-term Rewards<br>●      Choices<br>●      Demand and Supply (Interactions, Changes and Price)<br>●      Market Equilibrium</td>
+    <td class="tg-fwnj">Pupils will learn basic economics concepts<br>●      Free Market Competition<br>●      Oligopoly<br>●      Monopolistic Competition<br>●      Monopoly<br>●      Goals of Entrepreneurs (Profit and Organisational Growth)<br>●      Product Differentiation and Price Competition<br>This module allows pupils to apply what they have learnt in Primary 4. </td>
+    <td class="tg-fwnj">Pupils will be engaged in market survey process. Pupils will set up their own stalls to sell items to P2 pupils through the Rulang Market. Basic marketing strategies will be introduced to the pupils. It will allow pupils to engage in efficient and effective teamwork through respecting one another’s differences.  This module allows pupils to apply what they have learnt in Primary 4 and 5.</td>
+  </tr>
+  <tr>
+    <td class="tg-9u4g">Innovention<br>   <br>HOD in-charge:<br>Mr Goh Wei Howe</td>
+    <td class="tg-fwnj" colspan="2">Pupils learn to apply Science concepts, process skills and processes through innovation and invention by creating their own invention at different levels:<br>●      Understand the difference between “Invention” and “Innovation”<br>●      Apply SCAMPER techniques as an idea generating tool to solve the problem<br>●      Identify and select a problem around them that they would like to solve<br>●      Analyse on existing product to be improved upon<br>●      Collect information for idea survey<br>Presentation of completed sketch for new product invention</td>
+    <td class="tg-fwnj">Through this programme, pupils will acquire new Science concepts and process skills which they will build on and apply them through brainstorming and creative problem solving. This provides pupils with opportunities to apply innovative protocol to conceive ideas and transform it into an invention of a Science toy or gadget in a systematic and orderly manner. In addition, it also help to promote collaboration and effective communication among pupils in the process of completing their tasks.</td>
+  </tr>
+</tbody>
+</table>
