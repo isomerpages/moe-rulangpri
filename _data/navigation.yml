@@ -2,9 +2,11 @@ logo: /images/logo.png
 links:
   - title: About Rulang
     collection: about-rulang
+  - title: "Rulang Learning Experience "
+    collection: rulang-learning-experiences
+  - title: General Information
+    collection: general-information
   - title: Achievements & Events
     collection: events-and-achievements
   - title: Rulang Stakeholder & Partners
     collection: stakeholders-and-partners
-  - title: "Rulang Learning Experience "
-    collection: rulang-learning-experiences
