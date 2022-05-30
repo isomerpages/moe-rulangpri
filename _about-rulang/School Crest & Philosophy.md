@@ -5,7 +5,9 @@ description: ""
 ---
 # School Crest and Philosophy
 
-![](/images/03_School%20Crest.png)
+<img src="/images/03_School%20Crest.png" 
+     style="width:50%">
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
