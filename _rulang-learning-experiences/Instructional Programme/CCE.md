@@ -6,6 +6,7 @@ third_nav_title: Instructional Programme
 ---
 # CCE
 **Vision**
+
 Self-disciplined and Gracious Rulangnites
 
 **Mission**
