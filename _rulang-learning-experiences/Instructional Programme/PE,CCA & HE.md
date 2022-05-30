@@ -25,7 +25,7 @@ In addition, PE provides a natural platform and valuable opportunities to inculc
 **Principles of Teaching and Learning**
 
 <img src="/images/Skipfest%20(1).jpg" 
-     style="width:70%">
+     style="width:50%">
 
 The PE syllabus focuses on developing pupils’ motor and game skills and equipping them with the knowledge, skills and attitudes to pursue and enjoy a physically active and healthy lifestyle.
 
