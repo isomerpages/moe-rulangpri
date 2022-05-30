@@ -21,35 +21,55 @@ English, like all other languages, is a means of communication and expression. E
 
 # Examples of Language Activites
 
-![](/images/English%20Activities_Picture%201_Bollywood.jpg)
+<img src="/images/English%20Activities_Picture%201_Bollywood.jpg" 
+     style="width:70%">
+
 *SEEDSTELLAR cum SEED-based experiential learning journey to Bollywood Veggies Farm for Primary One pupils where they get to explore and develop a sense of wonder and curiosity about the environment and nature.*
 
-![](/images/English%20Activities_Picture%202_MLEA.jpg)
+<img src="/images/English%20Activities_Picture%202_MLEA.jpg" 
+     style="width:70%">
+
 **Modified Language Experience Approach (MLEA)**
 *Hands-on activity where pupils learn, by demonstration and experiment, how to pot their own plants.*
 
-![](/images/English%20Activities_Picture%203_MRL%20Week.jpg)
+<img src="/images/English%20Activities_Picture%203_MRL%20Week.jpg" 
+     style="width:70%">
+
+
 **Media Resource Library (MRL) Week**
+
 *I-Read Book Recommendation Poster Competition in conjunction with MRL Week. Pupils create posters to encourage their peers to read the books that they have recommended*
 
-![](/images/English%20Activities_Picture%204_Winners%20for%20IRead%20Posters.jpg)
+<img src="/images/English%20Activities_Picture%204_Winners%20for%20IRead%20Posters.jpg" 
+     style="width:70%">
+
 *Winners of I-Read Book Recommendation Poster Competition*
 
-![](/images/English%20Activities_Picture%205_MRL%20cum%20Aesthetic%20Week.jpg)
+<img src="/images/English%20Activities_Picture%205_MRL%20cum%20Aesthetic%20Week.jpg" 
+     style="width:70%">
+
 **MRL Cum Aesthetics Week**
+
 *Primary One pupils put up a short skit on their favourite fruit.*
 
-![](/images/English%20Activities_Picture%206_Shared%20Book%20Approach.jpg)
+<img src="/images/English%20Activities_Picture%206_Shared%20Book%20Approach.jpg" 
+     style="width:70%">
+
 **Shared Book Approach** – Big book reading
 
-![](/images/English%20Activities_Picture%207_Differeniated%20learning.jpg)
+<img src="/images/English%20Activities_Picture%207_Differeniated%20learning.jpg" 
+     style="width:70%">
+
 **Differentiated Learning**<br>
 *through Learning Centres - World Study Centre*
 
-![](/images/English%20Activities_Picture%208_Listening%20Centre.jpg)
+<img src="/images/English%20Activities_Picture%208_Listening%20Centre.jpg" 
+     style="width:70%">
+
 **Differentiated Learning**<br>
 *through Learning Centres - World Study Centre*
 
-![](/images/English%20Activities_Picture%209_Group%20Writing.jpg)
+<img src="/images/English%20Activities_Picture%209_Group%20Writing.jpg" 
+     style="width:70%">
+
 **Collaborative Learning** - Group Writing
-
