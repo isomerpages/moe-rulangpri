@@ -8,11 +8,14 @@ third_nav_title: Instructional Programme
 ## ICT / Innovation & Niche / PW / MRL
 
 **Vision**
+
 **“Everyone Can Do IT”**
 
 The ICT committee envisions Information and Communication Technology (ICT) to be encompassed within the overall culture of the school through its infusion into the school’s standard processes including, delivery of lessons, developing process skills for knowledge acquisition, promotion of creative thinking, people development, and application of appropriate tools for enhanced efficiency in administration.
 
-![](/images/IMG-20170605-WA0015.jpg)
+<img src="/images/IMG-20170605-WA0015.jpg" 
+     style="width:80%">
+
 
 The four words articulated in the vision express for whom, how and why ICT is implemented:
 
