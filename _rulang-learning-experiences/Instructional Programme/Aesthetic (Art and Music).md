@@ -101,7 +101,9 @@ Drawing and Painting Lesson
 Gallery Walk & Art Appreciation Lesson
 ![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Gallery%20Walk%203.jpg)
 Doodling with Clay Lesson
-![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Doodling%20with%20Clay%204.jpg)
+<img src="/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Doodling%20with%20Clay%204.jpg" 
+     style="width:65%">
+
 Sculpture Making
 ![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Sculpture.jpg)
 **P3 and P4 Visual Arts Curriculum**<br>
