@@ -95,7 +95,9 @@ The spiral art curriculum, which is built upon the previous level on a yearly ba
 **P1 and P2 Visual Arts Curriculum**<br>
 Drawing and Painting Lesson
 ![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Drawing%20Painting%201.jpg)
-![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Drawing%20Painting%202.jpg)
+<img src="/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Drawing%20Painting%202.jpg" 
+     style="width:70%">
+
 Gallery Walk & Art Appreciation Lesson
 ![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Gallery%20Walk%203.jpg)
 Doodling with Clay Lesson
