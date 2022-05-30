@@ -11,8 +11,9 @@ Effective Mother Tongue Language Communicators
 
 **Philosophy**
 
+
 <img src="/images/Mother%20Tongue%20Pic1.jpg" 
-     style="width:50%">
+     style="width:40%">
 
 The Mother Tongue department believes that with the creation of a conducive environment that promotes listening, speaking, reading, writing and cultural values, every pupil would love and excel in his/her Mother Tongue Language to the highest level that he/she is capable of.
 
