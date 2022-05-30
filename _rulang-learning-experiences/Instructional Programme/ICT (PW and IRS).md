@@ -131,7 +131,7 @@ Rulang Primary School has mapped a learning journey so that interesting and dive
 **Objectives**
 
 <img src="/images/picture%201.jpg" 
-     style="width:50%">
+     style="width:30%">
 
 The Media Resource Library strives to provide opportunities for pupils to develop their enjoyment, confidence and independence in learning and using multi-media resources.
 
