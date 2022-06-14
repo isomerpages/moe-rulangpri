@@ -97,8 +97,11 @@ The spiral art curriculum, which is built upon the previous level on a yearly ba
 <img src="/images/04%20Visual%20Arts%20Education%20in%20Rulang.jpg" 
      style="width:60%">
 **I Love Pottery**
-![](/images/05%20I%20love%20Pottery%201.jpg)
-![](/images/05%20I%20love%20Pottery%202.jpg)
+
+<img src="/images/05%20I%20love%20Pottery%201.jpg" 
+     style="width:60%">
+<img src="/images/05%20I%20love%20Pottery%202.jpg" 
+     style="width:60%">
 **P1 and P2 Visual Arts Curriculum**<br>
 Drawing and Painting Lesson
 ![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Drawing%20Painting%201.jpg)
@@ -115,9 +118,12 @@ Sculpture Making
 ![](/images/06%20P1%20P2%20Visual%20Arts%20Curriculum%20-%20Sculpture.jpg)
 **P3 and P4 Visual Arts Curriculum**<br>
 Paper Sculpting Lesson
-![](/images/07%20P3%20P4%20Visual%20Arts%20Curriculum%20-%20Paper%20Sculpting%201.jpg)
+
+<img src="/images/07%20P3%20P4%20Visual%20Arts%20Curriculum%20-%20Paper%20Sculpting%201.jpg" 
+     style="width:65%">
 Drawing and Painting Lesson
 ![](/images/07%20P3%20P4%20Visual%20Arts%20Curriculum%20-%20Drawing%20and%20Painting.jpg)
+
 Digital Art using Wacom Pad
 ![](/images/07%20P3%20P4%20Visual%20Arts%20Curriculum%20-%20Museum%20Based%20Learning%204.jpg)
 P5 and P6 Visual Arts Curriculum
@@ -127,7 +133,8 @@ Still Life Drawing: "Inspired by Georgette Chan"
 ![](/images/08%20P5%20P6%20Visual%20Arts%20Curriculum%20-%20Still%20Life%203.jpg)
 
 # Music
-![](/images/09%20Music%20Framewok%20in%20Rulang.jpg)
+<img src="/images/09%20Music%20Framewok%20in%20Rulang.jpg" 
+     style="width:60%">
 Rulang’s pupils are given opportunities to develop their creativity, express and showcase themselves through various platforms and appreciate Singapore’s multi-cultural heritage through diverse learning experiences in Music throughout their primary school years. Thus, these provides opportunities for our pupils to demonstrate teamwork, values in action, develop social-emotional skills and leadership qualities which in turn hone the 21st century competencies.
 **P1 and P2 Music Curriculum**
 ![](/images/09%20P1%20P2%20Music%20Curriculum%201.jpg)
