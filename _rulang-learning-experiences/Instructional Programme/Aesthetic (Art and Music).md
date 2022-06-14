@@ -128,9 +128,14 @@ Digital Art using Wacom Pad
 ![](/images/07%20P3%20P4%20Visual%20Arts%20Curriculum%20-%20Museum%20Based%20Learning%204.jpg)
 P5 and P6 Visual Arts Curriculum
 Still Life Drawing: "Inspired by Georgette Chan"
-![](/images/08%20P5%20P6%20Visual%20Arts%20Curriculum%20-%20Still%20Life%201.jpg)
-![](/images/08%20P5%20P6%20Visual%20Arts%20Curriculum%20-%20Still%20Life%202.jpg)
-![](/images/08%20P5%20P6%20Visual%20Arts%20Curriculum%20-%20Still%20Life%203.jpg)
+<img src="/images/08%20P5%20P6%20Visual%20Arts%20Curriculum%20-%20Still%20Life%201.jpg" 
+     style="width:50%">
+
+<img src="/images/08%20P5%20P6%20Visual%20Arts%20Curriculum%20-%20Still%20Life%202.jpg" 
+     style="width:50%">
+<img src="/images/08%20P5%20P6%20Visual%20Arts%20Curriculum%20-%20Still%20Life%203.jpg" 
+     style="width:50%">
+
 
 # Music
 <img src="/images/09%20Music%20Framewok%20in%20Rulang.jpg" 
