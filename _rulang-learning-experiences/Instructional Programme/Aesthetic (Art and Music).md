@@ -10,13 +10,16 @@ third_nav_title: Instructional Programme
 Reflective, Proactive and Sagacious aesthetes in a vibrant community
 
 **Philosophy**
-![](/images/01%20Philosophy.jpg)
+<img src="/images/01%20Philosophy.jpg" 
+     style="width:70%">
 The pervasiveness of the Aesthetics in the holistic development in our pupils cannot be under-estimated. It plays a vital role in the holistic development of our pupils and is very much prevalent in our daily lives.
 
 In Rulang, we strive to equip our pupils with creativity and build self-esteem and confidence in them, and in the process, open doors to imagination and discovery. Daniel H.Pink (2005) stated that, “ the left hemisphere knows how to handle logic and the right hemisphere knows the world. Put the two together and one gets a powerful thinking machine.”. Hence it is crucial that our pupils attain the skills and processes in these areas during their fundamental years to enable them to develop and grow to their fullest potential. All Rulangnites are given the opportunity to explore the audio and visual world, communicate thoughts and feelings and form concepts about themselves and their environment. Aesthetics Education in Rulang is embraced through a developmental approach in equipping foundational skills in areas like visual arts, performing arts, literary arts and music.
 
 **Key Learning Experiences**
-![](/images/02%20Objectives.jpg)
+<img src="/images/02%20Objectives.jpg" 
+     style="width:70%">
+
 **Objectives:**<br>
 The objectives and outcomes of Art & Craft and Music are to:
 * Promote interest of the pupils in the Arts to enable them to find an area of interest that they can excel in
@@ -25,8 +28,10 @@ The objectives and outcomes of Art & Craft and Music are to:
 *  Cater to the needs of pupils who are talented in a specific area of the Arts and they are presented with the opportunity to learn, grow and develop themselves in the areas they excel in.
 
 **Desired Outcomes**
-![](/images/03%20Desired%20Outcome%201.jpg)
-![](/images/03%20Desired%20Outcome%202.jpg)
+<img src="/images/03%20Desired%20Outcome%201.jpg" 
+     style="width:70%">
+<img src="/images/03%20Desired%20Outcome%202.jpg" 
+     style="width:70%">
 
 Through the school’s Aesthetics Education, we aim to develop in pupils:
 * Pupils are able to acquire an appreciation of the Aesthetics
@@ -88,7 +93,9 @@ Rulang Primary School promotes excellence in the Visual Arts by providing opport
 The spiral art curriculum, which is built upon the previous level on a yearly basis, also aims to expose pupils to different mediums as well as art forms. This is to enhance their creative and expressive capacities, thereby boosting their confidence and abilities. Pupils who develop a special interest or display artistic talent in specific areas are given further opportunities to specialise and develop their potential in the respective art forms. Through these programmes, Rulang pupils will be guided towards excellence in both the national and international arena.
 
 **Visual Art Curriculum Plan**
-![](/images/04%20Visual%20Arts%20Education%20in%20Rulang.jpg)
+
+<img src="/images/04%20Visual%20Arts%20Education%20in%20Rulang.jpg" 
+     style="width:60%">
 **I Love Pottery**
 ![](/images/05%20I%20love%20Pottery%201.jpg)
 ![](/images/05%20I%20love%20Pottery%202.jpg)
