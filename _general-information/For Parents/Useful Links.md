@@ -53,7 +53,8 @@ https://www.imda.gov.sg/programme-listing/neu-pc-plus
 
 **Schoolbag.sg** is an online publication by the Ministry of Education. We provide parents, educators and the general public with education news, school features and tips.
 
-![](/images/SchoolBag.png)
+<img src="/images/SchoolBag.png" 
+     style="width:40%">
 
 https://www.schoolbag.edu.sg/
 
