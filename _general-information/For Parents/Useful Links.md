@@ -4,18 +4,18 @@ permalink: /for-parents/useful-links
 description: ""
 third_nav_title: For Parents
 ---
-
 # Useful Links
 
-![](/images/download.png)
+<img src="/images/download.png" 
+     style="width:60%">
 [MOE website](https://www.moe.gov.sg/primary)
 
 | |   |   |
 |---|---|---|
 |  |   |   |
 
-
-![](/images/parents%20gateway.png)
+<img src="/images/parents%20gateway.png" 
+     style="width:30%">
 
 For more information on how to use Parents Gateway, click to:
 * <iframe width="560" height="315" src="https://www.youtube.com/embed/29H_d-l5H0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,9 +27,8 @@ For more information on how to use Parents Gateway, click to:
 |---|---|---|
 |  |   |   |
 
-
-
-![](/images/parentingmoe.jpg)
+<img src="/images/parentingmoe.jpg" 
+     style="width:30%">
 *   [Instagram](https://www.instagram.com/parentingwith.moesg/)
 *   [Parent Kit](https://www.moe.gov.sg/parentkit)
 
@@ -42,7 +41,9 @@ For more information on how to use Parents Gateway, click to:
 **NEU PC Plus Programme** aims to make digitalisation more accessible to low-income households with students or persons who require digital access for home-based learning.
 
 
-![](/images/NEU-PC-Plus-Programme.png)
+
+<img src="/images/NEU-PC-Plus-Programme.png" 
+     style="width:40%">
 https://www.imda.gov.sg/programme-listing/neu-pc-plus
 
 
@@ -61,4 +62,3 @@ https://www.schoolbag.edu.sg/
 |  |   |   |
 
 **NLB Raising Readers** is an introductory guide by the National Library Board to raising your child to be invested readers.
-
