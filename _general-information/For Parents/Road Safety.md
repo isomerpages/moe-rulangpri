@@ -1,10 +1,9 @@
 ---
 title: Road Safety
-permalink: /for-parents/road-safety
+permalink: /for-parents/road-safety/
 description: ""
 third_nav_title: For Parents
 ---
-
 # Road Safety
 The area adjacent to the school main entrance has been demarcated as non-stopping/non-waiting area. Parents are advised not to make U-turns in front of our main gate as this will hold up the traffic and worsen the traffic situation in our school compound.
 
@@ -40,13 +39,3 @@ We would like to take this opportunity to remind parents of the following safety
 As the safety of our children is of utmost importance, your kind understanding and support towards our safety measures put in place would be greatly appreciated. Thank you.
 
 
-**Group Personal Accident (GPA) Insurance**
-
-All MOE-Registered students in Rulang Primary School are covered by NTUC INCOME under the Group Personal Accident (GPA) Insurance for students. 
-
-
-If you want more information on the **Product Fact Sheet** that explains the benefit/sum, please click [HERE](/files/GPA%20Product%20Fact%20Sheet%202022.pdf).
-
- 
-
-If you are a Parent/Guardian wanting to **submit a claim for your child**, please click here for [ONLINE SUBMISSION](https://studentgpa.incomegroupins.com.sg/#/)
