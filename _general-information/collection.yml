@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - For Parents/Group Personal Accident (GPA) Insurance.md
       - For Parents/.keep
       - For Parents/Useful Links.md
       - For Parents/Cyber Wellness.md
