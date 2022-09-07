@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - For Parents/School Fees.md
       - For Parents/.keep
       - For Parents/Useful Links.md
       - For Parents/Cyber Wellness.md
@@ -11,6 +10,7 @@ collections:
       - For Parents/Parent Support Group.md
       - For Parents/Road Safety.md
       - For Parents/Group Personal Accident (GPA) Insurance.md
+      - For Parents/School Fees.md
       - For Parents/School Services Contact.md
       - For Parents/Share a Compliment.md
       - For Parents/Subject Based Banding Brochure.md
