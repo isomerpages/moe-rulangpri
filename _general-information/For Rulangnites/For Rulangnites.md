@@ -4,7 +4,7 @@ permalink: /for-rulangnites-and-teachers/for-rulangnites/
 description: ""
 third_nav_title: For Rulangnites
 ---
-# For Rulangnites
+# Useful Links
 
 Dear Rulangnites,
 
