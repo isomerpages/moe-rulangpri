@@ -7,5 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/rulang-1-gif-maker.gif
+      background: /images/rulang-gif-maker.gif
 ---
