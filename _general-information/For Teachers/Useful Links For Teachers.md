@@ -4,9 +4,7 @@ permalink: /for-rulangnites-and-teachers/for-teachers/
 description: ""
 third_nav_title: For Teachers
 ---
-
-
-# For Teachers
+# Useful Links
 **Websites that requires SSOE Network or VPN to access the website.**
 
 
