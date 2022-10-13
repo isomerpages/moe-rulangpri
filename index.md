@@ -8,5 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/website-banner-new.gif
+  - infopic:
+      title: Test
+      subtitle: Test
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
-
