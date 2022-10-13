@@ -2,7 +2,6 @@ collections:
   about-rulang:
     output: true
     order:
-      - Rulang Virtual Tour.md
       - School's History.md
       - Principal's Message.md
       - Our Rulang Family/.keep
@@ -15,3 +14,4 @@ collections:
       - School Song.md
       - True Hearts Culture.md
       - Strategic Thrust.md
+      - Rulang Virtual Tour.md
