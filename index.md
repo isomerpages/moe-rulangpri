@@ -7,5 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/website-banner-with-squigly-chinese-shape.gif
+      background: /images/website-banner-with-chinese-shape-3M.gif
 ---
