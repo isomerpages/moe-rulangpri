@@ -4,7 +4,6 @@ permalink: /for-parents/useful-links/
 description: ""
 third_nav_title: For Parents
 ---
-
 # Useful Links
 
 <img src="/images/download.png" 
@@ -45,7 +44,7 @@ For more information on how to use Parents Gateway, click to:
 
 <img src="/images/NEU-PC-Plus-Programme.png" 
      style="width:40%">
-https://www.imda.gov.sg/programme-listing/neu-pc-plus
+[NEU PC](https://www.imda.gov.sg/programme-listing/neu-pc-plus)
 
 
 | |   |   |
@@ -57,7 +56,7 @@ https://www.imda.gov.sg/programme-listing/neu-pc-plus
 <img src="/images/SchoolBag.png" 
      style="width:40%">
 
-https://www.schoolbag.edu.sg/
+[School Bag](https://www.schoolbag.edu.sg/)
 
 | |   |   |
 |---|---|---|
