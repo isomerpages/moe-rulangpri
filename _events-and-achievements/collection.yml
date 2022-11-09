@@ -1,0 +1,8 @@
+collections:
+  events-and-achievements:
+    output: true
+    order:
+      - Rulangnites' Achievements.md
+      - 90th Anniversary.md
+      - Singapore Book of Records (Largest National Flag).md
+      - Event Photos.md
