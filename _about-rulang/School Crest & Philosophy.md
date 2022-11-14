@@ -1,13 +1,13 @@
 ---
 title: School Crest & Philosophy
-permalink: /about-rulang/school-crest-n-philosophy
+permalink: /about-rulang/school-crest-n-philosophy/
 description: ""
 ---
+
 # School Crest and Philosophy
 
 <img src="/images/03_School%20Crest.png" 
      style="width:50%">
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -43,6 +43,5 @@ description: ""
 </table>
 
 # School Philosophy
-
 
 We believe that given the right environment and support, every Rulangnite can EXCEL.

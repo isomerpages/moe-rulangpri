@@ -1,10 +1,12 @@
 ---
 title: Aesthetic (Art and Music)
-permalink: /rulang-learning-experiences/Instructional-Programme/aesthetic-art-and-music
+permalink: /rulang-learning-experiences/Instructional-Programme/aesthetic-art-and-music/
 description: ""
 third_nav_title: Instructional Programme
 ---
+
 # Aesthetics
+
 **Vision**
 
 Reflective, Proactive and Sagacious aesthetes in a vibrant community
@@ -22,10 +24,11 @@ In Rulang, we strive to equip our pupils with creativity and build self-esteem a
 
 **Objectives:**<br>
 The objectives and outcomes of Art & Craft and Music are to:
-* Promote interest of the pupils in the Arts to enable them to find an area of interest that they can excel in
-*  Provide pupils an avenue to showcase their aesthetic talents during their primary school education in Rulang.
-*  Expose pupils to the various forms of the Arts, the opportunity to learn and develop skills and talents in the Arts in provided
-*  Cater to the needs of pupils who are talented in a specific area of the Arts and they are presented with the opportunity to learn, grow and develop themselves in the areas they excel in.
+
+- Promote interest of the pupils in the Arts to enable them to find an area of interest that they can excel in
+- Provide pupils an avenue to showcase their aesthetic talents during their primary school education in Rulang.
+- Expose pupils to the various forms of the Arts, the opportunity to learn and develop skills and talents in the Arts in provided
+- Cater to the needs of pupils who are talented in a specific area of the Arts and they are presented with the opportunity to learn, grow and develop themselves in the areas they excel in.
 
 **Desired Outcomes**
 <img src="/images/03%20Desired%20Outcome%201.jpg" 
@@ -34,10 +37,11 @@ The objectives and outcomes of Art & Craft and Music are to:
      style="width:70%">
 
 Through the school’s Aesthetics Education, we aim to develop in pupils:
-* Pupils are able to acquire an appreciation of the Aesthetics
-* Pupils are provided with avenues to harness their aesthetics talents
-* Pupils are confident in expressing themselves in the Aesthetics
-* Pupils are imaginative in the Arts / Music creation
+
+- Pupils are able to acquire an appreciation of the Aesthetics
+- Pupils are provided with avenues to harness their aesthetics talents
+- Pupils are confident in expressing themselves in the Aesthetics
+- Pupils are imaginative in the Arts / Music creation
 
 **Ability-driven and Differentiated Teaching and Learning Programmes**<br>
 In harnessing potential as well as capabilities in pupils, Aesthetic programme is differentiated to meet the learning needs of different groups of pupils. This notion is clearly charted below:
@@ -86,6 +90,7 @@ In harnessing potential as well as capabilities in pupils, Aesthetic programme i
 </table>
 
 # Visual Arts
+
 **Rulang Aesthetics Xcellent (RAX)**
 
 Rulang Primary School promotes excellence in the Visual Arts by providing opportunities for every pupil to experience it through: creative and fun lessons, learning journeys and assembly programmes. These authentic experiences in our Visual Arts Programme provide platforms for pupils to develop skills such as observation, interpretation and valuing diversity.
@@ -136,8 +141,8 @@ Still Life Drawing: "Inspired by Georgette Chan"
 <img src="/images/08%20P5%20P6%20Visual%20Arts%20Curriculum%20-%20Still%20Life%203.jpg" 
      style="width:50%">
 
-
 # Music
+
 <img src="/images/09%20Music%20Framewok%20in%20Rulang.jpg" 
      style="width:50%">
 Rulang’s pupils are given opportunities to develop their creativity, express and showcase themselves through various platforms and appreciate Singapore’s multi-cultural heritage through diverse learning experiences in Music throughout their primary school years. Thus, these provides opportunities for our pupils to demonstrate teamwork, values in action, develop social-emotional skills and leadership qualities which in turn hone the 21st century competencies.

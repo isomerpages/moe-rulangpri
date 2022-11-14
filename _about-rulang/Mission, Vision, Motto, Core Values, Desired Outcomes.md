@@ -1,8 +1,9 @@
 ---
 title: Mission, Vision, Motto, Core Values, Desired Outcomes
-permalink: /about-rulang/mission-vision-motto-core-values-desired-outcomes
+permalink: /about-rulang/mission-vision-motto-core-values-desired-outcomes/
 description: ""
 ---
+
 # Mission, Vision, Motto, Core Values, Desired Outcomes
 
 ![](/images/3%201.jpg)

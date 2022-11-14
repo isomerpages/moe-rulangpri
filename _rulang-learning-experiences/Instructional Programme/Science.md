@@ -1,10 +1,12 @@
 ---
 title: Science
-permalink: /rulang-learning-experiences/Instructional-Programme/science
+permalink: /rulang-learning-experiences/Instructional-Programme/science/
 description: ""
 third_nav_title: Instructional Programme
 ---
+
 # Science
+
 **Vision**
 
 Inquiring Minds, Lifelong Learners
@@ -20,7 +22,7 @@ In Rulang, Science is celebrated through multi-faceted activities at different l
 The Science Belt is a conducive environment for the learning of Science at a young age. It enables pupils to acquire Science concepts and apply process skills in a real and vibrant learning environment. Pupils learn more about Science concepts such as reproduction of plants, adaptations of aquatic plants and the life cycle of butterflies through observation and experiential learning. This would also give pupils the platform to harness their creativity while acquiring basic scientific concepts.
 
 ![](/images/P3240706.jpg)
-To ignite pupils’ passion in Science, interconnectedness and relevance of the subject is made prevalent in our 
+To ignite pupils’ passion in Science, interconnectedness and relevance of the subject is made prevalent in our
 annual event, Nature Walk cum Sensory Trail. It is a deliberate attempt to provide opportunities for inquiry learning to take place in an informal setting. Pupils complete differentiated level activities which infuse English, Mother Tongue, Mathematics, National Education and Information and Communication Technology for different application of scientific concepts.
 
 ![](/images/P3240609.jpg)

@@ -1,10 +1,10 @@
 ---
 title: Programme for Active Learning
-permalink: /rulang-learning-experiences/programme-for-active-learning
+permalink: /rulang-learning-experiences/programme-for-active-learning/
 description: ""
 ---
-# Programme for Active Learning
 
+# Programme for Active Learning
 
 **Programme for Active Learning (PAL)**
 
@@ -12,28 +12,21 @@ In Rulang Primary School, all Primary 1 and 2 pupils undergo PAL modules as part
 
 The implementation of PAL provides additional platforms to realise the desired outcomes of education, i.e. for every pupil to be a **confident** **person**, a **self-directed** **learner**, an **active** **contributor** and a **concerned** **citizen** as reflected in the objectives of the programme below.
 
-To develop  
+To develop
 
-*   confidence as they enjoy individual and group experiences through active participation   
-    
-*   self-directed learners with a social conscience to want to contribute to society at large   
-    
-*   a sense of curiosity, creativity and adaptability as a result of their PAL experiences   
-    
-*   self-expression of thoughts and ideas through experimentation
+- confidence as they enjoy individual and group experiences through active participation
+- self-directed learners with a social conscience to want to contribute to society at large
+- a sense of curiosity, creativity and adaptability as a result of their PAL experiences
+- self-expression of thoughts and ideas through experimentation
 
+The philosophy that guides us in the PAL implementation is our belief in providing a supportive and inviting social environment to make learning fun and engaging. With that, PAL lessons are crafted based on the unique **P.R.I.S.M** strategy- **Play. Rehearse. Internalise. Shine. Motivate.**
 
-The philosophy that guides us in the PAL implementation is our belief in providing a supportive and inviting social environment to make learning fun and engaging. With that, PAL lessons are crafted based on the unique **P.R.I.S.M** strategy- **Play. Rehearse. Internalise. Shine. Motivate.**  
-  
 In summary, PAL aims to facilitate the well-rounded development of pupils in the five learning domains (cognitive, moral, social, aesthetics and physical) and help pupils to develop social emotional competencies.
 
-
 **Primary 1 (ILOVEKampung Games)**
-  
-  
+
 **Primary 1 (ILOVEArtyfacts)**
-  
-  
+
 **Primary 1 (ILOVEDance ‘n’ Drama)**
 
 **Primary 2 (IYMusic)**

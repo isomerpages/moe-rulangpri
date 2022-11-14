@@ -1,11 +1,12 @@
 ---
 title: Co Curricular Special Programme (CCSP)
-permalink: /rulang-learning-experiences/co-curricular-special-programme-ccsp
+permalink: /rulang-learning-experiences/co-curricular-special-programme-ccsp/
 description: ""
 ---
+
 # Co-Curricular Special Programme (CCSP)
 
-**Overview of CCAs 2021**  
+**Overview of CCAs 2021**
 
 **CCAs on Mondays**
 

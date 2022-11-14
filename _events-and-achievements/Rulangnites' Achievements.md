@@ -1,6 +1,6 @@
 ---
 title: Rulangnites' Achievements
-permalink: /events-and-achievements/rulangnites-achievements
+permalink: /events-and-achievements/rulangnites-achievements/
 description: ""
 ---
 
@@ -56,7 +56,8 @@ description: ""
 ![](/images/TL%202.png)
 ![](/images/TL%203.png)
 
-# ROBOTICS 
+# ROBOTICS
+
 ![](/images/ROBOTICS%201.png)
 ![](/images/ROBOTICS%202.png)
 ![](/images/ROBOTICS%203.png)
