@@ -10,6 +10,6 @@ third_nav_title: Our Rulang Family
 
 ![School Leaders 2023](/images/School_Leaders_2023.png)
 
-![](/images/HOD%202022%20NEW.png)
+![HOD 2023](/images/HOD_LT_2023.png)
 
-![](/images/Year%20head%20Subject%20head%202022%20NEW.png)
+![YH_SH_LH](/images/YH_SH_LH_2023.png)
