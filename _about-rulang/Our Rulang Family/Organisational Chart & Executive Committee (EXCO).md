@@ -6,7 +6,7 @@ third_nav_title: Our Rulang Family
 ---
 # Organisational Chart - Executive Committee (EXCO)
 
-![](/images/Leadership%20Team%202022.jpg)
+![leadership team 2023](/images/leadership_team_2023.png)
 
 ![School Leaders 2023](/images/School_Leaders_2023.png)
 
