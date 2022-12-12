@@ -4,7 +4,6 @@ permalink: /our-rulang-family/school-leaders/
 description: ""
 third_nav_title: Our Rulang Family
 ---
-
 ![](/images/SLs%202022.jpg)
 _\[From Left to Right\]_
 
@@ -23,6 +22,10 @@ Email: [Tracy_TAN@schools.gov.sg](mailto:Tracy_TAN@schools.gov.sg)
 **Vice-Principal**  
 Dr Choong Pek Lan   
 Email: [Choong_Pek_Lan@schools.gov.sg](mailto:Choong_Pek_Lan@schools.gov.sg)
+
+**Vice-Principal**  
+Mr Toh Jin Tian    
+Email: [Toh_Jin_Tian@schools.gov.sg](mailto:TOH_Jin_Tian@schools.gov.sg)
 
 **Vice-Principal (Admin)**  
 Mr Philip Justin Moorthy  
