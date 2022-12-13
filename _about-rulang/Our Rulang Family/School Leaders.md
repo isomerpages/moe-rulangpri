@@ -13,6 +13,7 @@ _Ms Tracy Tan I-Lian (Principal)_
 
 _Mr Philip Justin Moorthy (Vice-Principal, Admin)_
 
+_*Not in photo: Mr Toh Jin Tian (Vice-Principal)_
 # Contact
 
 **Principal**  
