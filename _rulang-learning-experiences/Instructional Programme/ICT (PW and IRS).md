@@ -1,10 +1,12 @@
 ---
 title: ICT (PW and IRS)
-permalink: /rulang-learning-experiences/Instructional-Programme/ict-pw-and-irs
+permalink: /rulang-learning-experiences/Instructional-Programme/ict-pw-and-irs/
 description: ""
 third_nav_title: Instructional Programme
 ---
+
 # ICT (PW and IRS)
+
 ## ICT / Innovation & Niche / PW / MRL
 
 **Vision**
@@ -15,7 +17,6 @@ The ICT committee envisions Information and Communication Technology (ICT) to be
 
 <img src="/images/IMG-20170605-WA0015.jpg" 
      style="width:80%">
-
 
 The four words articulated in the vision express for whom, how and why ICT is implemented:
 
@@ -64,9 +65,9 @@ Stakeholders who are well-versed in ICT also enhance the effectiveness and effic
 
 **The objectives of the ICT programmes are to:**
 
-* Provide pupils with ICT enriched learning experiences and focusing on SDL and CoL.
-* Provide opportunities for pupils to see the relevance of cyber wellness to their lives and acquire key cyber wellness skills.
-* Provide accessibility of ICT to pupils through more flexible and mobile infrastructure provision.
+- Provide pupils with ICT enriched learning experiences and focusing on SDL and CoL.
+- Provide opportunities for pupils to see the relevance of cyber wellness to their lives and acquire key cyber wellness skills.
+- Provide accessibility of ICT to pupils through more flexible and mobile infrastructure provision.
 
 **Desired Outcomes**
 
@@ -106,6 +107,7 @@ In harnessing potential as well as capabilities in pupils, ICT programme is diff
 ![](/images/IMG-20170605-WA0032.jpg)
 
 # Media Resource Library
+
 **Vision**
 
 A haven where a community of learners becomes scholars.
@@ -124,7 +126,6 @@ Rulang Primary School has mapped a learning journey so that interesting and dive
 
 <img src="/images/20170803_091336.jpg" 
      style="width:50%">
-		 
 <img src="/images/20170803_091426.jpg" 
      style="width:50%">
 

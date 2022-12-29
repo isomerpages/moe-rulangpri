@@ -1,13 +1,9 @@
 ---
 title: Staff Email List
-permalink: /our-rulang-family/staff-email-list
+permalink: /our-rulang-family/staff-email-list/
 description: ""
 third_nav_title: Our Rulang Family
 ---
-
-
-
-
 
 # Staff Email List
 
@@ -229,6 +225,7 @@ third_nav_title: Our Rulang Family
 </table>
 
 **Primary 1 Form Teachers**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -300,6 +297,7 @@ third_nav_title: Our Rulang Family
 </table>
 
 **Primary 2 Form Teachers**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -372,6 +370,7 @@ third_nav_title: Our Rulang Family
 </table>
 
 **Primary 3 Form Teachers**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -634,6 +633,7 @@ third_nav_title: Our Rulang Family
 </table>
 
 **Mother Tongue Teachers**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -855,6 +855,7 @@ third_nav_title: Our Rulang Family
 </table>
 
 **Other Teaching Staff**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -1074,6 +1075,7 @@ third_nav_title: Our Rulang Family
 </table>
 
 **Executive and Administrative Staff**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -1149,12 +1151,3 @@ third_nav_title: Our Rulang Family
   </tr>
 </tbody>
 </table>
-
-
-
-
-
-
-
-
-

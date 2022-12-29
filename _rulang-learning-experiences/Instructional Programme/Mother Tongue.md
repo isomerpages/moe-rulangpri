@@ -1,16 +1,17 @@
 ---
 title: Mother Tongue
-permalink: /rulang-learning-experiences/Instructional-Programme/mother-tongue
+permalink: /rulang-learning-experiences/Instructional-Programme/mother-tongue/
 description: ""
 third_nav_title: Instructional Programme
 ---
+
 # Mother Tongue
+
 **Vision**
 
 Effective Mother Tongue Language Communicators
 
 **Philosophy**
-
 
 <img src="/images/Mother%20Tongue%20Pic1.jpg" 
      style="width:40%">

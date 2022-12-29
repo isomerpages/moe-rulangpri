@@ -1,19 +1,18 @@
 ---
 title: West Zone Centre of Excellence (Robotics)
-permalink: /rulang-learning-experiences/ALP-and-LLP/west-zone-centre-of-excellence-robotics
+permalink: /rulang-learning-experiences/ALP-and-LLP/west-zone-centre-of-excellence-robotics/
 description: ""
 third_nav_title: ALP & LLP
 ---
+
 # West Zone Centre of Excellence (Robotics)
 
-
-In line with MOE’s direction of ‘Teach Less, Learn More’ (TLLM), Robotics has been introduced and integrated into Rulang Primary School’s formal curriculum to complement the shift in focus of our education system from quantity to quality teaching and learning since 2005. The school’s Robotics education comprises different programmes catering for different purposes: mass participation, interest groups and talent development. It empowers pupils to learn through experience and exposure, along with specially-planned activities to enable talent development.  
+In line with MOE’s direction of ‘Teach Less, Learn More’ (TLLM), Robotics has been introduced and integrated into Rulang Primary School’s formal curriculum to complement the shift in focus of our education system from quantity to quality teaching and learning since 2005. The school’s Robotics education comprises different programmes catering for different purposes: mass participation, interest groups and talent development. It empowers pupils to learn through experience and exposure, along with specially-planned activities to enable talent development.
 
 <img src="/images/WZ%20Robotics1.jpg" 
      style="width:70%">
-		 
-Rulang has clinched many awards at different international platforms such as International Robot Olympiad (South Korea, Australia, China and Singapore), International Robocup Junior (Italy and Germany), VEX Robotics World Championship (USA), World Robot Olympiad (China) and First Lego League Open (Japan and Norway). The school has also sustained a positive trend of achieving good results at both international and national competition.  
-  
+Rulang has clinched many awards at different international platforms such as International Robot Olympiad (South Korea, Australia, China and Singapore), International Robocup Junior (Italy and Germany), VEX Robotics World Championship (USA), World Robot Olympiad (China) and First Lego League Open (Japan and Norway). The school has also sustained a positive trend of achieving good results at both international and national competition.
+
 In view of the good track records, the school has been awarded the status as the Zonal Centre of Excellence for Robotics West Zone (COE) in 2008. We aim to provide leadership in pedagogical applications of robotics as well as facilitating the development of robotics skills competency of teachers and pupils in Singapore schools. In additional, as a COE, we also provide the opportunities for schools to explore the possibilities of using robotics to complement teaching and learning. Rulang also shares her resources such as playfields, equipment and human resources to facilitate learning for staff and pupils from schools in the West Zone.
 
 ![](/images/WZ%20Robotics2.jpg)

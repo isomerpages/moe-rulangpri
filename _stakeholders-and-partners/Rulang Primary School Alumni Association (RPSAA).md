@@ -1,8 +1,9 @@
 ---
 title: Rulang Primary School Alumni Association (RPSAA)
-permalink: /stakeholders-and-partners/rulang-primary-school-alumni-association-rpsaa
+permalink: /stakeholders-and-partners/rulang-primary-school-alumni-association-rpsaa/
 description: ""
 ---
+
 # Rulang Primary School Alumni Association (RPSAA)
 
 A group of passionate alumni started the Rulang Primary School Alumni Association (RPSAA) in 1998 and the feelings of attachment have been strong through the years. The Alumni Association’s first president was **Mr Chew Chin Seng** who helmed the association from its inception to 2002 after which the mantle of leadership was passed on to **Mr Tan Teck Yoke** who led the association to 2016, after serving the association for 14 years. **Mr Wee Hang Yong** was elected to be the third president of the society in 2016.
@@ -10,7 +11,7 @@ A group of passionate alumni started the Rulang Primary School Alumni Associatio
 **The main objectives of the RPSAA are:**
 
 1. to promote fellowship among members of the Rulang Primary School Alumni Association
-2.  to show love and commitment to our alma mater
+2. to show love and commitment to our alma mater
 3. to create a better understanding of the school and
 4. to seek opportunities to collaborate with the school so as to provide a holistic education for the pupils.
 
@@ -20,11 +21,12 @@ The Rulang Primary School Alumni Association (RPSAA) has been instrumental in co
 **The RPSAA has been sponsoring pupils for:**
 
 1.  CCA Individual Outstanding Achievement Award
-2. Student All Round Achievement Award,
-3. scholarships for the top 3 pupils from Primary 1 to Primary 6 and the
-4. Passion Fund for pupils selected for the GEP programme.
+2.  Student All Round Achievement Award,
+3.  scholarships for the top 3 pupils from Primary 1 to Primary 6 and the
+4.  Passion Fund for pupils selected for the GEP programme.
 
 The RPSAA has also been providing sponsorship to the school’s various programmes such as:
+
 1. The publication of the CELL (Citizenship, Entrepreneurship, Leadership Learning) Booklet for the school’s Character Development Programme in 2007
 2. The action research carried out by our Student Leaders.
 
@@ -109,7 +111,7 @@ Seeing the Alumni Association working in tandem and supporting their alma mater 
 </tbody>
 </table>
 
-*Source: https://www.rulangalumni.org/organisation*
+_Source: https://www.rulangalumni.org/organisation_
 
 **RPSAA Patrons**
 
@@ -148,7 +150,7 @@ Seeing the Alumni Association working in tandem and supporting their alma mater 
 </tbody>
 </table>
 
-*Source: https://www.rulangalumni.org/our-patrons*
+_Source: https://www.rulangalumni.org/our-patrons_
 
 For more information on Rulang Primary School Alumni Association (RPSAA), please click the following links to be directed to the website or Facebook Page.
 

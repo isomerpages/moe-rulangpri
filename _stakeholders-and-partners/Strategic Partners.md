@@ -1,9 +1,11 @@
 ---
 title: Strategic Partners
-permalink: /stakeholders-and-partners/strategic-partners
+permalink: /stakeholders-and-partners/strategic-partners/
 description: ""
 ---
+
 # Strategic Partners
+
 The school actively seeks both local and international strategic partners and establishes long term collaborations with them to enhance the learning for our staff and pupils. As a West Zone Centre of Excellence in Robotics, Rulang has established a sustained partnership with Ritsumeikan Academy, Japan and Bibo First Experimental School, China since 2006, to carry out research projects on how robotics can enhance teaching and learning. Ritsumeikan and Rulang jointly presented an Action Research paper at the LEGO International Conference in 2009 which we co-hosted with LEGO Education and Science Centre. Through these collaborations, our staff was able to bring back ideas and resources to enhance our school-based curricula such as the Integrated Robotics Curriculum, our English, Maths, Science and Mother Tongue curricula. Rulangnites who visited these schools came away with a better understanding of Robotics as well as ideas on better unleashing their robots’ performance.
 
 ![](/images/03%20Strategic%20Partners1.jpg)
@@ -14,7 +16,7 @@ To engage our pupils in the learning of Science and Environment, we believe in m
 
 **Collaboration with Overseas Strategic Partners**
 
-To expose our pupils to other cultures and learn from others in the international community, Rulang has established twinning programmes with schools like Tin Shui Wai Methodist Primary School in Hong Kong, Jhu Lin Elementary School in Taiwan and Fang Qian Experimental Primary School in China. For the staff at Rulang, these twinning programmes have enabled us to exchange school-based curricula and ideas and facilitating a sharing of resources. Through these programmes, Rulangnites experience and interact with pupils from other countries and cultures and develop a global outlook. Rulang also involves the local community in educating our pupils. In our leadership framework, all our pupils serve the school and the community through different forms of community involvement programmes. 
+To expose our pupils to other cultures and learn from others in the international community, Rulang has established twinning programmes with schools like Tin Shui Wai Methodist Primary School in Hong Kong, Jhu Lin Elementary School in Taiwan and Fang Qian Experimental Primary School in China. For the staff at Rulang, these twinning programmes have enabled us to exchange school-based curricula and ideas and facilitating a sharing of resources. Through these programmes, Rulangnites experience and interact with pupils from other countries and cultures and develop a global outlook. Rulang also involves the local community in educating our pupils. In our leadership framework, all our pupils serve the school and the community through different forms of community involvement programmes.
 ![](/images/03%20Strategic%20Partners2.jpg)
 ![](/images/03%20Strategic%20Partners3.jpg)
 ![](/images/03%20Strategic%20Partners5.jpg)

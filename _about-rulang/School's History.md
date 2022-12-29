@@ -1,8 +1,9 @@
 ---
 title: School's History
-permalink: /about-rulang/school-history
+permalink: /about-rulang/school-history/
 description: ""
 ---
+
 # History
 
 <style type="text/css">

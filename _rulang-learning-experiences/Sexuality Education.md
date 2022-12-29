@@ -1,12 +1,13 @@
 ---
 title: Sexuality Education
-permalink: /rulang-learning-experiences/sexuality-education
+permalink: /rulang-learning-experiences/sexuality-education/
 description: ""
 ---
+
 # Sexuality Education
 
+**MOE** **S**exuality **E**ducation in **S**chools
 
-**MOE** **S**exuality **E**ducation in **S**chools 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -37,7 +38,7 @@ description: ""
 </tbody>
 </table>
 
-*You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.*
+_You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education._
 
 **Overview of Sexuality Education Programme for 2022**
 
@@ -67,7 +68,7 @@ description: ""
 </tbody>
 </table>
 
-**Sexuality Education**: *“Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package*
+**Sexuality Education**: _“Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package_
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
