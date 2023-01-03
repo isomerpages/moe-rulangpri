@@ -4,10 +4,8 @@ permalink: /for-parents/parent-support-group/
 description: ""
 third_nav_title: For Parents
 ---
-
 # Parent Support Group
-
-![](/images/2020%20PSG%20EXCO-Org%20Chart.png)
+![](/images/PSG%20EXCO%20Org%20Chart%202022-23.jpg)
 
 Since its inception in 2006, the Parents Support Group (PSG) of Rulang Primary School has played a pivotal role in engaging parents of our existing students, in support of our children's education. In strengthening ties with the School, the PSG actively participates and supports in various school programmes and functions such as the annual Racial Harmony Day celebrations, Mother Tongue Fortnight and Earth Day activities, just to name a few. Since 2014, the PSG also leads the organisation of the annual Teachers' Day Concert in appreciation of our children's dedicated teachers, through performances and gifts put together by participating parents and selected students. &nbsp;
 
