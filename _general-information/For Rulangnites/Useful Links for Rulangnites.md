@@ -4,7 +4,6 @@ permalink: /for-rulangnites-and-teachers/for-rulangnites/
 description: ""
 third_nav_title: For Rulangnites
 ---
-
 # Useful Links
 
 Dear Rulangnites,
@@ -14,7 +13,7 @@ Below are some useful links that can be used for your learning. Click on the log
 * [HBL @ Rulang Google Site](https://sites.google.com/moe.edu.sg/hblrulang/home)
 * [Student Google iCON Login](https://workspace.google.com/dashboard)
 * [SLS Student Login Space](https://vle.learning.moe.edu.sg/login)
-* [Help Desk ](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting.html)
+* [Help Desk ](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
 * [Zoom Meeting [App]](https://zoom.us/)
 * [Click here for Students' Guide for downloading and accessing Zoom Meeting.](/files/Students'%20Guide%20to%20Video%20Conferencing%20with%20Teachers%20Using%20Zoom%20for%20HBL.pdf)
 * [MC online](https://www.mconline.sg/LEAD/login/lms_login.aspx)
