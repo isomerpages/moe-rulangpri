@@ -1050,21 +1050,14 @@ third_nav_title: Our Rulang Family
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-iual">(Ms)          Adelene Seah Wei Hui  </td>
-    <td class="tg-v9yw"><a href="mailto:adelene_seah_wei_hui@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">adelene_seah_wei_hui@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-fwnj">(Mr)          Mak Siew Thong<br></td>
     <td class="tg-scbu"><a href="mailto:mak_siew_thong@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">mak_siew_thong@moe.edu.sg</span></a> <br></td>
   </tr>
+  
   <tr>
-    <td class="tg-iual">(Mdm)       Ng Bee Hoon Serene<br></td>
-    <td class="tg-v9yw"><a href="mailto:ng_bee_hoon_serene@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ng_bee_hoon_serene@moe.edu.sg</span></a> <br></td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">(Mdm)       Yeo Sian Hui Adeline<br></td>
-    <td class="tg-scbu"><a href="mailto:adeline_yeo@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">adeline_yeo@moe.edu.sg</span></a></td>
+    <td class="tg-iual">(Mdm)       Yeo Sian Hui Adeline<br></td>
+    <td class="tg-v9yw"><a href="mailto:adeline_yeo@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">adeline_yeo@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
