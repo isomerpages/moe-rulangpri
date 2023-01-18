@@ -786,6 +786,10 @@ third_nav_title: Our Rulang Family
     <td class="tg-fwnj">(Mr)         Zhang Chen</td>
     <td class="tg-scbu"><a href="mailto:zhang_chen@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">zhang_chen@moe.edu.sg</span></a></td>
   </tr>
+	 <tr>
+    <td class="tg-iual">(Mdm)     Chiang Kwee Yok<br></td>
+    <td class="tg-v9yw"><a href="mailto:chiang_kwee_yok@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chiang_kwee_yok@moe.edu.sg</span></a><br></td>
+  </tr>
 </tbody>
 </table>
 
@@ -918,7 +922,7 @@ third_nav_title: Our Rulang Family
   </tr>
   <tr>
     <td class="tg-0lax">(Ms)          Ker Hui Ling</td>
-    <td class="tg-9vfv"><a href="mailto:ker_hui_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#E62F14;background-color:#EEE">ker_hui_ling@moe.edu.sg</span></a><br></td>
+    <td class="tg-eep"><a href="mailto:ker_hui_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#E62F14;background-color:#EEE">ker_hui_ling@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-9678">(Mdm)       Liang Liting </td>
@@ -999,6 +1003,10 @@ third_nav_title: Our Rulang Family
   <tr>
     <td class="tg-0lax">(Ms)          Tay Yi Qian Janice </td>
     <td class="tg-eepx"><a href="mailto:tay_yi_qian_janice@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tay_yi_qian_janice@moe.edu.sg</span></a> </td>
+  </tr>
+	  <tr>
+    <td class="tg-9678">(Mr)          Goh Xuan Long<br></td>
+    <td class="tg-v9yw"><a href="mailto:tang_goh_xuan_long@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">goh_xuan_long@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -1112,30 +1120,35 @@ third_nav_title: Our Rulang Family
     <td class="tg-iual">Mdm Lim Lay Hoon Agnes</td>
     <td class="tg-v9yw"><a href="mailto:lim_lay_hoon@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_lay_hoon@moe.edu.sg</span></a> </td>
   </tr>
-  <tr>
-    <td class="tg-9u4g">Office Attendant</td>
-    <td class="tg-fwnj">Mdm Emdias d/o Mohamed Shaffi </td>
-    <td class="tg-scbu"><a href="mailto:emdias_mohd_shaffi@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">emdias_mohd_shaffi@moe.edu.sg</span></a></td>
+	<tr>
+    <td class="tg-9u4g">Corporate Support Officer</td>
+    <td class="tg-fwnj">Ms Darshini D/O Shreedaran </td>
+    <td class="tg-scbu"><a href="mailto:Darshini_Shreedaran@schools.gov.sg"><span style="text-decoration:none;color:#E62F14">Darshini_Shreedaran@schools.gov.sg</span></a></td>
+  </tr>
+	  <tr>
+    <td class="tg-1k38">Office Attendant</td>
+    <td class="tg-iual">Mdm Emdias d/o Mohamed Shaffi </td>
+    <td class="tg-v9yw"><a href="mailto:emdias_mohd_shaffi@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">emdias_mohd_shaffi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1k38">Librarian</td>
-    <td class="tg-iual">Mdm Ng Siew Kheng </td>
-    <td class="tg-v9yw"><a href="mailto:SiewKheng.Ng@staff.spydus.com.sg"><span style="text-decoration:none;color:#E62F14">SiewKheng.Ng@staff.spydus.com.sg</span></a></td>
+    <td class="tg-6cnb">Librarian</td>
+    <td class="tg-fwnj">Mdm Ng Siew Kheng </td>
+    <td class="tg-scbu"><a href="mailto:SiewKheng.Ng@staff.spydus.com.sg"><span style="text-decoration:none;color:#E62F14">SiewKheng.Ng@staff.spydus.com.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-6cnb">ICT Manager </td>
-    <td class="tg-fwnj">Mr Chen Guowei Cellamie</td>
-    <td class="tg-scbu"><a href="mailto:chen_guowei_cellamie@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chen_guowei_cellamie@moe.edu.sg</span></a></td>
+    <td class="tg-1k38">ICT Manager </td>
+    <td class="tg-iual">Mr Chen Guowei Cellamie</td>
+    <td class="tg-v9yw"><a href="mailto:chen_guowei_cellamie@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chen_guowei_cellamie@moe.edu.sg</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-9u4g">Desktop Engineer<br></td>
+    <td class="tg-fwnj">Ms Nur Jalilah Mohammed Affendi</td>
+    <td class="tg-scbu"><a href="mailto:Nur.jalila.bm@ncs.com.sg" target="_blank" rel="noopener noreferrer"><span style="color:#E62F14">Nur.jalila.bm@ncs.com.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-1k38">Desktop Engineer</td>
     <td class="tg-iual">Mr Thet Khine </td>
     <td class="tg-v9yw"><a href="mailto:thetkhine@ncs.com.sg"><span style="text-decoration:none;color:#E62F14">thetkhine@ncs.com.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Desktop Engineer<br></td>
-    <td class="tg-fwnj">Ms Nur Jalilah Mohammed Affendi</td>
-    <td class="tg-scbu"><a href="mailto:Nur.jalila.bm@ncs.com.sg" target="_blank" rel="noopener noreferrer"><span style="color:#E62F14">Nur.jalila.bm@ncs.com.sg</span></a></td>
   </tr>
 </tbody>
 </table>
