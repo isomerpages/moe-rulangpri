@@ -4,7 +4,6 @@ permalink: /our-rulang-family/staff-email-list/
 description: ""
 third_nav_title: Our Rulang Family
 ---
-
 # Staff Email List
 
 **School Leaders**
@@ -42,9 +41,14 @@ third_nav_title: Our Rulang Family
     <td class="tg-scbu"><a href="mailto:Choong_Pek_Lan@schools.gov.sg"><span style="text-decoration:none;color:#E62F14">Choong_Pek_Lan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1k38">Vice Principal<br>(ADMIN)</td>
-    <td class="tg-iual">Mr Philip Justin Moorthy </td>
-    <td class="tg-v9yw"><a href="mailto:Philip_MOORTHY@schools.gov.sg"><span style="text-decoration:none;color:#E62F14">Philip_Moorthy@schools.gov.sg</span></a></td>
+    <td class="tg-1k38">Vice Principal<br>(CURRICULUM)</td>
+    <td class="tg-iual">Mr Toh Jin Tian </td>
+    <td class="tg-v9yw"><a href="mailto:toh_jin_tian@schools.gov.sg"><span style="text-decoration:none;color:#E62F14">Toh_jin_tian@schools.gov.sg</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-9u4g"><span style="font-weight:bold">Vice Principal</span><br>(ADMIN)</td>
+    <td class="tg-fwnj">Mr Philip Justin Moorthy</td>
+    <td class="tg-scbu"><a href="mailto:Philip_MOORTHY@schools.gov.sg"><span style="text-decoration:none;color:#E62F14">Philip_Moorthy@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -250,48 +254,48 @@ third_nav_title: Our Rulang Family
 <tbody>
   <tr>
     <td class="tg-1k38">1A</td>
-    <td class="tg-iual">(Ms)    Maslishah Punari </td>
-    <td class="tg-v9yw"><a href="mailto:%20maslishah_punari@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">maslishah_punari@moe.edu.sg</span></a></td>
+    <td class="tg-iual">(Ms)    Tan Siew Boon </td>
+    <td class="tg-v9yw"><a href="mailto:%20tan_siew_boon@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tan_siew_boon@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-9u4g">1B</td>
-    <td class="tg-fwnj">(Ms)    Chia Kwai Sim<br></td>
-    <td class="tg-scbu"><a href="mailto:chia_kwai_sim@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chia_kwai_sim@moe.edu.sg</span></a><br></td>
+    <td class="tg-fwnj">(Mdm)    Chia Lee Cheng<br></td>
+    <td class="tg-scbu"><a href="mailto:chia_lee_cheng@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chia_lee_cheng@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-1k38">1C </td>
-    <td class="tg-iual">(Ms)    Goh Yu Xian</td>
-    <td class="tg-v9yw"><a href="mailto:goh_yu_xian@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">goh_yu_xian@moe.edu.sg</span></a><br></td>
+    <td class="tg-iual">(Mrs)    Wong Yin Foong</td>
+    <td class="tg-v9yw"><a href="mailto:poon_yin_foong@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">poon_yin_foong@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">1D</td>
-    <td class="tg-fwnj">(Mr)    Tan Chow Hua Vincent</td>
-    <td class="tg-scbu"><a href="mailto:tan_chow_hua@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tan_chow_hua@moe.edu.sg</span></a> </td>
+    <td class="tg-fwnj">(Ms)    Ee Wei Leng</td>
+    <td class="tg-scbu"><a href="mailto:ee_wei_leng@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ee_wei_leng@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-1k38">1E</td>
-    <td class="tg-iual">(Mrs)   Teo Chin May<br></td>
-    <td class="tg-v9yw"><a href="mailto:ang_chin_may@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ang_chin_may@moe.edu.sg</span></a><br></td>
+    <td class="tg-iual">(Ms)   Lim Yan Cheng<br></td>
+    <td class="tg-v9yw"><a href="mailto:lim_yan_cheng@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_yan_cheng@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">1F</td>
-    <td class="tg-fwnj">(Ms)    Sng Chee Hoon Janice</td>
-    <td class="tg-scbu"><a href="mailto:sng_chee_hoon@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">sng_chee_hoon@moe.edu.sg</span></a></td>
+    <td class="tg-fwnj">(Mrs)    Lynn Phua</td>
+    <td class="tg-scbu"><a href="mailto:lynn_tang_sze_hua@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lynn_tang_sze_hua@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-1k38">1G</td>
-    <td class="tg-iual">(Mrs)   Ho-Chua Sze Ping<br></td>
-    <td class="tg-v9yw"><a href="mailto:chua_sze_ping@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chua_sze_ping@moe.edu.sg</span></a><br></td>
+    <td class="tg-iual">(Mdm)   Salizawati Binte Abdul Aziz<br></td>
+    <td class="tg-v9yw"><a href="mailto:salizawati_abdul_aziz@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">salizawati_abdul_aziz@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">1H </td>
-    <td class="tg-fwnj">(Mdm) Lim Yee Ling<br></td>
-    <td class="tg-scbu"><a href="mailto:lim_yee_ling@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_yee_ling@moe.edu.sg</span></a><br></td>
+    <td class="tg-fwnj">(Mrs) Teo Chin May<br></td>
+    <td class="tg-scbu"><a href="mailto:Ang_Chin_May@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">Ang_Chin_May@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-1k38">1J</td>
-    <td class="tg-iual">(Ms)    Siti Fauziah Umar</td>
-    <td class="tg-v9yw"><a href="mailto:siti_fauziah_umar@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">siti_fauziah_umar@moe.edu.sg</span></a> </td>
+    <td class="tg-iual">(Ms)    Soo Sin Ee</td>
+    <td class="tg-v9yw"><a href="mailto:soo_sin_ee@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">soo_sin_ee@moe.edu.sg</span></a> </td>
   </tr>
 </tbody>
 </table>
@@ -323,48 +327,48 @@ third_nav_title: Our Rulang Family
 <tbody>
   <tr>
     <td class="tg-1k38">2A</td>
-    <td class="tg-iual">(Ms)    Tan Siew Boon </td>
-    <td class="tg-v9yw"><a href="mailto:tan_siew_boon@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tan_siew_boon@moe.edu.sg</span></a><br></td>
+    <td class="tg-iual">(Ms)    Maslishah Bte Punari </td>
+    <td class="tg-v9yw"><a href="mailto:maslishah_punari@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">maslishah_punari@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">2B</td>
-    <td class="tg-fwnj">(Mdm) Chia Lee Cheng Marie</td>
-    <td class="tg-xnje"><a href="mailto:chia_lee_cheng@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#E62F14">chia_lee_cheng@moe.edu.sg</span></a></td>
+    <td class="tg-fwnj">(Mdm) Noriah Binte Abdul Rahim </td>
+    <td class="tg-xnje"><a href="mailto:noriah_abdul_rahim@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#E62F14">noriah_abdul_rahim@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-1k38">2C</td>
-    <td class="tg-iual">(Mrs)   Wong Yin Foong </td>
-    <td class="tg-v9yw"><a href="mailto:poon_yin_foong@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">poon_yin_foong@moe.edu.sg</span></a> </td>
+    <td class="tg-iual">(Ms)   Goh Yu Xian </td>
+    <td class="tg-v9yw"><a href="mailto:goh_yu_xian@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">goh_yu_xian@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-9u4g">2D</td>
-    <td class="tg-fwnj">(Ms)    Ee Wei Leng<br></td>
-    <td class="tg-scbu"><a href="mailto:ee_wei_leng@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ee_wei_leng@moe.edu.sg</span></a> <br></td>
+    <td class="tg-fwnj">(Mr)    Fong Meng Thoong<br></td>
+    <td class="tg-scbu"><a href="mailto:fong_meng_thoong@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">fong_meng_thoong@moe.edu.sg</span></a> <br></td>
   </tr>
   <tr>
     <td class="tg-1k38">2E</td>
-    <td class="tg-iual">(Ms)    Lim Yan Cheng</td>
-    <td class="tg-v9yw"><a href="mailto:lim_yan_cheng@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_yan_cheng@moe.edu.sg</span></a></td>
+    <td class="tg-iual">(Mr)    Tang Teo Yong</td>
+    <td class="tg-v9yw"><a href="mailto:tang_teo_yong@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tang_teo_yong@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-9u4g">2F</td>
-    <td class="tg-fwnj">(Mrs)   Lynn Phua-Tang Sze Hua </td>
-    <td class="tg-scbu"><a href="mailto:lynn_tang_sze_hua@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lynn_tang_sze_hua@moe.edu.sg</span></a></td>
+    <td class="tg-fwnj">(Ms)   Sng Chee Hoon </td>
+    <td class="tg-scbu"><a href="mailto:sng_chee_hoon@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">sng_chee_hoon@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-1k38">2G</td>
-    <td class="tg-iual">(Mrs)   Ng Pui Lai Sarah</td>
-    <td class="tg-v9yw"><a href="mailto:lock_pui_lai@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lock_pui_lai@moe.edu.sg</span></a></td>
+    <td class="tg-iual">(Mrs)   Ho-Chua Sze Ping</td>
+    <td class="tg-v9yw"><a href="mailto:chua_sze_ping@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chua_sze_ping@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-9u4g">2H</td>
-    <td class="tg-fwnj">(Mrs)   Quek Wen Qi</td>
-    <td class="tg-scbu"><a href="mailto:quek_wen_qi@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">quek_wen_qi@moe.edu.sg</span></a></td>
+    <td class="tg-fwnj">(Mdm)   Lim Yee Ling</td>
+    <td class="tg-scbu"><a href="mailto:lim_yee_ling@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_yee_ling@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-1k38">2J</td>
-    <td class="tg-iual">(Ms)    Soo Sin Ee Cyndi</td>
-    <td class="tg-v9yw"><a href="mailto:soo_sin_ee@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">soo_sin_ee@moe.edu.sg</span></a></td>
+    <td class="tg-iual">(Ms)    Siti Fauziah Bte Umar </td>
+    <td class="tg-v9yw"><a href="mailto:siti_fauziah_umar@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">siti_fauziah_umar@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -395,18 +399,18 @@ third_nav_title: Our Rulang Family
 <tbody>
   <tr>
     <td class="tg-1k38">3A</td>
-    <td class="tg-iual">(Mr)    Fong Meng Thoong<br></td>
-    <td class="tg-v9yw"><a href="mailto:fong_meng_thoong@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">fong_meng_thoong@moe.edu.sg</span></a><br></td>
+    <td class="tg-iual">(Ms)    Nur Shahirah Binte Haji Salim<br></td>
+    <td class="tg-v9yw"><a href="mailto:nur_shahirah_haji_salim@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">nur_shahirah_haji_salim@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">3B</td>
-    <td class="tg-fwnj">(Mdm) Zainab Abdul Rahman</td>
-    <td class="tg-scbu"><a href="mailto:zainab_abdul_rahman@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">zainab_abdul_rahman@moe.edu.sg</span></a></td>
+    <td class="tg-fwnj">(Mr) Ho Twee Lim</td>
+    <td class="tg-scbu"><a href="mailto:ho_twee_lim@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ho_twee_lim@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-1k38">3C<br></td>
-    <td class="tg-iual">(Mdm) Loke Yuet Wai Sharon</td>
-    <td class="tg-v9yw"><a href="mailto:loke_yuet_wai@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">loke_yuet_wai@moe.edu.sg</span></a><br></td>
+    <td class="tg-iual">(Mrs) Tan Rina</td>
+    <td class="tg-v9yw"><a href="mailto:tan_rina@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tan_rina@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">3D</td>
@@ -415,18 +419,18 @@ third_nav_title: Our Rulang Family
   </tr>
   <tr>
     <td class="tg-1k38">3E</td>
-    <td class="tg-iual">(Mdm) Chia Ee Ling Lynn<br></td>
-    <td class="tg-v9yw"><a href="mailto:chia_ee_ling@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chia_ee_ling@moe.edu.sg</span></a><br></td>
+    <td class="tg-iual">(Mdm) Loke Yuet Wai<br></td>
+    <td class="tg-v9yw"><a href="mailto:loke_yuet_wai@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">loke_yuet_wai@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">3F</td>
-    <td class="tg-fwnj">(Ms)    Nur Shahirah Haji Salim</td>
-    <td class="tg-scbu"><a href="mailto:nur_shahirah_haji_salim@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">nur_shahirah_haji_salim@moe.edu.sg</span></a> </td>
+    <td class="tg-fwnj">(Mr)    Tan Chow Hua</td>
+    <td class="tg-scbu"><a href="mailto:tan_chow_hua@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tan_chow_hua@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-1k38">3G</td>
-    <td class="tg-iual">(Ms)    Shu Xuanyu</td>
-    <td class="tg-v9yw"><a href="mailto:shu_xuanyu@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">shu_xuanyu@moe.edu.sg</span></a> </td>
+    <td class="tg-iual">(Mdm)    Zainab Binte Abdul Rahman</td>
+    <td class="tg-v9yw"><a href="mailto:zainab_abdul_rahman@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">zainab_abdul_rahman@moe.edu.sg</span></a> </td>
   </tr>
 </tbody>
 </table>
@@ -457,38 +461,38 @@ third_nav_title: Our Rulang Family
 <tbody>
   <tr>
     <td class="tg-1k38">4A</td>
-    <td class="tg-iual">(Mdm)    Ong Lay Peng Cheryl</td>
-    <td class="tg-v9yw"><a href="mailto:ong_lay_peng_a@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ong_lay_peng_a@moe.edu.sg</span></a></td>
+    <td class="tg-iual">(Mdm)    Norlida Binte Abdullah</td>
+    <td class="tg-v9yw"><a href="mailto:norlida_abdullah@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">norlida_abdullah@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-9u4g">4B<br></td>
-    <td class="tg-fwnj">(Mr)       Mohamad Zaini Ismail</td>
-    <td class="tg-scbu"><a href="mailto:mohamad_zaini_ismail@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">mohamad_zaini_ismail@moe.edu.sg</span></a> </td>
+    <td class="tg-fwnj">(Mrs)       Harcharn Gill</td>
+    <td class="tg-scbu"><a href="mailto:harcharn_gill@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">harcharn_gill@moe.edu.sg</span></a> </td>
   </tr>
   <tr>
     <td class="tg-1k38">4C</td>
-    <td class="tg-iual">(Mr)       Wong Kwok Choon</td>
-    <td class="tg-v9yw"><a href="mailto:wong_kwok_choon@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">wong_kwok_choon@moe.edu.sg</span></a><br></td>
+    <td class="tg-iual">(Mdm)       Wirda Binti Sukor</td>
+    <td class="tg-v9yw"><a href="mailto:wirda_sukor@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">wirda_sukor@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">4D</td>
-    <td class="tg-fwnj">(Mrs)      Rina Tan<br></td>
-    <td class="tg-scbu"><a href="mailto:tan_rina@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tan_rina@moe.edu.sg</span></a><br></td>
+    <td class="tg-fwnj">(Mr)      Wong Kwok Choon<br></td>
+    <td class="tg-scbu"><a href="mailto:wong_kwok_choon@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">wong_kwok_choon@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-1k38">4E</td>
-    <td class="tg-iual">(Mdm)    Margaret Teoh Wei Ling<br></td>
-    <td class="tg-v9yw"><a href="mailto:margaret_teoh_wei_ling@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">margaret_teoh_wei_ling@moe.edu.sg</span></a><br></td>
+    <td class="tg-iual">(Mdm)    Chia Ee Ling<br></td>
+    <td class="tg-v9yw"><a href="mailto:chia_ee_ling@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chia_ee_ling@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">4F</td>
-    <td class="tg-fwnj">(Mdm)    Norlida Bte Abdullah</td>
-    <td class="tg-scbu"><a href="mailto:norlida_abdullah@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">norlida_abdullah@moe.edu.sg</span></a></td>
+    <td class="tg-fwnj">(Mdm)    Lim Hui Qing</td>
+    <td class="tg-scbu"><a href="mailto:lim_hui_qing_a@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_hui_qing_a@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-1k38">4G</td>
-    <td class="tg-iual">(Mrs)      Harcharn Gill (ST)</td>
-    <td class="tg-v9yw"><a href="mailto:harcharn_gill@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">harcharn_gill@moe.edu.sg</span></a></td>
+    <td class="tg-iual">(Mr)      Mohamad Zaini Bin Ismail</td>
+    <td class="tg-v9yw"><a href="mailto:mohamad_zaini_ismail@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">mohamad_zaini_ismail@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -519,23 +523,23 @@ third_nav_title: Our Rulang Family
 <tbody>
   <tr>
     <td class="tg-mdf1">5R<br></td>
-    <td class="tg-9678">(Mr)       Chua Chuen Chi Gary</td>
-    <td class="tg-v9yw"><a href="mailto:chua_chuen_chi_gary@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chua_chuen_chi_gary@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">5U</td>
-    <td class="tg-0lax">(Mr)       Susiayanto Bin <br>            Sunaryo</td>
-    <td class="tg-eepx"><a href="mailto:susiayanto_sunaryo@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">susiayanto_sunaryo@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-mdf1">5L</td>
-    <td class="tg-9678">(Mdm)   Thanaletchmi<br>             Subramaniam</td>
+    <td class="tg-9678">(Mdm)       Thanaletchmi d/o Subramaniam</td>
     <td class="tg-v9yw"><a href="mailto:thanaletchmi_subramaniam@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">thanaletchmi_subramaniam@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
+    <td class="tg-1wig">5U</td>
+    <td class="tg-0lax">(Mdm)       Nooryanti Bte Mohamed Mohideen </td>
+    <td class="tg-eepx"><a href="mailto:nooryanti_mohamed_mohideen@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">nooryanti_mohamed_mohideen@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-mdf1">5L</td>
+    <td class="tg-9678">(Mr)   Chua Chuen Chi Gary</td>
+    <td class="tg-v9yw"><a href="mailto:chua_chuen_chi_gary@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chua_chuen_chi_gary@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
     <td class="tg-1wig">5A</td>
-    <td class="tg-0lax">(Ms)       Nooryanti Mohamed<br>              Mohideen</td>
-    <td class="tg-eepx"><a href="mailto:nooryanti_mohamed_mohideen@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">nooryanti_mohamed_mohideen@moe.edu.sg</span></a><br></td>
+    <td class="tg-0lax">(Mr)       Susiayanto Bin Sunaryo</td>
+    <td class="tg-eepx"><a href="mailto:susiayanto_sunaryo@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">susiayanto_sunaryo@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-mdf1">5N</td>
@@ -544,13 +548,13 @@ third_nav_title: Our Rulang Family
   </tr>
   <tr>
     <td class="tg-1wig">5G</td>
-    <td class="tg-0lax">(Mdm)    Wahetha Begum Bte <br>              Abdul Kairu</td>
-    <td class="tg-eepx"><a href="mailto:wahetha_begum_abdul_kairu@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">wahetha_begum_abdul_kairu@moe.edu.sg</span></a><a href="mailto:ho_qingling_yvonne@moe.edu.sg"><span style="text-decoration:none;color:#E62F14"> </span></a> </td>
+    <td class="tg-0lax">(Mrs)    Yvonne Wong</td>
+    <td class="tg-eepx"><a href="mailto:ho_qingling_yvonne@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ho_qingling_yvonne@moe.edu.sg</span></a><a href="mailto:ho_qingling_yvonne@moe.edu.sg"><span style="text-decoration:none;color:#E62F14"> </span></a> </td>
   </tr>
   <tr>
     <td class="tg-mdf1">5S</td>
-    <td class="tg-9678">(Mrs)      Yvonne Wong</td>
-    <td class="tg-v9yw"><a href="mailto:ho_qingling_yvonne@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ho_qingling_yvonne@moe.edu.sg</span></a><br></td>
+    <td class="tg-9678">(Mdm)      Wahetha Begum Bte Abdul Kairu</td>
+    <td class="tg-v9yw"><a href="mailto:wahetha_begum_abdul_kairu@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">wahetha_begum_abdul_kairu@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-1wig">5C<br></td>
@@ -624,11 +628,6 @@ third_nav_title: Our Rulang Family
     <td class="tg-fwnj">(Ms)       Christina Foo </td>
     <td class="tg-scbu"><a href="mailto:foo_meng_choo_christina@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">foo_meng_choo_christina@moe.edu.sg</span></a> </td>
   </tr>
-  <tr>
-    <td class="tg-1k38">6H</td>
-    <td class="tg-iual">(Mr)        Haizad Johan<br></td>
-    <td class="tg-v9yw"><a href="mailto:haizad_johan@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">haizad_johan@moe.edu.sg</span></a></td>
-  </tr>
 </tbody>
 </table>
 
@@ -654,10 +653,6 @@ third_nav_title: Our Rulang Family
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-iual">(Mdm)     Jiao Fuzhen (LT)</td>
-    <td class="tg-v9yw"><a href="mailto:jiao_fuzhen@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">jiao_fuzhen@moe.edu.sg</span></a></td>
-  </tr>
   <tr>
     <td class="tg-fwnj">(Mrs)       Indrani Balasubramaniam (ST)<br></td>
     <td class="tg-scbu"><a href="mailto:indrani_balasubramaniam@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">indrani_balasubramaniam@moe.edu.sg</span></a></td>
@@ -791,6 +786,10 @@ third_nav_title: Our Rulang Family
     <td class="tg-fwnj">(Mr)         Zhang Chen</td>
     <td class="tg-scbu"><a href="mailto:zhang_chen@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">zhang_chen@moe.edu.sg</span></a></td>
   </tr>
+	 <tr>
+    <td class="tg-iual">(Mdm)     Chiang Kwee Yok<br></td>
+    <td class="tg-v9yw"><a href="mailto:chiang_kwee_yok@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chiang_kwee_yok@moe.edu.sg</span></a><br></td>
+  </tr>
 </tbody>
 </table>
 
@@ -923,7 +922,7 @@ third_nav_title: Our Rulang Family
   </tr>
   <tr>
     <td class="tg-0lax">(Ms)          Ker Hui Ling</td>
-    <td class="tg-9vfv"><a href="mailto:ker_hui_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#E62F14;background-color:#EEE">ker_hui_ling@moe.edu.sg</span></a><br></td>
+    <td class="tg-eep"><a href="mailto:ker_hui_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#E62F14;background-color:#EEE">ker_hui_ling@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-9678">(Mdm)       Liang Liting </td>
@@ -1005,6 +1004,10 @@ third_nav_title: Our Rulang Family
     <td class="tg-0lax">(Ms)          Tay Yi Qian Janice </td>
     <td class="tg-eepx"><a href="mailto:tay_yi_qian_janice@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tay_yi_qian_janice@moe.edu.sg</span></a> </td>
   </tr>
+	  <tr>
+    <td class="tg-9678">(Mr)          Goh Xuan Long<br></td>
+    <td class="tg-v9yw"><a href="mailto:tang_goh_xuan_long@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">goh_xuan_long@moe.edu.sg</span></a></td>
+  </tr>
 </tbody>
 </table>
 
@@ -1055,21 +1058,14 @@ third_nav_title: Our Rulang Family
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-iual">(Ms)          Adelene Seah Wei Hui  </td>
-    <td class="tg-v9yw"><a href="mailto:adelene_seah_wei_hui@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">adelene_seah_wei_hui@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-fwnj">(Mr)          Mak Siew Thong<br></td>
     <td class="tg-scbu"><a href="mailto:mak_siew_thong@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">mak_siew_thong@moe.edu.sg</span></a> <br></td>
   </tr>
+  
   <tr>
-    <td class="tg-iual">(Mdm)       Ng Bee Hoon Serene<br></td>
-    <td class="tg-v9yw"><a href="mailto:ng_bee_hoon_serene@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ng_bee_hoon_serene@moe.edu.sg</span></a> <br></td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj">(Mdm)       Yeo Sian Hui Adeline<br></td>
-    <td class="tg-scbu"><a href="mailto:adeline_yeo@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">adeline_yeo@moe.edu.sg</span></a></td>
+    <td class="tg-iual">(Mdm)       Yeo Sian Hui Adeline<br></td>
+    <td class="tg-v9yw"><a href="mailto:adeline_yeo@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">adeline_yeo@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -1124,30 +1120,35 @@ third_nav_title: Our Rulang Family
     <td class="tg-iual">Mdm Lim Lay Hoon Agnes</td>
     <td class="tg-v9yw"><a href="mailto:lim_lay_hoon@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_lay_hoon@moe.edu.sg</span></a> </td>
   </tr>
-  <tr>
-    <td class="tg-9u4g">Office Attendant</td>
-    <td class="tg-fwnj">Mdm Emdias d/o Mohamed Shaffi </td>
-    <td class="tg-scbu"><a href="mailto:emdias_mohd_shaffi@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">emdias_mohd_shaffi@moe.edu.sg</span></a></td>
+	<tr>
+    <td class="tg-9u4g">Corporate Support Officer</td>
+    <td class="tg-fwnj">Ms Darshini D/O Shreedaran </td>
+    <td class="tg-scbu"><a href="mailto:Darshini_Shreedaran@schools.gov.sg"><span style="text-decoration:none;color:#E62F14">Darshini_Shreedaran@schools.gov.sg</span></a></td>
+  </tr>
+	  <tr>
+    <td class="tg-1k38">Office Attendant</td>
+    <td class="tg-iual">Mdm Emdias d/o Mohamed Shaffi </td>
+    <td class="tg-v9yw"><a href="mailto:emdias_mohd_shaffi@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">emdias_mohd_shaffi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-1k38">Librarian</td>
-    <td class="tg-iual">Mdm Ng Siew Kheng </td>
-    <td class="tg-v9yw"><a href="mailto:SiewKheng.Ng@staff.spydus.com.sg"><span style="text-decoration:none;color:#E62F14">SiewKheng.Ng@staff.spydus.com.sg</span></a></td>
+    <td class="tg-6cnb">Librarian</td>
+    <td class="tg-fwnj">Mdm Ng Siew Kheng </td>
+    <td class="tg-scbu"><a href="mailto:SiewKheng.Ng@staff.spydus.com.sg"><span style="text-decoration:none;color:#E62F14">SiewKheng.Ng@staff.spydus.com.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-6cnb">ICT Manager </td>
-    <td class="tg-fwnj">Mr Chen Guowei Cellamie</td>
-    <td class="tg-scbu"><a href="mailto:chen_guowei_cellamie@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chen_guowei_cellamie@moe.edu.sg</span></a></td>
+    <td class="tg-1k38">ICT Manager </td>
+    <td class="tg-iual">Mr Chen Guowei Cellamie</td>
+    <td class="tg-v9yw"><a href="mailto:chen_guowei_cellamie@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chen_guowei_cellamie@moe.edu.sg</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-9u4g">Desktop Engineer<br></td>
+    <td class="tg-fwnj">Ms Nur Jalilah Mohammed Affendi</td>
+    <td class="tg-scbu"><a href="mailto:Nur.jalila.bm@ncs.com.sg" target="_blank" rel="noopener noreferrer"><span style="color:#E62F14">Nur.jalila.bm@ncs.com.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-1k38">Desktop Engineer</td>
     <td class="tg-iual">Mr Thet Khine </td>
     <td class="tg-v9yw"><a href="mailto:thetkhine@ncs.com.sg"><span style="text-decoration:none;color:#E62F14">thetkhine@ncs.com.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Desktop Engineer<br></td>
-    <td class="tg-fwnj">Ms Nur Jalilah Mohammed Affendi</td>
-    <td class="tg-scbu"><a href="mailto:Nur.jalila.bm@ncs.com.sg" target="_blank" rel="noopener noreferrer"><span style="color:#E62F14">Nur.jalila.bm@ncs.com.sg</span></a></td>
   </tr>
 </tbody>
 </table>
