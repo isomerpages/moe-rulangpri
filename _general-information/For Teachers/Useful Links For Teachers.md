@@ -14,7 +14,6 @@ third_nav_title: For Teachers
 * [iCON](https://icon.moe.edu.sg/)
 * [iExams 2.0*](http://iexams.seab.gov.sg/sso/login?)
 * [iMTL](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)
-* [MC Online](https://www.mconline.sg/LEAD/login/lms_login.aspx)
 * [MIMS - login using with @schools.gov.sg](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
 * [MOE Intranet](http://intranet.moe.gov.sg/)
 * [My Important Files (MOE)](https://scloud.ssoe.moe.edu.sg/userportal/#/login)
