@@ -4,16 +4,18 @@ permalink: /our-rulang-family/school-leaders/
 description: ""
 third_nav_title: Our Rulang Family
 ---
-![](/images/SLs%202022.jpg)
+![Rulang School Leaders](/images/School%20Leaders%202023.jpeg)
 _\[From Left to Right\]_
 
-_Dr Choong Pek Lan (Vice-Principal)_
+_Mr Toh Jin Tian (Vice-Principal)_
 
 _Ms Tracy Tan I-Lian (Principal)_
 
+_Dr Choong Pek Lan (Vice-Principal)_
+
 _Mr Philip Justin Moorthy (Vice-Principal, Admin)_
 
-_*Not in photo: Mr Toh Jin Tian (Vice-Principal)_
+
 # Contact
 
 **Principal**  
