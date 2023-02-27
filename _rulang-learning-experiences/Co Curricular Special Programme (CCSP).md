@@ -3,10 +3,9 @@ title: Co Curricular Special Programme (CCSP)
 permalink: /rulang-learning-experiences/co-curricular-special-programme-ccsp/
 description: ""
 ---
-
 # Co-Curricular Special Programme (CCSP)
 
-**Overview of CCAs 2021**
+**Overview of CCAs 2023**
 
 **CCAs on Mondays**
 
@@ -42,7 +41,7 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
     <td class="tg-muqq"> Basketball<br> </td>
     <td class="tg-2w19"> Basketball Court</td>
     <td class="tg-2w19">Pupils learn game rules and fundamental skills of passing, dribbling, shooting, defensive stance and working in teams with emphasis on fair play and excellence.</td>
-    <td class="tg-da8v">Mdm Annie Kong<br> </td>
+    <td class="tg-da8v">Ms Hazel Liew<br> </td>
   </tr>
   <tr>
     <td class="tg-muqq">Choir</td>
@@ -51,10 +50,11 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
     <td class="tg-da8v">Mdm Jamie Lim<br> </td>
   </tr>
   <tr>
-    <td class="tg-muqq">Malay Dance</td>
+    <td class="tg-muqq">International Dance</td>
     <td class="tg-2w19"> Music Room (Level 2)  </td>
-    <td class="tg-2w19">Pupils are trained in various genres of traditional Malay dances, Malay dance techniques including Masri and Joget, and the use of facial and bodily expressions to show emotions. Pupils will be exposed to various performing platforms both internal and external.</td>
-    <td class="tg-da8v">Mdm Monaliza</td>
+    <td class="tg-2w19">        
+Pupils are exposed to various genres of cultural and modern dance forms, such as Indian, Malay, Jazz and Hip-hop, etc. While pupils learn fundamental skills required in dance, they will gain a myriad of experience and skills in performance and develop greater confidence in themselves. Dancing instils discipline. In doing so, pupils will learn to be more aware of their surroundings and better manage themselves.</td>
+    <td class="tg-da8v">Mdm Nurwahidah</td>
   </tr>
   <tr>
     <td class="tg-2w19"><span style="font-weight:bold"> Robotics Club</span></td>
@@ -90,7 +90,7 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
     <td class="tg-muqq">Wushu</td>
     <td class="tg-2w19">Multi-Purpose Hall (MPH) </td>
     <td class="tg-2w19">Pupils are trained in basic strokes and stance, physical and mental coordination and teamwork. Pupils will be exposed to various performing platforms both internal and external.  </td>
-    <td class="tg-da8v">Mrs Rina Tan<br> </td>
+    <td class="tg-da8v">Ms Ker Hui Ling<br> </td>
   </tr>
 </tbody>
 </table>
@@ -120,22 +120,22 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8wja">Art Club<br>(P4)</td>
+    <td class="tg-8wja">Art Club<br>(P3 & P4)</td>
     <td class="tg-5env"> Art Room<br>1 &amp; 3</td>
     <td class="tg-5env">Pupils are trained in print making, sculpture making, digital art, graffiti art &amp; creative 3-D art.</td>
-    <td class="tg-pk3b">Ms Jennifer Loh<br> <br> </td>
+    <td class="tg-pk3b">Ms Salizawati<br> <br> </td>
   </tr>
   <tr>
-    <td class="tg-8wja">Badminton<br> (Sch team)</td>
+    <td class="tg-8wja">Badminton<br> (School team)</td>
     <td class="tg-5env">Indoor Sports Hall (ISH) </td>
     <td class="tg-5env">Pupils are provided with opportunities to acquire the knowledge, understanding and experience necessary to appreciate and play the sport. Pupils will be taught the essential skills necessary to play in a competitive environment.</td>
-    <td class="tg-5env"> <br>Mr Mohammed Bazli</td>
+    <td class="tg-5env"> <br>Mr Lim Han Ling</td>
   </tr>
   <tr>
     <td class="tg-8wja">Badminton<br>(Recreational Team)</td>
     <td class="tg-5env">Multi-Purpose Hall (MPH) </td>
     <td class="tg-5env">Pupils are provided with opportunities to acquire the knowledge, understanding and experience necessary to appreciate and play the sport. Pupils will be taught the basic rules and regulations of the game.</td>
-    <td class="tg-pk3b">Mr Lim Han Ling</td>
+    <td class="tg-pk3b">Mr Mohammed Bazli</td>
   </tr>
   <tr>
     <td class="tg-8wja">Brownies<br>(Girls ONLY)</td>
@@ -153,18 +153,18 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
     <td class="tg-5env"><span style="font-weight:bold"> Chinese Orchestra</span></td>
     <td class="tg-5env">CO Room and Level 7 Classrooms  </td>
     <td class="tg-5env">  Pupils are trained to specialise in Chinese Orchestra instruments and in music theory which may lead to internationally recognised certification. Pupils will be exposed to various performing for both internal and external platforms</td>
-    <td class="tg-pk3b">Mrs Tng-Tan Qiuting</td>
+    <td class="tg-pk3b">Mrs Tng-Tan Qiuting & Mdm Catherine Soh</td>
   </tr>
   <tr>
     <td class="tg-5env"><span style="font-weight:bold"> Green Club</span><br></td>
     <td class="tg-5env"> Blk A,<br>Levl 2 Classrooms</td>
     <td class="tg-5env">Pupils learn more about environmental issues and skills involved when conducting science experiments as well as nurture a love for botany. </td>
-    <td class="tg-pk3b">Mdm Loke Yuet Wai Sharon<br> </td>
+    <td class="tg-pk3b">Mr Jason Lim<br> </td>
   </tr>
   <tr>
-    <td class="tg-8wja">Handball</td>
+    <td class="tg-8wja">Multi-Sports</td>
     <td class="tg-5env">Basketball Court/ Parade Square </td>
-    <td class="tg-5env">Pupils are trained in the basic rules and regulations of the game, techniques in dribbling, passing and shooting as well as competitive strategies and game plans.</td>
+    <td class="tg-5env">Pupils are trained in the basic rules and regulations of various games such as floorball and football, techniques in dribbling, passing and shooting as well as competitive strategies and game plans.</td>
     <td class="tg-pk3b">Mr Andy Soh Beng Hwee<br> </td>
   </tr>
   <tr>
