@@ -181,17 +181,13 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
 		<td class="tg-9u4g"><br><center>Primary 4</center><br></td>
     <td colspan="3" class="tg-fwnj"> <br> <p align="justify"><b>
-The P4 pupils go through the Young Environmentalist Sustainability (Y.E.S) project to teach them the importance of 3 “C” - connect, collaborate, and create. The pupils are connected to the real-world situation of environmental concerns and sustainability. Pupils will have the opportunity to collaborate and learn to apply the 3 Habits of Mind which are thinking flexibility, thinking about thinking and thinking interdependently to develop good habits when working in teams. For the project, the pupils are taught applying the process skills such as defining a problem, brainstorming ideas, and applying SCAMPER techniques as an idea generating tools to solve problem. They will then create and test solution with their prototype.<span style="color:inherit;background-color:transparent"> </span></b></p><b>,</b></td>
+The P4 pupils go through the Young Environmentalist Sustainability (Y.E.S) project to teach them the importance of 3 “C” - connect, collaborate, and create. The pupils are connected to the real-world situation of environmental concerns and sustainability. Pupils will have the opportunity to collaborate and learn to apply the 3 Habits of Mind which are thinking flexibility, thinking about thinking and thinking interdependently to develop good habits when working in teams. For the project, the pupils are taught applying the process skills such as defining a problem, brainstorming ideas, and applying SCAMPER techniques as an idea generating tools to solve problem. They will then create and test solution with their prototype.<span style="color:inherit;background-color:transparent"> </span></b></p><b></b></td>
   </tr>
 </thead>
 </table>
@@ -212,10 +208,7 @@ The P4 pupils go through the Young Environmentalist Sustainability (Y.E.S) proje
 Part1<br>Through the SP sessions, pupils will gain valuable skills so that they can handle real-world projects that engage a multidisciplinary team. They will learn habits of mind that prepare them to take responsible risks; ask and pose good, appropriate questions; and learn to think and communicate clearly and precisely. They will acquire new Science concepts and process skills as they navigate the world of innovation and inventions. As they look at different examples of invention and innovation, they will need to tap into design thinking such as empathy, ideation, prototyping and testing. Finally, they will understand the basics of marketing as they explore the world of advertising and marketing.<br><br><br>
 Part 2 <br>With the skills they learnt, pupils will embark into different teams to focus on 3 possible domains - Entrepreneurship, Design Thinking to invent a prototype, or Design Thinking to provide a service. During this portion of the SP process, teachers will facilitate pupils in their own pursuit as they become Young Entrepreneurs, or Young Designers to solve a real-world problem.<br></b></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><b>&nbsp;</b></p></td></tr></thead></table><span style="color:inherit;background-color:transparent"> </span><p></p>
-  
-
-
-<table class="tg">
+ <table class="tg">
 <thead>
   <tr>
 		<td class="tg-9u4g"><br><center>Primary 6</center><br></td>
