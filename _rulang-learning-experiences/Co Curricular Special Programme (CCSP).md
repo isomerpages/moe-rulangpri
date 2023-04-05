@@ -185,9 +185,9 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
 <table class="tg">
 <thead>
   <tr>
-		<td class="tg-9u4g"><br> <center>Primary 4</center><br></td>
-    <td colspan="3" class="tg-fwnj"> <br> <p align="justify">
-The P4 pupils go through the Young Environmentalist Sustainability (Y.E.S) project to teach them the importance of 3 “C” - connect, collaborate, and create. The pupils are connected to the real-world situation of environmental concerns and sustainability. Pupils will have the opportunity to collaborate and learn to apply the 3 Habits of Mind which are thinking flexibility, thinking about thinking and thinking interdependently to develop good habits when working in teams. For the project, the pupils are taught applying the process skills such as defining a problem, brainstorming ideas, and applying SCAMPER techniques as an idea generating tools to solve problem. They will then create and test solution with their prototype.<b><span style="color:inherit;background-color:transparent"> </span></b></p><b></b></td>
+		<td class="tg-9u4g"><br> <font size="3"><center>Primary 4</center></font><br></td>
+    <td colspan="3" class="tg-fwnj"> <br><font size="3"> </font><p align="justify"><font size="3">
+The P4 pupils go through the Young Environmentalist Sustainability (Y.E.S) project to teach them the importance of 3 “C” - connect, collaborate, and create. The pupils are connected to the real-world situation of environmental concerns and sustainability. Pupils will have the opportunity to collaborate and learn to apply the 3 Habits of Mind which are thinking flexibility, thinking about thinking and thinking interdependently to develop good habits when working in teams. For the project, the pupils are taught applying the process skills such as defining a problem, brainstorming ideas, and applying SCAMPER techniques as an idea generating tools to solve problem. They will then create and test solution with their prototype.</font><b><span style="color:inherit;background-color:transparent"> </span></b></p><b></b></td>
   </tr>
 </thead>
 </table>
@@ -203,16 +203,16 @@ The P4 pupils go through the Young Environmentalist Sustainability (Y.E.S) proje
 <table class="tg">
 <thead>
   <tr>
-		<td class="tg-9u4g"><br><center>Primary 5</center><br></td>
-    <td colspan="3" class="tg-fwnj"> <br> <p align="justify"><b>
+		<td class="tg-9u4g"><br><font size="3"><center>Primary 5</center></font><br></td>
+    <td colspan="3" class="tg-fwnj"> <br><font size="3"> </font><p align="justify"><font size="3">
 Part1<br>Through the SP sessions, pupils will gain valuable skills so that they can handle real-world projects that engage a multidisciplinary team. They will learn habits of mind that prepare them to take responsible risks; ask and pose good, appropriate questions; and learn to think and communicate clearly and precisely. They will acquire new Science concepts and process skills as they navigate the world of innovation and inventions. As they look at different examples of invention and innovation, they will need to tap into design thinking such as empathy, ideation, prototyping and testing. Finally, they will understand the basics of marketing as they explore the world of advertising and marketing.<br><br><br>
-Part 2 <br>With the skills they learnt, pupils will embark into different teams to focus on 3 possible domains - Entrepreneurship, Design Thinking to invent a prototype, or Design Thinking to provide a service. During this portion of the SP process, teachers will facilitate pupils in their own pursuit as they become Young Entrepreneurs, or Young Designers to solve a real-world problem.<br></b></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
+Part 2 <br>With the skills they learnt, pupils will embark into different teams to focus on 3 possible domains - Entrepreneurship, Design Thinking to invent a prototype, or Design Thinking to provide a service. During this portion of the SP process, teachers will facilitate pupils in their own pursuit as they become Young Entrepreneurs, or Young Designers to solve a real-world problem.<br></font></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><b>&nbsp;</b></p></td></tr></thead></table><span style="color:inherit;background-color:transparent"> </span>
  <table class="tg">
 <thead>
   <tr>
-		<td class="tg-9u4g"><br><center>Primary 6</center><br></td>
-    <td colspan="3" class="tg-fwnj"> <br> <p align="justify"><b>
+		<td class="tg-9u4g"><br><font size="3"><center>Primary 6</center><br></font></td>
+    <td colspan="3" class="tg-fwnj"> <br> <p align="justify"><font size="3">
 Part1<br> Pupils will learn some aspects of Innovation, Entrepreneurship and Student Leadership and apply the knowledge and skills learnt to become The Little Trainers. They will understand the difference between “Invention” and “Innovation”, identify a problem that they would like to solve, analyse an existing product to be improved upon and apply SCAMPER as an idea generating tool to solve their problem. By using the design thinking process to understand consumer needs, pupils will acquire some entrepreneurial skills. Their approach will be strengthened by Arthur L.&nbsp;Costa’s 2 Habits of Mind - Applying Past Knowledge To New Situations &amp; Learning Continuously and Peter Senge’s Five Disciplines of a Learning Organisation.<br><br><br>
-Part 2<br>CCA groups will be paired by choice and led by the CCA Leaders, design a 1-hour workshop to teach the P2 pupils a skill or to make a product. After a sneak peek (rapping, skit, etc) of their presentation to the P2 pupils during recess, P2 pupils will complete a survey to indicate their top 3 choices of what they would like to learn. A day will be set aside in Term 2, Week 9 for this training to take place.<br></b></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
+Part 2<br>CCA groups will be paired by choice and led by the CCA Leaders, design a 1-hour workshop to teach the P2 pupils a skill or to make a product. After a sneak peek (rapping, skit, etc) of their presentation to the P2 pupils during recess, P2 pupils will complete a survey to indicate their top 3 choices of what they would like to learn. A day will be set aside in Term 2, Week 9 for this training to take place.<br></font></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
   inter-ideograph;line-height:normal"><b>&nbsp;</b></p></td></tr></thead></table><span style="color:inherit;background-color:transparent"> </span>
