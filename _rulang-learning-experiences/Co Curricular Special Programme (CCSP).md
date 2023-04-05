@@ -186,8 +186,8 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
 <thead>
   <tr>
 		<td class="tg-9u4g"><br> <font size="-1"><center>Primary 4</center></font><br></td>
-    <td colspan="3" class="tg-fwnj"> <br> <p align="justify"><b>
-The P4 pupils go through the Young Environmentalist Sustainability (Y.E.S) project to teach them the importance of 3 “C” - connect, collaborate, and create. The pupils are connected to the real-world situation of environmental concerns and sustainability. Pupils will have the opportunity to collaborate and learn to apply the 3 Habits of Mind which are thinking flexibility, thinking about thinking and thinking interdependently to develop good habits when working in teams. For the project, the pupils are taught applying the process skills such as defining a problem, brainstorming ideas, and applying SCAMPER techniques as an idea generating tools to solve problem. They will then create and test solution with their prototype.<span style="color:inherit;background-color:transparent"> </span></b></p><b></b></td>
+    <td colspan="3" class="tg-fwnj"> <br> <p align="justify"><font size="-1"><b>
+The P4 pupils go through the Young Environmentalist Sustainability (Y.E.S) project to teach them the importance of 3 “C” - connect, collaborate, and create. The pupils are connected to the real-world situation of environmental concerns and sustainability. Pupils will have the opportunity to collaborate and learn to apply the 3 Habits of Mind which are thinking flexibility, thinking about thinking and thinking interdependently to develop good habits when working in teams. For the project, the pupils are taught applying the process skills such as defining a problem, brainstorming ideas, and applying SCAMPER techniques as an idea generating tools to solve problem. They will then create and test solution with their prototype.</b></font><b><span style="color:inherit;background-color:transparent"> </span></b></p><b></b></td>
   </tr>
 </thead>
 </table>
