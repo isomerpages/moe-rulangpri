@@ -175,6 +175,7 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
   </tr>
 </tbody>
 </table>
+<br><br>
 
 **Overview of Special Programmes (SP) 2023**
 <style type="text/css">
