@@ -120,7 +120,7 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8wja">Art Club<br>(P3 & P4)</td>
+    <td class="tg-8wja">Art Club<br>(P3 &amp; P4)</td>
     <td class="tg-5env"> Art Room<br>1 &amp; 3</td>
     <td class="tg-5env">Pupils are trained in print making, sculpture making, digital art, graffiti art &amp; creative 3-D art.</td>
     <td class="tg-pk3b">Ms Salizawati<br> <br> </td>
@@ -153,7 +153,7 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
     <td class="tg-5env"><span style="font-weight:bold"> Chinese Orchestra</span></td>
     <td class="tg-5env">CO Room and Level 7 Classrooms  </td>
     <td class="tg-5env">  Pupils are trained to specialise in Chinese Orchestra instruments and in music theory which may lead to internationally recognised certification. Pupils will be exposed to various performing for both internal and external platforms</td>
-    <td class="tg-pk3b">Mrs Tng-Tan Qiuting & Mdm Catherine Soh</td>
+    <td class="tg-pk3b">Mrs Tng-Tan Qiuting &amp; Mdm Catherine Soh</td>
   </tr>
   <tr>
     <td class="tg-5env"><span style="font-weight:bold"> Green Club</span><br></td>
@@ -175,11 +175,23 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
   </tr>
 </tbody>
 </table>
+<br><br>
 
-**Overview of Special Programmes (SP) 2021**
-
-**(Mondays and Fridays)**
-
+**Overview of Special Programmes (SP) 2023**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:12px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+		<td class="tg-9u4g"><br> <font size="3"><center>Primary 4</center></font><br></td>
+    <td colspan="3" class="tg-fwnj"> <br><font size="3"> </font><p align="justify"><font size="3">
+The P4 pupils go through the Young Environmentalist Sustainability (Y.E.S) project to teach them the importance of 3 “C” - connect, collaborate, and create. The pupils are connected to the real-world situation of environmental concerns and sustainability. Pupils will have the opportunity to collaborate and learn to apply the 3 Habits of Mind which are thinking flexibility, thinking about thinking and thinking interdependently to develop good habits when working in teams. For the project, the pupils are taught applying the process skills such as defining a problem, brainstorming ideas, and applying SCAMPER techniques as an idea generating tools to solve problem. They will then create and test solution with their prototype.</font><b><span style="color:inherit;background-color:transparent"> </span></b></p><b></b></td>
+  </tr>
+</thead>
+</table>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -192,95 +204,16 @@ All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9u4g">SP Focus</th>
-    <th class="tg-9u4g">Primary 3</th>
-    <th class="tg-9u4g">Primary 4</th>
-    <th class="tg-9u4g">Primary 5</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9u4g"> ICT / Design Thinking<br> <br>HOD-in-charge:<br> <br>Mdm Lynn Chia /<br>Mr Gary Chua</td>
-    <td class="tg-fwnj">Pupils will get to challenge their logical thinking as they use a simple robot to move around a playmat, solving challenges with ever-increasing difficulty.</td>
-    <td class="tg-fwnj">Focusing on Design Thinking skills, pupils will be given a short course on the different stages of Design Thinking with activities to help them understand the different stages better.</td>
-    <td class="tg-fwnj">Through the ICT/Design Thinking lessons, pupils will learn basic Design Thinking skills and combine them with Robotics elements to create real-world solutions to real-world problems. Pupils will learn to empathise, ask questions, brainstorm, prototype and test solutions with robotics kits to build creative designs and come up with solutions that can potentially benefit people.</td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+		<td class="tg-9u4g"><br><font size="3"><center>Primary 5</center></font><br></td>
+    <td colspan="3" class="tg-fwnj"> <br><font size="3"> </font><p align="justify"><font size="3">
+Part1<br>Through the SP sessions, pupils will gain valuable skills so that they can handle real-world projects that engage a multidisciplinary team. They will learn habits of mind that prepare them to take responsible risks; ask and pose good, appropriate questions; and learn to think and communicate clearly and precisely. They will acquire new Science concepts and process skills as they navigate the world of innovation and inventions. As they look at different examples of invention and innovation, they will need to tap into design thinking such as empathy, ideation, prototyping and testing. Finally, they will understand the basics of marketing as they explore the world of advertising and marketing.<br><br><br>
+Part 2 <br>With the skills they learnt, pupils will embark into different teams to focus on 3 possible domains - Entrepreneurship, Design Thinking to invent a prototype, or Design Thinking to provide a service. During this portion of the SP process, teachers will facilitate pupils in their own pursuit as they become Young Entrepreneurs, or Young Designers to solve a real-world problem.<br></font></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><b>&nbsp;</b></p></td></tr></thead></table><span style="color:inherit;background-color:transparent"> </span>
+ <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9u4g">SP Focus</th>
-    <th class="tg-9u4g">Primary 4</th>
-    <th class="tg-9u4g">Primary 5</th>
-    <th class="tg-9u4g">Primary 6</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9u4g">Entrepreneurship<br> <br> <br> <br>HOD in-charge:<br>Mr Tan Puh Chen<br> <br> <br> <br> </td>
-    <td class="tg-fwnj">Pupils will learn basic economics concepts<br>●      Scarcity (Needs and Wants)<br>●      Opportunity Cost<br>●      Short-term and Long-term Rewards<br>●      Choices<br>●      Demand and Supply (Interactions, Changes and Price)<br>●      Market Equilibrium</td>
-    <td class="tg-fwnj">Pupils will learn basic economics concepts<br>●      Free Market Competition<br>●      Oligopoly<br>●      Monopolistic Competition<br>●      Monopoly<br>●      Goals of Entrepreneurs (Profit and Organisational Growth)<br>●      Product Differentiation and Price Competition<br>This module allows pupils to apply what they have learnt in Primary 4. </td>
-    <td class="tg-fwnj">Pupils will be engaged in market survey process. Pupils will set up their own stalls to sell items to P2 pupils through the Rulang Market. Basic marketing strategies will be introduced to the pupils. It will allow pupils to engage in efficient and effective teamwork through respecting one another’s differences.  This module allows pupils to apply what they have learnt in Primary 4 and 5.</td>
-  </tr>
-  <tr>
-    <td class="tg-9u4g">Innovention<br>   <br>HOD in-charge:<br>Mr Goh Wei Howe</td>
-    <td class="tg-fwnj" colspan="2">Pupils learn to apply Science concepts, process skills and processes through innovation and invention by creating their own invention at different levels:<br>●      Understand the difference between “Invention” and “Innovation”<br>●      Apply SCAMPER techniques as an idea generating tool to solve the problem<br>●      Identify and select a problem around them that they would like to solve<br>●      Analyse on existing product to be improved upon<br>●      Collect information for idea survey<br>Presentation of completed sketch for new product invention</td>
-    <td class="tg-fwnj">Through this programme, pupils will acquire new Science concepts and process skills which they will build on and apply them through brainstorming and creative problem solving. This provides pupils with opportunities to apply innovative protocol to conceive ideas and transform it into an invention of a Science toy or gadget in a systematic and orderly manner. In addition, it also help to promote collaboration and effective communication among pupils in the process of completing their tasks.</td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
-.tg .tg-i2s5{background-color:#FFF;color:#454545;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-9u4g" rowspan="3">Student Leadership<br>   <br>HOD in-charge:<br>Ms Christina Foo</td>
-    <td class="tg-i2s5" colspan="2"><span style="font-weight:bold">Student-Initiated Project (SIP)Level 1 - School Improvement Projects</span><br>●     Pupils will be taught Brainstorming Techniques<br>●     Pupils will learn to plan a self-initiated project for school improvement</td>
-    <td class="tg-i2s5" rowspan="2"><span style="font-weight:bold">Habits of Mind (HOM) &amp; Introduction to Cheerleading and Teambuilding (ICAT)</span><br>●     Pupils will learn two Habits of Mind through brain teasers and teambuilding games <br>●     Pupils will work in groups to achieve the objectives of the games</td>
-  </tr>
-  <tr>
-    <td class="tg-i2s5" colspan="2"><span style="font-weight:bold">Habits of Mind (HOM) &amp; Introduction to Cheerleading and Teambuilding (ICAT)</span><br><span style="font-weight:400;font-style:normal;text-decoration:underline">● </span>Pupils will learn three Habits of Mind through brain teasers and team building games<br><span style="font-weight:400;font-style:normal;text-decoration:underline">● </span>Pupils will work in groups to achieve the objectives of the games<br><span style="font-weight:400;font-style:normal;text-decoration:underline">● </span>Pupils will work in groups to write and perform their own cheers<br><span style="font-weight:400;font-style:normal;text-decoration:underline">● </span>Cheers writing and performing competition</td>
-  </tr>
-  <tr>
-    <td class="tg-fwnj" colspan="3">The bedrock of our programmes is the 16 Habits of Mind (HOM) advocated by Arthur L. Costa. The HOM focus on observing how pupils produce knowledge rather than how they merely reproduce knowledge. It also covers how intelligent human beings act on known information presented to them. In this programme, pupils will discover, acquire and strengthen their habits of mind, which are the characteristics of what intelligent people do when they are confronted with problems. </td>
-  </tr>
-</thead>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-9u4g">LLP Sports Module<br>(Primary 3)<br> <br>HOD-in-charge:<br> <br>Mr Woody Woo</td>
-    <td class="tg-fwnj" colspan="3"> <br>The LLP Sports module is a broad based, inclusive sports programme for pupils to promote the joy of learning and positive association with physical activities. Through the sports module, there will be opportunities for those with greater interest and/or talent to further develop their strengths and interest in sports CCAs. Pupils will be encouraged to pursue lifelong learning in physical activities beyond their primary school experience.<br>As this module involves physical activities, pupils can opt to sit out if they are not physically ready to take part in the programme. Participants should also be appropriately dressed – reminders would be given nearer to the date of the programme.<span style="color:inherit;background-color:transparent"> </span></td>
-  </tr>
-</thead>
-</table>
+		<td class="tg-9u4g"><br><font size="3"><center>Primary 6</center><br></font></td>
+    <td colspan="3" class="tg-fwnj"> <br> <p align="justify"><font size="3">
+Part1<br> Pupils will learn some aspects of Innovation, Entrepreneurship and Student Leadership and apply the knowledge and skills learnt to become The Little Trainers. They will understand the difference between “Invention” and “Innovation”, identify a problem that they would like to solve, analyse an existing product to be improved upon and apply SCAMPER as an idea generating tool to solve their problem. By using the design thinking process to understand consumer needs, pupils will acquire some entrepreneurial skills. Their approach will be strengthened by Arthur L.&nbsp;Costa’s 2 Habits of Mind - Applying Past Knowledge To New Situations &amp; Learning Continuously and Peter Senge’s Five Disciplines of a Learning Organisation.<br><br><br>
+Part 2<br>CCA groups will be paired by choice and led by the CCA Leaders, design a 1-hour workshop to teach the P2 pupils a skill or to make a product. After a sneak peek (rapping, skit, etc) of their presentation to the P2 pupils during recess, P2 pupils will complete a survey to indicate their top 3 choices of what they would like to learn. A day will be set aside in Term 2, Week 9 for this training to take place.<br></font></p><p class="MsoNormal" style="margin-bottom:0in;text-align:justify;text-justify:
+  inter-ideograph;line-height:normal"><b>&nbsp;</b></p></td></tr></thead></table><span style="color:inherit;background-color:transparent"> </span>
