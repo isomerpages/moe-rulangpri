@@ -1054,7 +1054,7 @@ third_nav_title: Our Rulang Family
 <thead>
   <tr>
     <th class="tg-9u4g">Special Educational Needs Officer</th>
-    <th class="tg-9u4g">Email</th>
+    <th class="tg-9u4g"></th>
   </tr>
 </thead>
 <tbody>
@@ -1085,7 +1085,7 @@ third_nav_title: Our Rulang Family
 <thead>
   <tr>
     <th class="tg-9u4g">Teacher</th>
-    <th class="tg-9u4g">Email</th>
+    <th class="tg-9u4g"></th>
   </tr>
 </thead>
 <tbody>
@@ -1100,6 +1100,7 @@ third_nav_title: Our Rulang Family
   </tr>
 </tbody>
 </table>
+
 **Executive and Administrative Staff**
 
 <style type="text/css">
