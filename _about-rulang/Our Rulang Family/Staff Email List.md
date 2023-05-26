@@ -1053,14 +1053,45 @@ third_nav_title: Our Rulang Family
 <table class="tg">
 <thead>
   <tr>
+    <th class="tg-9u4g">Special Educational Needs Officer</th>
+    <th class="tg-9u4g">Email</th>
+  </tr>
+</thead>
+<tbody>
+   <tr>
+    <td class="tg-fwnj">(Ms)          Ng Bee Hoon Serene<br></td>
+    <td class="tg-scbu"><a href="mailto:Ng_bee_hoon_serene@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">Ng_bee_hoon_serene@moe.edu.sg</span></a> <br></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-fwnjl">(Ms)      Sophia Binte Mohd Rozle<br></td>
+    <td class="tg-scbu"><a href="mailto:Sophia_mohd_rozle@moe.edu.sgg"><span style="text-decoration:none;color:#E62F14">Sophia_mohd_rozle@moe.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-iual{background-color:#E5E5E5;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-scbu{background-color:#FFF;color:#E62F14;text-align:left;vertical-align:top}
+.tg .tg-v9yw{background-color:#E5E5E5;color:#E62F14;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
     <th class="tg-9u4g">Teacher</th>
     <th class="tg-9u4g">Email</th>
   </tr>
 </thead>
 <tbody>
    <tr>
-    <td class="tg-fwnj">(Mr)          Mak Siew Thong<br></td>
-    <td class="tg-scbu"><a href="mailto:mak_siew_thong@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">mak_siew_thong@moe.edu.sg</span></a> <br></td>
+    <td class="tg-iual">(Mr)          Mak Siew Thong<br></td>
+    <td class="tg-v9yw"><a href="mailto:mak_siew_thong@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">mak_siew_thong@moe.edu.sg</span></a> <br></td>
   </tr>
   
   <tr>
@@ -1069,7 +1100,6 @@ third_nav_title: Our Rulang Family
   </tr>
 </tbody>
 </table>
-
 **Executive and Administrative Staff**
 
 <style type="text/css">
@@ -1142,13 +1172,8 @@ third_nav_title: Our Rulang Family
   </tr>
 	 <tr>
     <td class="tg-9u4g">Desktop Engineer<br></td>
-    <td class="tg-fwnj">Ms Nur Jalilah Mohammed Affendi</td>
-    <td class="tg-scbu"><a href="mailto:Nur.jalila.bm@ncs.com.sg" target="_blank" rel="noopener noreferrer"><span style="color:#E62F14">Nur.jalila.bm@ncs.com.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-1k38">Desktop Engineer</td>
-    <td class="tg-iual">Mr Thet Khine </td>
-    <td class="tg-v9yw"><a href="mailto:thetkhine@ncs.com.sg"><span style="text-decoration:none;color:#E62F14">thetkhine@ncs.com.sg</span></a></td>
+    <td class="tg-fwnj">Mr Thet Khine</td>
+    <td class="tg-scbu"><a href="mailto:Nur.jalila.bm@ncs.com.sg" target="_blank" rel="noopener noreferrer"><span style="color:#E62F14">thetkhine@ncs.com.sg</span></a></td>
   </tr>
 </tbody>
 </table>
