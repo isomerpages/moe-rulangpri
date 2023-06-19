@@ -10,7 +10,7 @@ third_nav_title: For Teachers
 
 * [Academy of Singapore Teachers (AST)](https://academyofsingaporeteachers.moe.edu.sg/)
 * [ALL EARS Form Builder](https://forms.moe.edu.sg/) 
-* [E-Pedagogy One Stop Site](https://www.opal2.moe.edu.sg/csl/s/epedagogy/wiki/page/view?title=Homepage)
+* [E-Pedagogy One Stop Site (OPAL)](https://www.opal2.moe.edu.sg/csl/s/epedagogy/wiki/page/view?title=Homepage)
 * [HR & Pay System](https://www.hrp.gov.sg/hrp/#/)
 * [IAMS 2.0*](https://identity.moe.edu.sg/forgotpassword/faces/forgotpassword.jspx)
 * [iCON](https://icon.moe.edu.sg/)
