@@ -253,8 +253,6 @@ h. You may terminate the Terms of Use by giving GovTech one month’s written no
 
 i. The Permitted Entity acknowledges and accepts that websites created with Isomer are designed to work only with Github, and GovTech shall not be responsible for any issues arising out of or in connection with the Permitted Entity’s decision to discontinue use of Github or Isomer.
 
-### 
-
 3\. **Third party software/services**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#3.-third-party-software-services)
 
 *   a. GitHub’s terms of service ([link](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service))
@@ -270,8 +268,6 @@ i. The Permitted Entity acknowledges and accepts that websites created with Isom
     
 
 Note that additionally, you shall grant to GovTech all rights necessary to comply with any of the Third Party Terms, including rights to your domain name or SSL certificates.
-
-### 
 
 4\. Special Terms[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#4.-special-terms)
 
