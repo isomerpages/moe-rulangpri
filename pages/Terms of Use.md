@@ -90,9 +90,7 @@ Please see the Schedule for more information and terms concerning this Service.
 
 **5A. Ownership of Feedback/Requests/Suggestions**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#5a.-ownership-of-feedback-requests-suggestions)
 
-You agree that all title and interest in any feedback, requests or suggestions from you concerning the Services provided to GovTech shall be owned by GovTech.
-
-### 
+You agree that all title and interest in any feedback, requests or 
 
 **5B. Confidentiality**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#5b.-confidentiality)
 
@@ -110,7 +108,7 @@ You agree that all title and interest in any feedback, requests or suggestions f
 
 you shall immediately notify GovTech or the Third Party of the same and cooperate with GovTech or the Third Party to prevent or limit such disclosure.
 
-		* 5B.4. Nothing in this Clause 5B shall prejudice GovTech’s or the Third Party’s other rights at law.
+* 5B.4. Nothing in this Clause 5B shall prejudice GovTech’s or the Third Party’s other rights at law.
 		
 6\. Disclaimers and Indemnity[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#6.-disclaimers-and-indemnity)
 
