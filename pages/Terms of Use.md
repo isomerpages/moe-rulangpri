@@ -141,84 +141,69 @@ you shall immediately notify GovTech or the Third Party of the same and cooperat
 
 regardless of whether GovTech has been advised of the possibility of such damage or loss.
 
-**6.3. Without prejudice and in addition to the foregoing, insofar as the Service facilitates or requires the provision, use or functioning of, or is provided in conjunction with, other products, software, materials and/or services not provided by GovTech, GovTech makes no representation or warranty in relation to such products, software, materials and/or services (including without limitation any representation or warranties as to timeliness, reliability, availability, interoperability, quality, fitness for purpose, non-infringement, suitability or accuracy).**
+* 6.3. Without prejudice and in addition to the foregoing, insofar as the Service facilitates or requires the provision, use or functioning of, or is provided in conjunction with, other products, software, materials and/or services not provided by GovTech, GovTech makes no representation or warranty in relation to such products, software, materials and/or services (including without limitation any representation or warranties as to timeliness, reliability, availability, interoperability, quality, fitness for purpose, non-infringement, suitability or accuracy).
 
-6.4. You shall not rely on any part of the Service to claim or assert any form of legitimate expectation against GovTech, whether or not arising out of or in connection with GovTech’s roles and functions as a public authority.
+* 6.4. You shall not rely on any part of the Service to claim or assert any form of legitimate expectation against GovTech, whether or not arising out of or in connection with GovTech’s roles and functions as a public authority.
 
-**6.5. You agree to defend and indemnify and keep GovTech and its officers, employees, agents and contractors harmless against all liabilities, losses, damages, costs or expenses (including legal costs on an indemnity basis) howsoever arising out of or in connection with your access or use of the Service (including third party software or services) or your non-compliance with the Terms of Use, Third Party Terms or Incorporated Terms, whether or not you had been advised or informed of the nature or extent of such liabilities, losses, damages, costs or expenses. You warrant and represent that your access or use of the Service does not and will not breach or violate any laws, regulations, trade, economic and/or export sanctions (wherever in the world) applicable to you, and that you shall not transmit any malicious code, illegal, infringing or undesirable content or materials to GovTech or its agents or any Third Party.**
+* 6.5. You agree to defend and indemnify and keep GovTech and its officers, employees, agents and contractors harmless against all liabilities, losses, damages, costs or expenses (including legal costs on an indemnity basis) howsoever arising out of or in connection with your access or use of the Service (including third party software or services) or your non-compliance with the Terms of Use, Third Party Terms or Incorporated Terms, whether or not you had been advised or informed of the nature or extent of such liabilities, losses, damages, costs or expenses. You warrant and represent that your access or use of the Service does not and will not breach or violate any laws, regulations, trade, economic and/or export sanctions (wherever in the world) applicable to you, and that you shall not transmit any malicious code, illegal, infringing or undesirable content or materials to GovTech or its agents or any Third Party.
 
-6.6. GovTech shall have the right to take any and all necessary actions/omissions to protect its interests, including complying with any legal requirements (such as taking down, disabling and disabling access to, removing (permanently or temporarily), and/or restoring (including restoring access to) any materials contained in, accessed through, uploaded to, and/or made available via the Service in response to any take-down or restoration notices). You agree that GovTech is not obliged to determine the merits of any take-down or restoration notices. You further waive any rights arising as a result of the actions/omissions taken by GovTech.
+* 6.6. GovTech shall have the right to take any and all necessary actions/omissions to protect its interests, including complying with any legal requirements (such as taking down, disabling and disabling access to, removing (permanently or temporarily), and/or restoring (including restoring access to) any materials contained in, accessed through, uploaded to, and/or made available via the Service in response to any take-down or restoration notices). You agree that GovTech is not obliged to determine the merits of any take-down or restoration notices. You further waive any rights arising as a result of the actions/omissions taken by GovTech.
 
-6.7. Without prejudice and in addition to GovTech’s other rights:
+* 6.7. Without prejudice and in addition to GovTech’s other rights:
 
-*   6.7.1. in no event shall GovTech’s total cumulative liability arising out of or in connection with these Terms of Use to you exceed the amount of fees or payment received by GovTech (and not paid or given to any Third Party by GovTech) from you for the Service in the 12 months preceding the date of the first cause of action; and
+	*   6.7.1. in no event shall GovTech’s total cumulative liability arising out of or in connection with these Terms of Use to you exceed the amount of fees or payment received by GovTech (and not paid or given to any Third Party by GovTech) from you for the Service in the 12 months preceding the date of the first cause of action; and
     
-
-*   6.7.2. no action may be brought by you against GovTech arising out of or in connection with these Terms of Use more than one (1) year after the cause of action arose.
+	*   6.7.2. no action may be brought by you against GovTech arising out of or in connection with these Terms of Use more than one (1) year after the cause of action arose.
     
-
-### 
-
 7\. Hyperlinks[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#7.-hyperlinks)
 
-7.1. Insofar as the Service provides a hyperlink to material not maintained or controlled by GovTech, GovTech shall not be responsible for the content of the hyperlinked material and shall not be liable for any damages or loss arising from access to the hyperlinked material. Use of the hyperlinks and access to such hyperlinked materials are entirely at your own risk. The hyperlinks are provided merely as a convenience to you and do not imply endorsement by, association or affiliation with GovTech of the contents of or provider of the hyperlinked materials.
+*  7.1. Insofar as the Service provides a hyperlink to material not maintained or controlled by GovTech, GovTech shall not be responsible for the content of the hyperlinked material and shall not be liable for any damages or loss arising from access to the hyperlinked material. Use of the hyperlinks and access to such hyperlinked materials are entirely at your own risk. The hyperlinks are provided merely as a convenience to you and do not imply endorsement by, association or affiliation with GovTech of the contents of or provider of the hyperlinked materials.
 
-7.2. Caching and hyperlinking to, and the framing of, any part of the Service is prohibited save where you have obtained GovTech’s prior written consent. Such consent may be subject to any conditions as may be determined by GovTech in its sole discretion. If you hyperlink to or frame any part of the Service, that shall constitute your acceptance of these Terms of Use and all amendments thereto. If you do not accept these Terms of Use as may be amended from time to time, you must immediately discontinue linking to or framing of any part of the Service.
+* 7.2. Caching and hyperlinking to, and the framing of, any part of the Service is prohibited save where you have obtained GovTech’s prior written consent. Such consent may be subject to any conditions as may be determined by GovTech in its sole discretion. If you hyperlink to or frame any part of the Service, that shall constitute your acceptance of these Terms of Use and all amendments thereto. If you do not accept these Terms of Use as may be amended from time to time, you must immediately discontinue linking to or framing of any part of the Service.
 
-7.3. GovTech reserves all rights:
+* 7.3. GovTech reserves all rights:
 
-*   7.3.1. to disable any links to, or frames of, any materials which are unauthorised (including without limitation materials which imply endorsement by or association or affiliation with GovTech, materials containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights); and
+	*   7.3.1. to disable any links to, or frames of, any materials which are unauthorised (including without limitation materials which imply endorsement by or association or affiliation with GovTech, materials containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights); and
     
 
-*   7.3.2. to disclaim responsibility and/or liability for materials that link to or frame any part of the Service.
+	*   7.3.2. to disclaim responsibility and/or liability for materials that link to or frame any part of the Service.
     
-
-### 
-
 8\. Privacy Statement[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#8.-privacy-statement)
 
 You also agree to the terms of the Government Agency Privacy Statement for this Service as may be amended from time to time. The Government Agency Privacy Statement will form part of these Terms of Use.
 
-### 
-
-**9\. Rights of Third Parties**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#9.-rights-of-third-parties)
+9\. Rights of Third Parties[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#9.-rights-of-third-parties)
 
 Subject to the rights of the Third Party and/or Singapore public sector agencies, a person who is not a party to this Terms of Use shall have no right under the Contract (Rights of Third Parties) Act or otherwise to enforce any of its terms.
 
-### 
+10\. Assignment[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#10.-assignment)
 
-**10\. Assignment**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#10.-assignment)
+* 10.1. You may not assign or sub-contract this Terms of Use without the prior written consent of GovTech.
 
-10.1. You may not assign or sub-contract this Terms of Use without the prior written consent of GovTech.
+* 10.2. GovTech may assign, novate, transfer, or sub-contract the rights and liabilities in respect of the Service and this Terms of Use, without notifying you and without further reference to you. Your acceptance of this Terms of Use shall also constitute your consent to such assignment, novation, transfer or sub-contract.
 
-10.2. GovTech may assign, novate, transfer, or sub-contract the rights and liabilities in respect of the Service and this Terms of Use, without notifying you and without further reference to you. Your acceptance of this Terms of Use shall also constitute your consent to such assignment, novation, transfer or sub-contract.
-
-### 
-
-**10A. Severability**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#10a.-severability)
+* 10A. Severability[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#10a.-severability)
 
 If any term of these Terms of Use is held by a court or tribunal of competent jurisdiction to be invalid or unenforceable, then these Terms of Use, including all of the remaining terms, will remain in full force and effect as if such invalid or unenforceable term had never been included but, to the extent permissible, such invalid or unenforceable terms shall be deemed to have been replaced by terms that are (a) valid and enforceable and (b) express the intention or produce the result closest to the original intention of the invalid or unenforceable terms.
 
-### 
+11\. Governing Law and Dispute Resolution[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#11.-governing-law-and-dispute-resolution)
 
-**11\. Governing Law and Dispute Resolution**[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#11.-governing-law-and-dispute-resolution)
+* 11.1. These Terms of Use shall be governed by and construed in accordance with laws of Singapore.
 
-11.1. These Terms of Use shall be governed by and construed in accordance with laws of Singapore.
+* 11.2. Subject to clause 11.3, any dispute arising out of or in connection with these Terms of Use, including any question regarding its existence, validity or termination, shall be referred to and finally resolved in the Courts of the Republic of Singapore and the parties hereby submit to the exclusive jurisdiction of the Courts of the Republic of Singapore.
 
-11.2. Subject to clause 11.3, any dispute arising out of or in connection with these Terms of Use, including any question regarding its existence, validity or termination, shall be referred to and finally resolved in the Courts of the Republic of Singapore and the parties hereby submit to the exclusive jurisdiction of the Courts of the Republic of Singapore.
+* 11.3. GovTech may, at its sole discretion, refer any dispute referred to in clause 11.2 above to arbitration administered by the Singapore International Arbitration Centre (“**SIAC**”) in Singapore in accordance with the Arbitration Rules of the SIAC ("**SIAC Rules**") for the time being in force, which rules are deemed to be incorporated by reference in this clause. Further:
 
-11.3. GovTech may, at its sole discretion, refer any dispute referred to in clause 11.2 above to arbitration administered by the Singapore International Arbitration Centre (“**SIAC**”) in Singapore in accordance with the Arbitration Rules of the SIAC ("**SIAC Rules**") for the time being in force, which rules are deemed to be incorporated by reference in this clause. Further:
-
-*   11.3.1. The seat of the arbitration shall be Singapore.
+	*   11.3.1. The seat of the arbitration shall be Singapore.
     
 
-*   11.3.2. The tribunal shall consist of one (1) arbitrator.
+	*   11.3.2. The tribunal shall consist of one (1) arbitrator.
     
 
-*   11.3.3. The language of the arbitration shall be English.
+	*   11.3.3. The language of the arbitration shall be English.
     
 
-*   11.3.4. All information, pleadings, documents, evidence and all matters relating to the arbitration shall be confidential.
+	*   11.3.4. All information, pleadings, documents, evidence and all matters relating to the arbitration shall be confidential.
     
 
 Where GovTech is the defendant or respondent, it shall be given at least 30 days before the commencement of any legal action against it to elect to exercise the right herein to have the dispute submitted to arbitration. This right to elect shall not prejudice GovTech’s right to a limitation defence and the period to exercise the right shall not be abridged by reason of any accrual of a limitation defence in favour of GovTech during the said period.
@@ -230,11 +215,7 @@ Schedule[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#schedule)
 
 -----------------------------------------------------------------------------------
 
-### 
-
 1\. Name of Service: Isomer[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#1.-name-of-service-isomer)
-
-### 
 
 2\. Nature of Service[](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#2.-nature-of-service)
 
