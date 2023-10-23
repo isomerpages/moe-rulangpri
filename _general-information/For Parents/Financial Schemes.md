@@ -8,11 +8,14 @@ third_nav_title: For Parents
 
 Dear Parents,
 
-For more information with regard to **MOE Financial Assistance Scheme (FAS)**, please click **[HERE](https://www.moe.gov.sg/financial-matters/financial-assistance)**.
+For more information with regard to&nbsp;**MOE Financial Assistance Scheme (FAS)**, please click&nbsp;**[HERE](https://www.moe.gov.sg/financial-matters/financial-assistance)**.
 
-**MOE FAS e-application Form (e-FAS)**
+<br>
 
-The 2024 e-FAS link/ QR code is provided below.  
+* **MOE FAS e-application Form (e-FAS)**
 
-[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
-![](/images/efas%20qr%20cod.png)
+	The 2024 e-FAS link/ QR code is provided below.&nbsp;&nbsp;
+
+	[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
+
+<img src="/images/efas%20qr%20cod.png" style="width:40%">
