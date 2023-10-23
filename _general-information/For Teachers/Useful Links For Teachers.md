@@ -13,7 +13,7 @@ third_nav_title: For Teachers
 * [E-Pedagogy One Stop Site (OPAL)](https://www.opal2.moe.edu.sg/csl/s/epedagogy/wiki/page/view?title=Homepage)
 * [HR & Pay System](https://www.hrp.gov.sg/hrp/#/)
 * [IAMS 2.0*](https://identity.moe.edu.sg/forgotpassword/faces/forgotpassword.jspx)
-* [iCON](https://icon.moe.edu.sg/)
+* [iCON Email](https://idp.mims.moe.gov.sg/nidp/app)
 * [iExams 2.0*](http://iexams.seab.gov.sg/sso/login?)
 * [iMTL](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)
 * [MIMS - login using with @schools.gov.sg](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
