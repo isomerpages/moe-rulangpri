@@ -15,3 +15,4 @@ For more information with regard to **MOE Financial Assistance Scheme (FAS)**, 
 The 2024 e-FAS link/ QR code is provided below.  
 
 [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
+![](/images/efas%20qr%20cod.png)
