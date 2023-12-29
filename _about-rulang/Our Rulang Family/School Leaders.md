@@ -3,17 +3,18 @@ title: School Leaders
 permalink: /our-rulang-family/school-leaders/
 description: ""
 third_nav_title: Our Rulang Family
+variant: markdown
 ---
-![Rulang School Leaders](/images/School%20Leaders%202023.jpeg)
+![Rulang School Leaders](/images/school%20leaders%202024.jpeg)
 _\[From Left to Right\]_
 
-_Mr Toh Jin Tian (Vice-Principal)_
+_Mr Philip Justin Moorthy (Vice-Principal, Admin)_
+
+_Mr Adrian Tan (Vice-Principal)_
 
 _Ms Tracy Tan I-Lian (Principal)_
 
-_Dr Choong Pek Lan (Vice-Principal)_
-
-_Mr Philip Justin Moorthy (Vice-Principal, Admin)_
+_Mr Toh Jin Tian (Vice-Principal)_
 
 
 # Contact
@@ -23,12 +24,12 @@ Ms Tracy Tan I-Lian
 Email: [Tracy_TAN@schools.gov.sg](mailto:Tracy_TAN@schools.gov.sg)
 
 **Vice-Principal**  
-Dr Choong Pek Lan   
-Email: [Choong_Pek_Lan@schools.gov.sg](mailto:Choong_Pek_Lan@schools.gov.sg)
-
-**Vice-Principal**  
 Mr Toh Jin Tian    
 Email: [Toh_Jin_Tian@schools.gov.sg](mailto:TOH_Jin_Tian@schools.gov.sg)
+
+**Vice-Principal**  
+Mr Adrian Tan   
+Email: [Adrian_Tan_A@schools.gov.sg](mailto:Adrian_Tan_A@schools.gov.sg )
 
 **Vice-Principal (Admin)**  
 Mr Philip Justin Moorthy  
