@@ -3,6 +3,7 @@ title: Staff Email List
 permalink: /our-rulang-family/staff-email-list/
 description: ""
 third_nav_title: Our Rulang Family
+variant: markdown
 ---
 # Staff Email List
 
@@ -37,13 +38,13 @@ third_nav_title: Our Rulang Family
   </tr>
   <tr>
     <td class="tg-9u4g"><span style="font-weight:bold">Vice Principal</span><br>(CURRICULUM)</td>
-    <td class="tg-fwnj">Dr Choong Pek Lan</td>
-    <td class="tg-scbu"><a href="mailto:Choong_Pek_Lan@schools.gov.sg"><span style="text-decoration:none;color:#E62F14">Choong_Pek_Lan@schools.gov.sg</span></a></td>
+    <td class="tg-fwnj">Mr Toh Jin Tian</td>
+    <td class="tg-scbu"><a href="mailto:Toh_jin_tian@schools.gov.sg"><span style="text-decoration:none;color:#E62F14">Toh_Jin_Tian@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-1k38">Vice Principal<br>(CURRICULUM)</td>
-    <td class="tg-iual">Mr Toh Jin Tian </td>
-    <td class="tg-v9yw"><a href="mailto:toh_jin_tian@schools.gov.sg"><span style="text-decoration:none;color:#E62F14">Toh_jin_tian@schools.gov.sg</span></a></td>
+    <td class="tg-iual">Mr Tan Jian Zhong Adrian </td>
+    <td class="tg-v9yw"><a href="mailto:Adrian_Tan_A@schools.gov.sg"><span style="text-decoration:none;color:#E62F14">Adrian_Tan_A@schools.gov.sg</span></a></td>
   </tr>
 	 <tr>
     <td class="tg-9u4g"><span style="font-weight:bold">Vice Principal</span><br>(ADMIN)</td>
