@@ -291,13 +291,17 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-1k38">4A</td>
-    <td class="tg-iual">(Mdm)    Norlida Binte Abdullah</td>
-    <td class="tg-v9yw"><a href="mailto:norlida_abdullah@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">norlida_abdullah@moe.edu.sg</span></a></td>
+     <td class="tg-iual">(Ms)    Seevaratnam d/o Gurusamy<br>
+			(Mr) Woody Woo<br></td>
+    <td class="tg-v9yw"><a href="mailto:seevaratnam_gurusamy@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">seevaratnam_gurusamy@moe.edu.sg</span> <br>	</a><a href="mailto:woo_jin_quan@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">woo_jin_quan@moe.edu.sg </span>
+	</a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">4B<br></td>
-    <td class="tg-fwnj">(Mrs)       Harcharn Gill</td>
-    <td class="tg-scbu"><a href="mailto:harcharn_gill@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">harcharn_gill@moe.edu.sg</span></a> </td>
+    <td class="tg-fwnj">(Mdm)    Lim Hui Qing<br>(Mdm) Ong Liting</td>
+    <td class="tg-scbu"><a href="mailto:lim_hui_qing_a@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_hui_qing_a@moe.edu.sg</span>
+			<br>	</a><a href="mailto:ong_liting@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ong_liting@moe.edu.sg </span>
+			</a><br></td>
   </tr>
   <tr>
     <td class="tg-1k38">4C</td>
