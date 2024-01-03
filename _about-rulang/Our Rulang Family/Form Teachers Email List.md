@@ -291,42 +291,52 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-1k38">4A</td>
-     <td class="tg-iual">(Ms)    Seevaratnam d/o Gurusamy<br>
-			(Mr) Woody Woo<br></td>
-    <td class="tg-v9yw"><a href="mailto:seevaratnam_gurusamy@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">seevaratnam_gurusamy@moe.edu.sg</span> <br>	</a><a href="mailto:woo_jin_quan@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">woo_jin_quan@moe.edu.sg </span>
+     <td class="tg-iual">(Mdm)   Gui Wan Ping<br>
+			(Ms) Zhou Yu<br></td>
+    <td class="tg-v9yw"><a href="mailto:gui_wan_ping@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">gui_wan_ping@moe.edu.sg</span> <br>	</a><a href="mailto:zhou_yu_a@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">zhou_yu_a@moe.edu.sg </span>
 	</a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">4B<br></td>
-    <td class="tg-fwnj">(Mdm)    Lim Hui Qing<br>(Mdm) Ong Liting</td>
-    <td class="tg-scbu"><a href="mailto:lim_hui_qing_a@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_hui_qing_a@moe.edu.sg</span>
-			<br>	</a><a href="mailto:ong_liting@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ong_liting@moe.edu.sg </span>
+    <td class="tg-fwnj">(Mr)    Daryl Goh<br>(Mdm) Norlida Binte Abdullah</td>
+    <td class="tg-scbu"><a href="mailto:goh_xuan_long@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">goh_xuan_long@moe.edu.sg</span>
+			<br>	</a><a href="mailto:norlida_abdullah@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">norlida_abdullah@moe.edu.sg </span>
 			</a><br></td>
   </tr>
   <tr>
     <td class="tg-1k38">4C</td>
-    <td class="tg-iual">(Mdm)       Wirda Binti Sukor</td>
-    <td class="tg-v9yw"><a href="mailto:wirda_sukor@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">wirda_sukor@moe.edu.sg</span></a><br></td>
+       <td class="tg-iual">(Mrs)   Rina Tan<br>
+			(Mdm) Sharon Loh<br></td>
+    <td class="tg-v9yw"><a href="mailto:tan_rina@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tan_rina@moe.edu.sg</span> <br>	</a><a href="mailto:loh_sing_sharon@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">loh_sing_sharon@moe.edu.sg </span>
+	</a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">4D</td>
-    <td class="tg-fwnj">(Mr)      Wong Kwok Choon<br></td>
-    <td class="tg-scbu"><a href="mailto:wong_kwok_choon@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">wong_kwok_choon@moe.edu.sg</span></a><br></td>
+    <td class="tg-fwnj">(Mdm)   Foo Meng Leng<br>(Ms) Lim Bee Lian</td>
+    <td class="tg-scbu"><a href="mailto:foo_meng_leng@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">foo_meng_leng@moe.edu.sg</span>
+			<br>	</a><a href="mailto:lim_bee_lian_b@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_bee_lian_b@moe.edu.sg</span>
+			</a><br></td>
   </tr>
   <tr>
     <td class="tg-1k38">4E</td>
-    <td class="tg-iual">(Mdm)    Chia Ee Ling<br></td>
-    <td class="tg-v9yw"><a href="mailto:chia_ee_ling@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chia_ee_ling@moe.edu.sg</span></a><br></td>
+       <td class="tg-iual">(Mdm)   Sharon Loke<br>
+			(Mdm) Monaliza Binte Mat Aris<br></td>
+    <td class="tg-v9yw"><a href="mailto:loke_yuet_wai@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">loke_yuet_wai@moe.edu.sg</span> <br>	</a><a href="mailto:monaliza_mat_aris@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">monaliza_mat_aris@moe.edu.sg </span>
+	</a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">4F</td>
-    <td class="tg-fwnj">(Mdm)    Lim Hui Qing</td>
-    <td class="tg-scbu"><a href="mailto:lim_hui_qing_a@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_hui_qing_a@moe.edu.sg</span></a></td>
+    <td class="tg-fwnj">(Ms)   Lim Shi Yun<br>(Mdm) Pauline Ang</td>
+    <td class="tg-scbu"><a href="mailto:lim_shi_yun@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_shi_yun@moe.edu.sg</span>
+			<br>	</a><a href="mailto:ang_hui_min_pauline@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ang_hui_min_pauline@moe.edu.sg</span>
+			</a><br></td>
   </tr>
   <tr>
     <td class="tg-1k38">4G</td>
-    <td class="tg-iual">(Mr)      Mohamad Zaini Bin Ismail</td>
-    <td class="tg-v9yw"><a href="mailto:mohamad_zaini_ismail@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">mohamad_zaini_ismail@moe.edu.sg</span></a></td>
+       <td class="tg-iual">(Mr)   Mazlan Bin Ismael<br>
+			(Mdm) Zainab Binte Abdul Rahman<br></td>
+    <td class="tg-v9yw"><a href="mailto:mazlan_ismael@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">mazlan_ismael@moe.edu.sg</span> <br>	</a><a href="mailto:zainab_abdul_rahman@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">zainab_abdul_rahman@moe.edu.sg </span>
+	</a><br></td>
   </tr>
 </tbody>
 </table>
