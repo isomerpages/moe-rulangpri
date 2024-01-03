@@ -384,7 +384,7 @@ variant: markdown
     <td class="tg-mdf1">5L</td>
        <td class="tg-iual">(Mr)   Lim Jin Wei<br>
 			(Ms) Wu Yi<br></td>
-    <td class="tg-v9yw"><a href="mailto:lim_jin_wei@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_jin_wei@moe.edu.sg</span> <br>	</a><a href="mailto:wu_yi_a@moe.edu.sgg"><span style="text-decoration:none;color:#E62F14">wu_yi_a@moe.edu.sg
+    <td class="tg-v9yw"><a href="mailto:lim_jin_wei@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_jin_wei@moe.edu.sg</span> <br>	</a><a href="mailto:wu_yi_a@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">wu_yi_a@moe.edu.sg
  </span>
 	</a><br></td>
   </tr>
@@ -397,8 +397,10 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-mdf1">5N</td>
-    <td class="tg-9678">(Mrs)      Audrey Lim</td>
-    <td class="tg-v9yw"><a href="mailto:gan_wen_qi_audrey@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">gan_wen_qi_audrey@moe.edu.sg</span></a><br></td>
+        <td class="tg-iual">(Mdm)   Catherine Soh<br>
+			(Mdm) Lee Chin Chin<br></td>
+    <td class="tg-v9yw"><a href="mailto:soh_ker_shin@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">soh_ker_shin@moe.edu.sg</span> <br>	</a><a href="mailto:chan_khue_hiang@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chan_khue_hiang@moe.edu.sg </span>
+	</a><br></td>
   </tr>
   <tr>
     <td class="tg-1wig">5G</td>
