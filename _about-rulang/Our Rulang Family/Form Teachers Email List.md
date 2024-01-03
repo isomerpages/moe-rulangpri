@@ -367,23 +367,33 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-mdf1">5R<br></td>
-    <td class="tg-9678">(Mdm)       Thanaletchmi d/o Subramaniam</td>
-    <td class="tg-v9yw"><a href="mailto:thanaletchmi_subramaniam@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">thanaletchmi_subramaniam@moe.edu.sg</span></a><br></td>
+       <td class="tg-iual">(Ms)   Nooryanti Mohamed Mohideen<br>
+			(Mrs) Goh Han Jin<br></td>
+    <td class="tg-v9yw"><a href="mailto:nooryanti_mohamed_mohideen@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">nooryanti_mohamed_mohideen@moe.edu.sg</span> <br>	</a><a href="mailto:han_jin@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">han_jin@moe.edu.sg
+ </span>
+	</a><br></td>
   </tr>
   <tr>
     <td class="tg-1wig">5U</td>
-    <td class="tg-0lax">(Mdm)       Nooryanti Bte Mohamed Mohideen </td>
-    <td class="tg-eepx"><a href="mailto:nooryanti_mohamed_mohideen@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">nooryanti_mohamed_mohideen@moe.edu.sg</span></a></td>
+    <td class="tg-fwnj">(Mrs)   Audrey Lim<br>(Mr) Wong Kwok Choon</td>
+    <td class="tg-scbu"><a href="mailto:gan_wen_qi_audrey@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">gan_wen_qi_audrey@moe.edu.sg</span>
+			<br>	</a><a href="mailto:wong_kwok_choon@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">wong_kwok_choon@moe.edu.sg</span>
+			</a><br></td>
   </tr>
   <tr>
     <td class="tg-mdf1">5L</td>
-    <td class="tg-9678">(Mr)   Chua Chuen Chi Gary</td>
-    <td class="tg-v9yw"><a href="mailto:chua_chuen_chi_gary@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chua_chuen_chi_gary@moe.edu.sg</span></a><br></td>
+       <td class="tg-iual">(Mr)   Lim Jin Wei<br>
+			(Ms) Wu Yi<br></td>
+    <td class="tg-v9yw"><a href="mailto:lim_jin_wei@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_jin_wei@moe.edu.sg</span> <br>	</a><a href="mailto:wu_yi_a@moe.edu.sgg"><span style="text-decoration:none;color:#E62F14">wu_yi_a@moe.edu.sg
+ </span>
+	</a><br></td>
   </tr>
   <tr>
     <td class="tg-1wig">5A</td>
-    <td class="tg-0lax">(Mr)       Susiayanto Bin Sunaryo</td>
-    <td class="tg-eepx"><a href="mailto:susiayanto_sunaryo@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">susiayanto_sunaryo@moe.edu.sg</span></a><br></td>
+    <td class="tg-fwnj">(Mdm)   Ang Hwee Beng<br>(Mdm) Thanaletchmi d/o Subramaniam</td>
+    <td class="tg-scbu"><a href="mailto:ang_hwee_beng@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ang_hwee_beng@moe.edu.sg</span>
+			<br>	</a><a href="mailto:thanaletchmi_subramaniam@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">thanaletchmi_subramaniam@moe.edu.sg</span>
+			</a><br></td>
   </tr>
   <tr>
     <td class="tg-mdf1">5N</td>
