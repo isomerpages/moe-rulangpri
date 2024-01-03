@@ -183,7 +183,7 @@ variant: markdown
     <td class="tg-1k38">2J</td>
    <td class="tg-iual">(Ms)    Cyndi Soo <br>
 			(Mdm) Jesslyn Pang<br></td>
-    <td class="tg-v9yw"><a href="mailto:soo_sin_ee@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">soo_sin_ee@moe.edu.sg</span> <br>	</a><a href="mailto:jesslyb_pang_poh_chin@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">jesslyn_pang_poh_chin@moe.edu.sg </span>
+    <td class="tg-v9yw"><a href="mailto:soo_sin_ee@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">soo_sin_ee@moe.edu.sg</span> <br>	</a><a href="mailto:jesslyn_pang_poh_chin@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">jesslyn_pang_poh_chin@moe.edu.sg </span>
 	</a><br></td>
   </tr>
 </tbody>
@@ -215,38 +215,52 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-1k38">3A</td>
-    <td class="tg-iual">(Ms)    Nur Shahirah Binte Haji Salim<br></td>
-    <td class="tg-v9yw"><a href="mailto:nur_shahirah_haji_salim@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">nur_shahirah_haji_salim@moe.edu.sg</span></a><br></td>
+     <td class="tg-iual">(Mr)    Mohammed Bazli Bin Azmy <br>
+			(Mrs) Yvonne Wong<br></td>
+    <td class="tg-v9yw"><a href="mailto:mohammed_bazli_azmy@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">mohammed_bazli_azmy@moe.edu.sg</span> <br>	</a><a href="mailto:ho_qingling_yvonne@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ho_qingling_yvonne@moe.edu.sg </span>
+	</a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">3B</td>
-    <td class="tg-fwnj">(Mr) Ho Twee Lim</td>
-    <td class="tg-scbu"><a href="mailto:ho_twee_lim@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ho_twee_lim@moe.edu.sg</span></a></td>
+<td class="tg-fwnj">(Mrs)    Harchan Gill<br>(Mrs) Yang Xuehong</td>
+    <td class="tg-scbu"><a href="mailto:harchan_gill@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">harchan_gill@moe.edu.sg</span>
+			<br>	</a><a href="mailto:yang_xuehong@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">yang_xuehong@moe.edu.sg </span>
+			</a><br></td>
   </tr>
   <tr>
     <td class="tg-1k38">3C<br></td>
-    <td class="tg-iual">(Mrs) Tan Rina</td>
-    <td class="tg-v9yw"><a href="mailto:tan_rina@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tan_rina@moe.edu.sg</span></a><br></td>
+     <td class="tg-iual">(Mdm)    Wirda Sukor<br>
+			(Mr) Yang Dong<br></td>
+    <td class="tg-v9yw"><a href="mailto:wirda_sukor@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">wirda_sukor@moe.edu.sg</span> <br>	</a><a href="mailto:yang_dong@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">yang_dong@moe.edu.sg </span>
+	</a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">3D</td>
-    <td class="tg-fwnj">(Ms)    Lim Bee Lian</td>
-    <td class="tg-scbu"><a href="mailto:lim_bee_lian_b@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_bee_lian_b@moe.edu.sg</span></a></td>
+<td class="tg-fwnj">(Mdm)    Chiang Kwee Yok<br>(Mrs) Quek Wen Qi</td>
+    <td class="tg-scbu"><a href="mailto:chiang_kwee_yok@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chiang_kwee_yok@moe.edu.sg</span>
+			<br>	</a><a href="mailto:quek_wen_qi@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">quek_wen_qi@moe.edu.sg </span>
+			</a><br></td>
   </tr>
   <tr>
     <td class="tg-1k38">3E</td>
-    <td class="tg-iual">(Mdm) Loke Yuet Wai<br></td>
-    <td class="tg-v9yw"><a href="mailto:loke_yuet_wai@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">loke_yuet_wai@moe.edu.sg</span></a><br></td>
+     <td class="tg-iual">(Mr)    Ho Twee Lim<br>
+			(Mdm) Lynn Chia<br></td>
+    <td class="tg-v9yw"><a href="mailto:ho_twee_lim@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ho_twee_lim@moe.edu.sg</span> <br>	</a><a href="mailto:chia_ee_ling@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">chia_ee_ling@moe.edu.sg </span>
+	</a><br></td>
   </tr>
   <tr>
     <td class="tg-9u4g">3F</td>
-    <td class="tg-fwnj">(Mr)    Tan Chow Hua</td>
-    <td class="tg-scbu"><a href="mailto:tan_chow_hua@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">tan_chow_hua@moe.edu.sg</span></a> </td>
+<td class="tg-fwnj">(Mdm)    Lim Hui Qing<br>(Mdm) Ong Liting</td>
+    <td class="tg-scbu"><a href="mailto:lim_hui_qing_a@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_hui_qing_a@moe.edu.sg</span>
+			<br>	</a><a href="mailto:ong_liting@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ong_liting@moe.edu.sg </span>
+			</a><br></td>
   </tr>
   <tr>
     <td class="tg-1k38">3G</td>
-    <td class="tg-iual">(Mdm)    Zainab Binte Abdul Rahman</td>
-    <td class="tg-v9yw"><a href="mailto:zainab_abdul_rahman@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">zainab_abdul_rahman@moe.edu.sg</span></a> </td>
+     <td class="tg-iual">(Ms)    Seevaratnam d/o Gurusamy<br>
+			(Mr) Woody Woo<br></td>
+    <td class="tg-v9yw"><a href="mailto:seevaratnam_gurusamy@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">seevaratnam_gurusamy@moe.edu.sg</span> <br>	</a><a href="mailto:woo_jin_quan@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">woo_jin_quan@moe.edu.sg </span>
+	</a><br></td>
   </tr>
 </tbody>
 </table>
