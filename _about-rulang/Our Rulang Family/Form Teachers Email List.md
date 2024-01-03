@@ -404,18 +404,24 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-1wig">5G</td>
-    <td class="tg-0lax">(Mrs)    Yvonne Wong</td>
-    <td class="tg-eepx"><a href="mailto:ho_qingling_yvonne@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">ho_qingling_yvonne@moe.edu.sg</span></a><a href="mailto:ho_qingling_yvonne@moe.edu.sg"><span style="text-decoration:none;color:#E62F14"> </span></a> </td>
+   <td class="tg-fwnj">(Ms)   Rosneayu Binte Rosenen<br>(Mr) Susiayanto Bin Sunaryo</td>
+    <td class="tg-scbu"><a href="mailto:rosneayu_rosenen@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">rosneayu_rosenen@moe.edu.sg</span>
+			<br>	</a><a href="mailto:susiayanto_sunaryo@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">susiayanto_sunaryo@moe.edu.sg</span>
+			</a><br></td>
   </tr>
   <tr>
     <td class="tg-mdf1">5S</td>
-    <td class="tg-9678">(Mdm)      Wahetha Begum Bte Abdul Kairu</td>
-    <td class="tg-v9yw"><a href="mailto:wahetha_begum_abdul_kairu@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">wahetha_begum_abdul_kairu@moe.edu.sg</span></a><br></td>
+        <td class="tg-iual">(Mdm)   Jennifer Loh<br>
+			(Mr) Lim Tow Hee Jason<br></td>
+    <td class="tg-v9yw"><a href="mailto:loh_lai_pui@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">loh_lai_pui@moe.edu.sg</span> <br>	</a><a href="mailto:lim_tow_hee@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">lim_tow_hee@moe.edu.sg</span>
+	</a><br></td>
   </tr>
   <tr>
     <td class="tg-1wig">5C<br></td>
-    <td class="tg-0lax">(Ms)       Kavitha d/o Divenaran<br></td>
-    <td class="tg-eepx"><a href="mailto:kavitha_divenaran@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">kavitha_divenaran@moe.edu.sg</span></a></td>
+    <td class="tg-0lax">(Ms)       Kavitha d/o Divenaran<br>(Ms) Adeline Ho</td>
+    <td class="tg-scbu"><a href="mailto:kavitha_divenaran@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">kavitha_divenaran@moe.edu.sg</span>
+			<br>	</a><a href="mailto:yu_hui_adeline_ho@moe.edu.sg"><span style="text-decoration:none;color:#E62F14">yu_hui_adeline_ho@moe.edu.sg</span>
+			</a><br></td>
   </tr>
 </tbody>
 </table>
