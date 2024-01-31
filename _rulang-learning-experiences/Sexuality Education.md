@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Sexuality Education</h1>
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
 <p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
 in schools is about enabling students to understand the physiological,
