@@ -83,10 +83,10 @@ as they mature, develop healthy and rewarding relationships including those
 with members of the opposite sex, and make wise, informed and responsible
 decisions on sexuality matters.&nbsp;</p>
 <p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sex%20ed%204%20EDITED.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sex_ed_table_small.jpg">
+</div>
 <p></p>
 <p><strong>Information for Parents</strong>
 </p>
