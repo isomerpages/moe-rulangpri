@@ -724,7 +724,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5C
+<p>5CH
 <br>
 </p>
 </td>
@@ -868,15 +868,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6C</p>
+<p>6CH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>(Ms) Christina Foo
 <br>(Mdm) Lee Wan Xian Christa</p>
+<p></p>
+<p>(Mdm) Sun Huiyan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_meng_choo_christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_meng_choo_christina@moe.edu.sg</a> 
 <br><a href="mailto:lee_wan_xian_christa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wan_xian_christa@moe.edu.sg</a>
+</p>
+<p><a href="sun_huiyan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sun_huiyan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
