@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Art Club</strong>
+<p><strong>Art Club</strong> 
 <br><strong>(P5 &amp; P6)</strong>
 </p>
 </td>
