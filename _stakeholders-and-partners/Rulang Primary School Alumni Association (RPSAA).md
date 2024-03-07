@@ -216,7 +216,7 @@ a sense of altruism.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Teck Yoke, PBM
-<br><em>(Mr Tan was the President of the association from 2012 to 2016, the longest serving President to date)</em>
+<br><em>(Mr Tan was the President of the association from 2012 to 2016, the longest serving President to date)</em> 
 <br>
 <br>
 </p>
@@ -224,7 +224,7 @@ a sense of altruism.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Low Chew Yun</strong>
+<p><strong>Mdm Low Chew Yun</strong> 
 <br>
 </p>
 </td>
