@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Co-Curricular Special Programme (CCSP)</h1>
-<p><strong>Overview of CCAs 2023</strong>
+<p><strong>Overview of CCAs 2024</strong>
 </p>
 <p><strong>CCAs on Mondays</strong>
 </p>
@@ -13,19 +13,22 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>CCA</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Expected Learning Outcomes</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Overall
-<br>Teacher-in-Charge</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Expected Learning Outcomes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Overall<br>Teacher-in-Charge</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -42,15 +45,12 @@ variant: tiptap
 art &amp; creative 3-D art.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Yew Lin
-<br>
-</p>
+<p>Ms Jennifer Loh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basketball
-<br>
+<p><strong>Basketball</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,14 +62,13 @@ shooting, defensive stance and working in teams with emphasis on fair play
 and excellence.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hazel Liew
-<br>
-</p>
+<p>Mr Ng Chen An</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choir</p>
+<p><strong>Choir</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music and Dance Room
@@ -82,14 +81,13 @@ vocals and physical movements. Pupils will be exposed to various performing
 platforms both internal and external.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jamie Lim
-<br>
-</p>
+<p>Mdm Jamie Lim</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>International Dance</p>
+<p><strong>International Dance</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Room (Level 2)</p>
@@ -104,11 +102,14 @@ and better manage themselves.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurwahidah</p>
+<p>&amp;</p>
+<p>Ms Ruhana</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Robotics Club</p>
+<p><strong>Robotics Club</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Robotics Room &amp; Computer Labs</p>
@@ -118,14 +119,13 @@ and better manage themselves.</p>
 and programming skills as well as do presentations and research.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Kwok Choon
-<br>
-</p>
+<p>Mr Wong Kwok Choon</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rope Skipping</p>
+<p><strong>Rope Skipping</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall (ISH)</p>
@@ -141,8 +141,8 @@ motion with rhythm, and stamina and muscles development techniques.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Scouts
-<br>(Boys ONLY)</p>
+<p><strong>Scouts<br>(Boys ONLY)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Room</p>
@@ -153,15 +153,13 @@ more aware of the needs of the community through leadership and social
 communication skills.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Fong Meng Thoong
-<br>
-</p>
+<p>Mr Fong Meng Thoong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Softball
-<br>(Girls ONLY)</p>
+<p><strong>Softball<br>(Girls ONLY)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Field / Parade Square</p>
@@ -172,15 +170,13 @@ and throwing techniques and base running skills, team coordination and
 competitive strategies and game plans.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tang Teo Yong
-<br>
-</p>
+<p>Mr Tang Teo Yong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Volleyball
-<br>(Boys ONLY)</p>
+<p><strong>Volleyball<br>(Boys ONLY)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall (ISH) / Hall</p>
@@ -191,14 +187,13 @@ and positioning of arms, striking techniques, physical conditioning, team
 coordination, competitive strategies and game plans.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Haizad Johan
-<br>
-</p>
+<p>Mr Haizad Johan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wushu</p>
+<p><strong>Wushu</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Multi-Purpose Hall (MPH)</p>
@@ -209,37 +204,39 @@ and teamwork. Pupils will be exposed to various performing platforms both
 internal and external.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ker Hui Ling
-<br>
-</p>
+<p>Mr Adrian Poon</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong>&nbsp;</strong>&nbsp;</p>
 <p><strong>CCAs on Fridays</strong>
 </p>
 <p>All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>CCA</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Expected Learning Outcomes</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Overall
-<br>Teacher-in-Charge</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>CCA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Expected Learning Outcomes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Overall<br>Teacher-in-Charge</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Art Club
-<br>(P3 &amp; P4)</p>
+<p><strong>Art Club<br>(P3 &amp; P4)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room
@@ -250,7 +247,7 @@ internal and external.</p>
 art &amp; creative 3-D art.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Salizawati
+<p>Mdm Salizawati
 <br>
 <br>
 </p>
@@ -258,8 +255,8 @@ art &amp; creative 3-D art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton
-<br>(School team)</p>
+<p><strong>Badminton<br>(School team)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall (ISH)</p>
@@ -270,14 +267,16 @@ and experience necessary to appreciate and play the sport. Pupils will
 be taught the essential skills necessary to play in a competitive environment.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Mr Lim Han Ling</p>
+<p>Ms Lim Shiyun
+<br>
+<br>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton
-<br>(Recreational Team)</p>
+<p><strong>Badminton<br>(Recreational Team)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Multi-Purpose Hall (MPH)</p>
@@ -288,13 +287,13 @@ and experience necessary to appreciate and play the sport. Pupils will
 be taught the basic rules and regulations of the game.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Bazli</p>
+<p>Mdm Yang Xuehong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Brownies
-<br>(Girls ONLY)</p>
+<p><strong>Brownies<br>(Girls ONLY)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Room</p>
@@ -312,10 +311,12 @@ and serve the community as well as being independent and confident.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance</p>
+<p><strong>Chinese Dance</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Room (Level 2)</p>
+<p>Music Room&nbsp;</p>
+<p>(Level 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pupils are trained in genres of traditional Chinese dances, Chinese dance
@@ -329,7 +330,8 @@ external.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Orchestra</p>
+<p><strong>Chinese Orchestra</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CO Room and Level 7 Classrooms</p>
@@ -346,27 +348,25 @@ platforms</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Green Club
-<br>
+<p><strong>Green Club</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Blk A,
-<br>Levl 2 Classrooms</p>
+<br>Level 2 Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pupils learn more about environmental issues and skills involved when
 conducting science experiments as well as nurture a love for botany.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Lim
-<br>
-</p>
+<p>Mr Jason Lim</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Multi-Sports</p>
+<p><strong>Multi-Sports</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball Court/ Parade Square</p>
@@ -377,15 +377,12 @@ such as floorball and football, techniques in dribbling, passing and shooting
 as well as competitive strategies and game plans.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Soh Beng Hwee
-<br>
-</p>
+<p>Mr Tristan Wee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Media Info Comm Club
-<br>
+<p><strong>Media Info Comm Club</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -396,124 +393,9 @@ as well as competitive strategies and game plans.</p>
 editing and stop-motion. They are also exposed to issues in cyber wellness.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Margaret Teoh</p>
+<p>Mr Mohamed Bazli</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
-<p><strong>Overview of Special Programmes (SP) 2023</strong>
-</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>Primary 4
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>
-<br>
-</p>
-<p>The P4 pupils go through the Young Environmentalist Sustainability (Y.E.S)
-project to teach them the importance of 3 “C” - connect, collaborate, and
-create. The pupils are connected to the real-world situation of environmental
-concerns and sustainability. Pupils will have the opportunity to collaborate
-and learn to apply the 3 Habits of Mind which are thinking flexibility,
-thinking about thinking and thinking interdependently to develop good habits
-when working in teams. For the project, the pupils are taught applying
-the process skills such as defining a problem, brainstorming ideas, and
-applying SCAMPER techniques as an idea generating tools to solve problem.
-They will then create and test solution with their prototype.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>Primary 5
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>
-<br>
-</p>
-<p>Part 1
-<br>Through the SP sessions, pupils will gain valuable skills so that they
-can handle real-world projects that engage a multidisciplinary team. They
-will learn habits of mind that prepare them to take responsible risks;
-ask and pose good, appropriate questions; and learn to think and communicate
-clearly and precisely. They will acquire new Science concepts and process
-skills as they navigate the world of innovation and inventions. As they
-look at different examples of invention and innovation, they will need
-to tap into design thinking such as empathy, ideation, prototyping and
-testing. Finally, they will understand the basics of marketing as they
-explore the world of advertising and marketing.
-<br>
-<br>
-<br>Part 2
-<br>With the skills they learnt, pupils will embark into different teams to
-focus on 3 possible domains - Entrepreneurship, Design Thinking to invent
-a prototype, or Design Thinking to provide a service. During this portion
-of the SP process, teachers will facilitate pupils in their own pursuit
-as they become Young Entrepreneurs, or Young Designers to solve a real-world
-problem.
-<br>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>Primary 6
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="3">
-<p>
-<br>
-</p>
-<p>Part 1
-<br>Pupils will learn some aspects of Innovation, Entrepreneurship and Student
-Leadership and apply the knowledge and skills learnt to become The Little
-Trainers. They will understand the difference between “Invention” and “Innovation”,
-identify a problem that they would like to solve, analyse an existing product
-to be improved upon and apply SCAMPER as an idea generating tool to solve
-their problem. By using the design thinking process to understand consumer
-needs, pupils will acquire some entrepreneurial skills. Their approach
-will be strengthened by Arthur L.&nbsp;Costa’s 2 Habits of Mind - Applying
-Past Knowledge To New Situations &amp; Learning Continuously and Peter
-Senge’s Five Disciplines of a Learning Organisation.
-<br>
-<br>
-<br>Part 2
-<br>CCA groups will be paired by choice and led by the CCA Leaders, design
-a 1-hour workshop to teach the P2 pupils a skill or to make a product.
-After a sneak peek (rapping, skit, etc) of their presentation to the P2
-pupils during recess, P2 pupils will complete a survey to indicate their
-top 3 choices of what they would like to learn. A day will be set aside
-in Term 2, Week 9 for this training to take place.
-<br>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p>&nbsp;</p>
