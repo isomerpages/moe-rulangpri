@@ -446,13 +446,13 @@ variant: tiptap
 <p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Ms) Seevaratnam d/o Gurusamy
+<p>(Ms) Seeveratnam d/o Gurusamy
 <br>(Mr) Woody Woo
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seevaratnam_gurusamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seevaratnam_gurusamy@moe.edu.sg</a> 
+<p><a href="mailto:seevaratnam_gurusamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seeveratnam_gurusamy@moe.edu.sg</a> 
 <br><a href="mailto:woo_jin_quan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_jin_quan@moe.edu.sg</a> 
 <br>
 </p>
