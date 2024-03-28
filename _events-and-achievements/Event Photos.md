@@ -2,7 +2,7 @@
 title: Event Photos
 permalink: /event-photos/
 description: ""
+variant: tiptap
 ---
-
-![](/images/Photo%20Gallery.png)
-Click [here](https://www.flickr.com/photos/191748486@N03/albums) to see our photo gallery!
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/rulangpri/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Follow_Us_on_Facebook_PNG.png"></a>
+<p></p>
