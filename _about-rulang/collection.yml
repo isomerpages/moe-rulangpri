@@ -2,7 +2,6 @@ collections:
   about-rulang:
     output: true
     order:
-      - School Canteen.md
       - School's History.md
       - Principal's Message.md
       - Our Rulang Family/.keep
