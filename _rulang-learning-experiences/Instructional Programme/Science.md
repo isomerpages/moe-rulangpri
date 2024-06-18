@@ -52,7 +52,7 @@ which adds another layer of celebration to the event.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="science fiesta" src="/images/science_fiesta.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="science fiesta 2" src="/images/science_fiesta_2_png.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="science fiesta 2" src="/images/science_fiesta_2.png">
 </div>
 <p>With the initiatives complementing the formal curriculum, it is hoped
 that every Rulangnites will be constantly enthused and driven in seeking
