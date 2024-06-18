@@ -3,31 +3,65 @@ title: Science
 permalink: /rulang-learning-experiences/Instructional-Programme/science/
 description: ""
 third_nav_title: Instructional Programme
+variant: tiptap
 ---
-
-# Science
-
-**Vision**
-
-Inquiring Minds, Lifelong Learners
-
-**Philosophy**
-
-![](/images/P4030772.jpg)
-Science comprises a body of knowledge about the world around us. We believe that the attempt to understand the world is the study of Science. This comes with the set of skills and processes that this knowledge is acquired, synthesised, evaluated and applied. The acquisition of Science knowledge and the set of skills can be realised through the use of problem solving exercises and practical investigations of the environment.
-
-In Rulang, Science is celebrated through multi-faceted activities at different levels to imbue the spirit of scientific inquiry. The learning of Science is stretched beyond the four walls of the classroom to enrich pupils’ experience and enhance their understanding on the subject. Through the harnessing of knowledge, understanding and application skills and processes as well as ethic and attitudes, it is hoped that pupils will better appreciate the diversity in both Physical and Life Sciences. To maximise pupils’ experience and learning, the department has put in place initiatives that complement the formal Science Curriculum Framework.
-
-![](/images/IMG_0726.jpg)
-The Science Belt is a conducive environment for the learning of Science at a young age. It enables pupils to acquire Science concepts and apply process skills in a real and vibrant learning environment. Pupils learn more about Science concepts such as reproduction of plants, adaptations of aquatic plants and the life cycle of butterflies through observation and experiential learning. This would also give pupils the platform to harness their creativity while acquiring basic scientific concepts.
-
-![](/images/P3240706.jpg)
-To ignite pupils’ passion in Science, interconnectedness and relevance of the subject is made prevalent in our
-annual event, Nature Walk cum Sensory Trail. It is a deliberate attempt to provide opportunities for inquiry learning to take place in an informal setting. Pupils complete differentiated level activities which infuse English, Mother Tongue, Mathematics, National Education and Information and Communication Technology for different application of scientific concepts.
-
-![](/images/P3240609.jpg)
-![](/images/P3240722.jpg)
-
-The Mini Water Recycling Plant and Rainwater Harvesting System, two projects in partnership with Mann+Hummel, NEA and PUB, were initiated to teach our pupils more about water conservation. In our effort to reach out to the community, our Science Student Leaders lead the annual visits of K2 pupils from the neighbouring kindergartens to learn more about the recycling plants through colouring books and brochures designed by our own pupils.
-
-With the initiatives complementing the formal curriculum, it is hoped that every Rulangnites will be constantly enthused and driven in seeking knowledge. It has been the departmental vision to see that all Rulangnites develop to be inquiring thinkers and lifelong learners.
+<h1>Science Department</h1>
+<h4><strong>Vision</strong></h4>
+<p><strong>&nbsp;</strong>Inquiring Minds, Lifelong Learners</p>
+<h4><strong>Philosophy</strong></h4>
+<p>Science is a fascinating exploration of the world around us, encompassing
+a wealth of knowledge. At Rulang, we see the study of Science as an exciting
+journey to understand and appreciate our environment. This journey involves
+developing skills and processes that enable the acquisition, synthesis,
+evaluation, and application of this knowledge.</p>
+<p>&nbsp;In our approach, we celebrate Science through engaging and diverse
+activities and programmes at different levels, aiming to instil a spirit
+of scientific inquiry. We believe that learning Science extends beyond
+the confines of the classroom. To enrich students' experiences and deepen
+their understanding, we emphasise problem-solving and practical investigations
+of the environment.</p>
+<p>&nbsp;Science is not just taught in Rulang, it is experienced. Students
+not only grasp the subject matter but also develop an appreciation for
+the diversity found in both Physical and Life Sciences. By harnessing knowledge,
+understanding, application skills, ethical considerations and positive
+attitudes, we aspire to empower our students to think beyond what they
+can learn from the textbooks.</p>
+<h4><strong>Programmes and Activities</strong></h4>
+<h4>Nature Study @ Our Learning Gardens</h4>
+<p>&nbsp;Exploring the wonders of Science extends beyond the confines of
+the classrooms. Our Learning Gardens, comprising the TRUE HEARTs Garden
+and Rain Garden, were one of the ten community gardens conferred the Garden
+of the Year Awards (GOYA) by NParks in 2023. The gardens offer students
+exciting hands-on opportunities and experiences. Through experiential learning,
+they can uncover the fascinating connections between plants and animals
+and develop essential process skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="science garden" src="/images/Science_Learning_Garden.png">
+</div>
+<h4>Science Fiesta!</h4>
+<p>Science Fiesta! is a week-long celebration of students’ successes and
+achievements in Science and Environmental Education. Pupils will be immersed
+in a week filled with engaging Science and Environmental programmes and
+activities, which includes a Jumble Sale of pre-loved items donated by
+staff and students. The school collaborates with external organisations
+like Science Centre Singapore, NParks and National Environment Agency to
+bring live online lessons and exhibition booths tailored for different
+levels. It is also held in conjunction with International Friendship Day,
+which adds another layer of celebration to the event.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="science fiesta" src="/images/science_fiesta.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="science fiesta 2" src="/images/science_fiesta_2.png">
+</div>
+<p>With the initiatives complementing the formal curriculum, it is hoped
+that every Rulangnites will be constantly enthused and driven in seeking
+new knowledge. It has been the departmental vision to see that all Rulangnites
+develop to be inquiring thinkers and lifelong learners.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
