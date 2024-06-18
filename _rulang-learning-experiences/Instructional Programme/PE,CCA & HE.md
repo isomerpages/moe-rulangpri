@@ -7,11 +7,9 @@ variant: tiptap
 ---
 <h1>PE / HE</h1>
 <h1>Physical Education</h1>
-<p><strong>Vision</strong>
-</p>
+<h4><strong>Vision</strong></h4>
 <p>A Community of Physically Healthy and Mentally Robust Rulangnites</p>
-<p><strong>Philosophy</strong>
-</p>
+<h4><strong>Philosophy</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/Sports%20Day%2003.jpg">
 </div>
@@ -26,16 +24,11 @@ to ensure that they develop a positive association with physical activity.</p>
 to inculcate self-management skills, social and cooperative skills and
 to build character. It serves to complement other subject areas in promoting
 educational outcomes.</p>
-<p></p>
-<p><strong>Principles of Teaching and Learning</strong>
-</p>
+<h4><strong>Principles of Teaching and Learning</strong></h4>
 <p>The PE syllabus focuses on developing pupils’ motor and game skills and
 equipping them with the knowledge, skills and attitudes to pursue and enjoy
 a physically active and healthy lifestyle.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Objectives</strong>
-</p>
+<h4><strong>Objectives</strong></h4>
 <p>The objectives of the PE Programmes are to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -60,22 +53,16 @@ in physical activities</p>
 </li>
 </ul>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Children day" src="/images/children_day_carnival.png">
+</div>
 <p>Children’s Day Carnival</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-National Day Mass Dance Workout</p>
-<p>&nbsp;</p>
-<p>Health Education</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Principles of Teaching and Learning</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="national day" src="/images/national_day_mass_dance.png">
+</div>
+<p>&nbsp;National Day Mass Dance Workout</p>
+<h3><strong>Health Education</strong></h3>
+<h4><strong>Principles of Teaching and Learning</strong></h4>
 <p>We use a thematic approach to plan our Health Education Programmes in
 Rulang. In Semester 1, we focus on Safety and Physical Health. In Semester
 2, we focus on nutrition, mental well-being and emotional health. We believe
@@ -83,11 +70,10 @@ that health promotion initiatives should be all year round so as to lead
 our staff, pupils and stakeholders towards healthy living. Our holistic
 health programmes are customized and integrated into the curriculum to
 impact the whole school.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Objectives</strong>
-</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="outdoor" src="/images/outdoor.png">
+</div>
+<h4><strong>Objectives</strong></h4>
 <p>The objectives of the Health Education Programmes are to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -107,5 +93,7 @@ health;</p>
 to promote holistic health.</p>
 </li>
 </ul>
-<p>&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="bring fruits" src="/images/bring_fruit_day.png">
+</div>
 <p>Bring a Fruit Day / Outdoor Cooking</p>
