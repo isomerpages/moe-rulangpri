@@ -5,12 +5,10 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
-<h1>Aesthetics</h1>
-<p><strong>Vision</strong>
-</p>
+<h1>Aesthetics (Art &amp; Music)</h1>
+<h4><strong>Vision</strong></h4>
 <p>Reflective, Proactive and Sagacious aesthetes in a vibrant community</p>
-<p><strong>Philosophy</strong>
-</p>
+<h4><strong>Philosophy</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gallery" src="/images/Aesthetic_Alley.png">
 </div>
@@ -29,10 +27,8 @@ world, communicate thoughts and feelings and form concepts about themselves
 and their environment. Aesthetics Education in Rulang is embraced through
 a developmental approach in equipping foundational skills in areas like
 visual arts, performing arts, literary arts and music.</p>
-<p><strong>Key Learning Experiences</strong>
-</p>
-<p><strong>Objectives</strong>
-</p>
+<h3><strong>Key Learning Experiences</strong></h3>
+<h4><strong>Objectives</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="learning experience" src="/images/student_at_music_lesson.png">
 </div>
@@ -47,8 +43,7 @@ Arts in provided</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cater to the needs of pupils who are talented
 in a specific area of the Arts and they are presented with the opportunity
 to learn, grow and develop themselves in the areas they excel in.</p>
-<p><strong>Desired Outcomes</strong>
-</p>
+<h4><strong>Desired Outcomes</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Art lesson 1" src="/images/Student_at_art_lesson_1.png">
 </div>
@@ -70,8 +65,7 @@ their aesthetics talents</p>
 in the Aesthetics</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pupils are imaginative in the Arts / Music
 creation</p>
-<p><strong>Rulang Aesthetics Xcellent (RAX)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
-</p>
+<h4><strong>Rulang Aesthetics Xcellent (RAX)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></h4>
 <p><strong>&nbsp;</strong>In Rulang Primary School, the school promotes excellence
 in Visual Arts by providing opportunities for every pupil to experience
 it through creative and fun lessons, learning journeys and assembly programmes.
@@ -85,17 +79,16 @@ talented in specific areas are given further opportunities to specialise
 and develop their potential in the respective Art forms. In these areas,
 Rulang pupils will be guided towards excellence at both the national and
 international arena.&nbsp;</p>
-<p><strong>Visual Art Curriculum Plan</strong>
-</p>
+<h4><strong>Visual Art Curriculum Plan</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Visual Arts Curriculum" src="/images/visual_art.png">
 </div>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>I Love Pottery Programme</strong>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp; I Love Pottery Programme</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="pottery" src="/images/pottery.png">
 </div>
-<p>&nbsp;●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>P1 &amp; P2 Visual Arts Curriculum</strong>
+<p>&nbsp;●&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P1 &amp; P2 Visual Arts Curriculum</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Brainstorming" src="/images/p1_and_p2.png">
@@ -103,15 +96,15 @@ international arena.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="drawing paper cut" src="/images/p1_and_p2_2.png">
 </div>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>P3 &amp; P4 Visual Arts Curriculum</strong>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; P3 &amp; P4 Visual Arts Curriculum</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="paper sculpture" src="/images/paper_sculpture.png">
+<img style="width: 70%;" height="auto" width="100%" alt="paper sculpture" src="/images/paper_sculpture.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="drawing and painting" src="/images/drawing_and_painting.png">
+<img style="width: 70%;" height="auto" width="100%" alt="drawing and painting" src="/images/drawing_and_painting.png">
 </div>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>P4 Museum Based Learning Module</strong>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp;&nbsp; P4 Museum Based Learning Module</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="museum" src="/images/national_gallery.png">
@@ -126,8 +119,7 @@ international arena.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="drawing and painting" src="/images/drawing_and_painting_session.png">
 </div>
-<p><strong>Music</strong>
-</p>
+<h3><strong>Music</strong></h3>
 <p>Rulang’s pupils are given opportunities to develop their creativity, express
 and showcase themselves through various platforms and appreciate Singapore’s
 multi-cultural heritage through diverse learning experiences in Music throughout
@@ -135,29 +127,39 @@ their primary school years. Thus, these provide opportunities for our pupils
 to demonstrate teamwork, values in action, develop social-emotional skills
 and leadership qualities which in turn hone the 21<sup>st</sup> century
 competencies.&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="music curriculum" src="/images/music_education.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>P1 &amp; P2 Music Curriculum Program</strong>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="p1 p2 music" src="/images/music_students.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="p1 p2 music balloon" src="/images/music_students_2.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>P3 &amp; P4 Music Curriculum Program</strong>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="recorder" src="/images/music_students_3.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ukulele" src="/images/music_students_4.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>P5 &amp; P6 Curriculum Programme</strong>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="guitar" src="/images/music_students_5.png">
 </div>
@@ -169,12 +171,15 @@ competencies.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="talentine 2" src="/images/talentine_2.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Voices of Rulangnites</strong>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="vor 1" src="/images/v0r1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="vor 2" src="/images/vor2.png">
 </div>
