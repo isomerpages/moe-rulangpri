@@ -2,7 +2,6 @@
 title: Parent Support Group
 permalink: /for-parents/parent-support-group/
 description: ""
-third_nav_title: For Parents
 variant: tiptap
 ---
 <h1>Parent Support Group</h1>
@@ -36,15 +35,4 @@ PSG Executive Committee at: &nbsp;
 <br>&nbsp;📩&nbsp;<a href="mailto:rulang.psg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">rulang.psg@gmail.com</a>
 </p>
 <p>&nbsp;To be a part of our PSG family, please sign up&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSc474LY22i3rf1kjyuTf8B8VjV7cQZI-pJ54pAN_OP8ivwX9A/viewform" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h1>Gallery</h1>
-<p><strong>2016 PSG</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRO4k_9jdOwq_r7lIeW_-vc7WymA2CUvkeRbHNqd5iVa-ulxohZfdtPeRor1J5e-9HjLqjOvEO1oact/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>2017 P1 Orientation Programme - PSG Recruitment</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTNYzgOS2j29eZmMWm6DdevMK-dgNm1FlwvEWcWIywOlcqpmrXhmMwMbB8AL2gSyQuAidcZ5o4zBoE2/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
