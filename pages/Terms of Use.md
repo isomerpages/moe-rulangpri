@@ -7,7 +7,7 @@ variant: tiptap
 <h2>Terms of Use</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Thank you for visiting <a rel="noopener noreferrer nofollow" target="_blank">https://www.rulangpri.moe.edu.sg/</a>.
+<p>Thank you for visiting <a href="https://www.rulangpri.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.rulangpri.moe.edu.sg/</a>.
 By accessing and using this Web Site, you shall be deemed to have accepted
 to be legally bound by these Terms of Use. If you do not agree to these
 Terms of Use, please do not use this Web Site.</p>
