@@ -106,7 +106,7 @@ from ours. We are not responsible for the content and privacy practices
 of these other websites and encourage you to consult the privacy notices
 of those sites.</p>
 <p>Contact Information</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please contact <a rel="noopener noreferrer nofollow" target="_blank">support@isomer.gov.sg</a> if
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please contact <a href="support@isomer.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@isomer.gov.sg</a> if
 you:</p>
 <p>&nbsp;&nbsp; 9.1. have any enquiries or feedback on our data protection
 policies and procedures; or</p>
