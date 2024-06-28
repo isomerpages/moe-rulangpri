@@ -3,14 +3,14 @@ collections:
     output: true
     order:
       - Instructional Programme/.keep
-      - Instructional Programme/English.md
-      - Instructional Programme/Mother Tongue.md
-      - Instructional Programme/Mathematics.md
-      - Instructional Programme/Science.md
-      - Instructional Programme/PE,CCA & HE.md
-      - Instructional Programme/CCE.md
-      - Instructional Programme/ICT (PW and IRS).md
       - Instructional Programme/Aesthetic (Art and Music).md
+      - Instructional Programme/CCE.md
+      - Instructional Programme/English.md
+      - Instructional Programme/ICT (PW and IRS).md
+      - Instructional Programme/Mathematics.md
+      - Instructional Programme/Mother Tongue.md
+      - Instructional Programme/PE,CCA & HE.md
+      - Instructional Programme/Science.md
       - Accelerated Education Programme (AEP).md
       - Co Curricular Special Programme (CCSP).md
       - Sexuality Education.md
