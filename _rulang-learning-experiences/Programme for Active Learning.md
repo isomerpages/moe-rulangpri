@@ -65,16 +65,14 @@ physical) and help pupils to develop social emotional competencies.</p>
 </div>
 <p><strong>Primary 1 (ILOVEDance ‘n’ Drama)</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovedancedrama2.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovedancedrama.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovedancedrama2.jpg">
+</div>
 <p><strong>Primary 2 (ILOVEMusic)</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovemusic.jpg">
 </div>
