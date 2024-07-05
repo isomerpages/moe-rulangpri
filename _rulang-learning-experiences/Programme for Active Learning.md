@@ -46,6 +46,7 @@ physical) and help pupils to develop social emotional competencies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/i_love_kampung.jpg">
 </div>
+<p>Collaboration Activity: Pick-up Sticks</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/i_love_kampung_2.jpg">
 </div>
@@ -54,36 +55,45 @@ physical) and help pupils to develop social emotional competencies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ILOVEArtyfacts.jpg">
 </div>
+<p>Learning Journey to Thow Kwong Pottery Jungle</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ILOVEArtyfacts2.jpg">
 </div>
+<p>Making ceramic pieces</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ILOVEArtyfacts3.jpg">
 </div>
+<p>Making their favourite animal using jumping clay</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ILOVEArtyfacts4.jpg">
 </div>
+<p>Making a model of themselves using modeling clay</p>
 <p><strong>Primary 1 (ILOVEDance ‘n’ Drama)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovedancedrama.jpg">
 </div>
+<p>Imagine themselves to be flowers and animals in the farm</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovedancedrama2.jpg">
 </div>
+<p>Imagine to be astronauts in space</p>
 <p><strong>Primary 2 (ILOVEMusic)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovemusic.jpg">
 </div>
+<p>Boom! Boom! Boom!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2%20I%20Love%20Music%202.jpg">
 </div>
+<p>Making music using boomwhackers</p>
 <p><strong>Primary 2 (ILOVENature)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovenature.jpg">
 </div>
+<p>Learning Journey to West Coast Park</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovenature2.jpg">
 </div>
@@ -93,12 +103,15 @@ physical) and help pupils to develop social emotional competencies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovenature4.jpg">
 </div>
+<p>Sowing Seeds during Outdoor Education sessions</p>
 <p><strong>Primary 2 (ILOVEGames)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ilovegames.jpg">
 </div>
+<p>Making up their own games using skipping ropes</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ilovegames2.jpg">
 </div>
+<p>Collaborative Games</p>
 <p></p>
