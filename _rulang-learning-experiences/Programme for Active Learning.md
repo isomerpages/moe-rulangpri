@@ -96,9 +96,9 @@ physical) and help pupils to develop social emotional competencies.</p>
 <p><strong>Primary 2 (ILOVEGames)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ilovegames2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ilovegames.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ilovegames.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ilovegames2.jpg">
 </div>
 <p></p>
