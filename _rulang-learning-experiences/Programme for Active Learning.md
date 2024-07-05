@@ -43,35 +43,64 @@ in the five learning domains (cognitive, moral, social, aesthetics and
 physical) and help pupils to develop social emotional competencies.</p>
 <p><strong>Primary 1 (ILOVEKampung Games)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/i_love_kampung.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/i_love_kampung_2.jpg">
+</div>
 <p><strong>Primary 1 (ILOVEArtyfacts)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ILOVEArtyfacts.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ILOVEArtyfacts2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ILOVEArtyfacts3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ILOVEArtyfacts4.jpg">
+</div>
 <p><strong>Primary 1 (ILOVEDance ‘n’ Drama)</strong>
 </p>
-<p><strong>Primary 2 (IYMusic)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2%20I%20Love%20Music%201.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovedancedrama2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovedancedrama.jpg">
+</div>
+<p><strong>Primary 2 (ILOVEMusic)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovemusic.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2%20I%20Love%20Music%202.jpg">
 </div>
 <p><strong>Primary 2 (ILOVENature)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2%20I%20Love%20Nature%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovenature.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2%20I%20Love%20Nature%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovenature2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovenature3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ilovenature4.jpg">
 </div>
 <p><strong>Primary 2 (ILOVEGames)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2%20I%20Love%20Games%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ilovegames2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2%20I%20Love%20Games%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ilovegames.jpg">
 </div>
 <p></p>
