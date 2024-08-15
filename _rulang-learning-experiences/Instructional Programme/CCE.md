@@ -20,6 +20,9 @@ and understand their roles in shaping the future of our nation. Our aim
 is to enable each student to develop a sense of culture, history, passion,
 purpose, identity, belonging, and personality that form their distinctive
 backbone and character.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_framework.png">
+</div>
 <p>CCE at Rulang Primary School is central to our mission of nurturing well-rounded
 individuals who are equipped with the values, skills, and dispositions
 to thrive in an ever-changing world. Rulang views character development
@@ -58,6 +61,10 @@ we integrate character and student well-being into academic learning. Our
 aim is to foster personal effectiveness, positive emotions, and meaningful
 relationships through the reinforcement of social-emotional competencies
 within the CCE curriculum.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student_well_being.png">
+</div>
 </li>
 <li>
 <p>Our Rulangnites are also taught Executive Functioning Skills to enhance
@@ -65,7 +72,10 @@ their ability to manage their learning and adapt to new challenges. These
 skills are essential for tasks such as planning, organizing, strategizing,
 maintaining attention to and recalling details, and effectively managing
 time and space. This approach fosters a holistic education that extends
-beyond academic achievement</p>
+beyond academic achievement.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_well_being_2.png">
+</div>
 </li>
 </ul>
 </li>
@@ -74,12 +84,15 @@ beyond academic achievement</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Our Rulangnites are also taught Executive Functioning Skills to enhance
-their ability to manage their learning and adapt to new challenges. These
-skills are essential for tasks such as planning, organizing, strategizing,
-maintaining attention to and recalling details, and effectively managing
-time and space. This approach fosters a holistic education that extends
-beyond academic achievement.</p>
+<p>We actively encourage student voice and ownership, ensuring that our students
+feel included and empowered. Acknowledging their views and ideas, we strive
+to motivate every Rulangite to contribute positively and strive for excellence.
+For example, RPOP! - Rulangnites: Pursuing Our Passions, is a pupil-led
+initiative that empowers students to start interest groups with their peers,
+encouraging them to explore their interests and collaborate with others.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_engagement_and_ownership.png">
+</div>
 </li>
 </ul>
 </li>
@@ -97,6 +110,16 @@ develop a sense of service and responsibility in our students. Through
 lessons on current social, regional, and global issues, we provide opportunities
 for students to become reflective global citizens who make a positive impact
 on the lives of others and the environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/News_paper_article_collab.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/coomunity_engagement_and_contribution.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/coomunity_engagement_and_contribution_2.png">
+</div>
 </li>
 </ul>
 </li>
@@ -163,12 +186,22 @@ living in multicultural Singapore.</p>
 to reflect on how far Singapore has come since our independence in 1965
 and understand that none of this would have been possible without sheer
 grit and determination, a forward- looking government and unity among Singaporeans.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Citizenship_event_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Citizenship_event__2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Citizenship_event__3.png">
+</div>
 </li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
+<p></p>
 </li>
 <li>
 <p><strong>Sexuality Education</strong>
