@@ -28,15 +28,13 @@ as a vital vehicle to achieve the school vision of being “Scholars of Tomorrow
 impacting our society, such as societal changes, globalization, and technological
 advancements. Aligned with MOE's CCE 2021 Curriculum Framework, our curriculum
 is anchored on the school's A.B.L.E desired outcomes and D.A.R.E. values.</p>
-<p><strong>Enactment of CCE</strong>
-</p>
+<h4><strong>Enactment of CCE</strong></h4>
 <p>At Rulang Primary School, we are committed to providing a holistic CCE
 experience for our students. Our approach is tailored to cultivate a caring
 and enabling learning environment that nurtures the growth and development
 of our students.</p>
-<p><strong>Key Programmes</strong>
-</p>
-<ol data-tight="true" class="tight">
+<h4><strong>Key Programmes</strong></h4>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>CCE Curriculum Integration</strong>
 </p>
@@ -115,29 +113,78 @@ experience and foster a sense of national identity and pride.</p>
 <li>
 <p><u>Total Defence Day (TDD)</u>
 </p>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ol>
+<ul data-tight="true" class="tight">
+<li>
 <p>TDD is commemorated in February (Term 1) every year and remains relevant
 to deal with the ever-evolving hybrid threats and challenges to Singapore.
 These include misinformation, supply chain disruptions and food security
 that affect communities and Singaporeans' way of life. Every Rulangnite
 has a part to play in our daily lives to ensure that Singapore is prepared
 for crises or disruptions, and that we remain resilient and united.</p>
-<p></p>
-<p></p>
-<p></p>
+</li>
+</ul>
+</li>
+<li>
 <p><u>International Friendship Day (IFD)</u>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>International Friendship Day is celebrated every year to encourage our
 Rulangnites to connect with communities that are different from their own.&nbsp;
 On this day, it is dedicated to the understanding of Singapore’s relations
 with its neighbouring countries and beyond. It aims to nurture in our Rulangnites
 the spirit of friendship and partnership among different countries and
 people and to appreciate diverse cultures, different perspectives and ideas.</p>
-<p>c. <u>Racial Harmony Day (RHD)</u>
+</li>
+</ul>
+</li>
+<li>
+<p><u>Racial Harmony Day (RHD)</u>
 </p>
+</li>
+<li>
+<p>National Day</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Rulangnites are reminded of the importance of maintaining racial and religious
+harmony in the country on this day. Our students learn the importance of
+making choices that promote and advocate inter-cultural understanding,
+which build strong relationships between people of all races, cultures
+and nationalities, and strengthen our distinctive identity as Singaporeans
+living in multicultural Singapore.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>National Day</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The National Day celebration provides a good opportunity for Rulangnites
+to reflect on how far Singapore has come since our independence in 1965
+and understand that none of this would have been possible without sheer
+grit and determination, a forward- looking government and unity among Singaporeans.</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Sexuality Education</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.rulangpri.moe.edu.sg/rulang-learning-experiences/sexuality-education/</a>
+</p>
+</li>
+<li>
+<p>At Rulang Primary School, our commitment to Character and Citizenship
+Education goes beyond the classroom, aiming to nurture well-rounded individuals
+who are equipped with the values, skills, and mindset to thrive in a dynamic
+and interconnected world.</p>
+</li>
+</ul>
+</li>
+</ul>
 <p></p>
