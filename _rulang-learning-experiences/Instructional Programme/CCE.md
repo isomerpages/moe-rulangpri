@@ -175,7 +175,7 @@ grit and determination, a forward- looking government and unity among Singaporea
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.rulangpri.moe.edu.sg/rulang-learning-experiences/sexuality-education/</a>
+<p><a href="https://www.rulangpri.moe.edu.sg/rulang-learning-experiences/sexuality-education/" rel="noopener noreferrer nofollow" target="_blank">https://www.rulangpri.moe.edu.sg/rulang-learning-experiences/sexuality-education/</a>
 </p>
 </li>
 <li>
