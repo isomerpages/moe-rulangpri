@@ -3,27 +3,141 @@ title: CCE
 permalink: /rulang-learning-experiences/Instructional-Programme/cce/
 description: ""
 third_nav_title: Instructional Programme
+variant: tiptap
 ---
-
-# CCE
-
-**Vision**
-
-Self-disciplined and Gracious Rulangnites
-
-**Mission**
-
-To nurture self-disciplined and gracious Rulangnites in a warm, caring and supportive school environment
-![](/images/IMG_0035.jpg)
-Rulang views character development as a vital vehicle to achieve the school vision of being “A Gallery of
-Scholars, A Vibrant Community of Wholesome Individuals”. The “Gallery of Scholars” serves to remind Rulangnites of their rootedness to the Jurong community. The “Vibrant Community of Wholesome Individuals” refers to an innovative and exciting learning community where individuals are nurtured holistically and imbued with school values. Character development is pervasive within the school’s TRUE HEARTs culture and reflected through the seven core values adopted by both staff and pupils - to be morally upright, gracious, creative and innovative, adaptable, self-disciplined, excellent and a risk taker. The school’s motto “Morally Upright” is the pinnacle of the core values which serve as the guiding principle for all Rulangnites in their quest for excellence. The Character Development Framework comprising 5 arms of Socialisation, Citizenship, Entrepreneurship. Leadership, Internationalisation is implemented systematically by level with gradual progression over six years of education.
-
-In order for pupils to take personal ownership for their character development, a personal character development - CELL (Citizenship, Entrepreneurship, Leadership Learning) booklet was designed for all pupils to reflect on the attributes they have demonstrated after discussions with teachers on a one-to-one basis. Parents would also give their reflections and assessments of pupils’ progress in their character development.
-
-![](/images/IMG_1074.jpg)
-The school factors in a period a week for the conduct of GIFTS (Generating Interactions for Total Socialisation) Programme on National Education, Lifeskills/Leadership Skills, Entrepreneurial skills and Character Development Lessons. Through scenario studies and experiential learning, we hope to instil in pupils sound social and moral values as well as the desired attributes of a citizen, an entrepreneur and a leader.
-
-![](/images/IMG_1892.jpg)
-![](/images/IMG_1894.jpg)
-
-As we develop in our young charges a global mindset, it is also vital to foster in them an emotional attachment to Singapore. The school looks into ways to maximise opportunities for her pupils to serve and lead themselves in national events such as the Wushu display during our Nation’s 41st National Day Pre-Parade Celebrations, the “Connect Singapore: Hand-in-Hand, A Nation We Stand” event in 2008 and this year’s annual Chingay Parade. With the emphasis on character development and student leadership development, we are proud to be awarded the Outstanding Development Award for Character Development which recognises schools with comprehensive and effective character development efforts.
+<h1>Character and Citizenship Education (CCE)</h1>
+<h4><strong>Vision</strong></h4>
+<p>Self-disciplined and Gracious Rulangnites</p>
+<h4><strong>Mission</strong></h4>
+<p>To nurture self-disciplined and gracious Rulangnites in a warm, caring
+and supportive school environment.</p>
+<h4><strong>Curriculum Content</strong></h4>
+<p>The curriculum content of Character and Citizenship Education (CCE) is
+based on the three big ideas of Identity, Relationships, and Choices, with
+a central focus on developing a sense of purpose in our students. We believe
+in nurturing Citizen Leaders who are responsible to their family and community
+and understand their roles in shaping the future of our nation. Our aim
+is to enable each student to develop a sense of culture, history, passion,
+purpose, identity, belonging, and personality that form their distinctive
+backbone and character.</p>
+<p>CCE at Rulang Primary School is central to our mission of nurturing well-rounded
+individuals who are equipped with the values, skills, and dispositions
+to thrive in an ever-changing world. Rulang views character development
+as a vital vehicle to achieve the school vision of being “Scholars of Tomorrow”.</p>
+<p>Our CCE curriculum is designed with careful consideration of global developments
+impacting our society, such as societal changes, globalization, and technological
+advancements. Aligned with MOE's CCE 2021 Curriculum Framework, our curriculum
+is anchored on the school's A.B.L.E desired outcomes and D.A.R.E. values.</p>
+<p><strong>Enactment of CCE</strong>
+</p>
+<p>At Rulang Primary School, we are committed to providing a holistic CCE
+experience for our students. Our approach is tailored to cultivate a caring
+and enabling learning environment that nurtures the growth and development
+of our students.</p>
+<p><strong>Key Programmes</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>CCE Curriculum Integration</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our CCE curriculum is designed to instill core values and social-emotional
+competencies, focusing on the themes of Identity, Relationships, and Choices.
+Through structured lessons and activities, students are equipped with essential
+skills and knowledge, including 21st-century competencies, to support their
+personal and social growth.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Student Well-being</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Embracing a caring and enabling environment as a whole-school approach,
+we integrate character and student well-being into academic learning. Our
+aim is to foster personal effectiveness, positive emotions, and meaningful
+relationships through the reinforcement of social-emotional competencies
+within the CCE curriculum.</p>
+</li>
+<li>
+<p>Our Rulangnites are also taught Executive Functioning Skills to enhance
+their ability to manage their learning and adapt to new challenges. These
+skills are essential for tasks such as planning, organizing, strategizing,
+maintaining attention to and recalling details, and effectively managing
+time and space. This approach fosters a holistic education that extends
+beyond academic achievement</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Student Engagement and Ownership</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our Rulangnites are also taught Executive Functioning Skills to enhance
+their ability to manage their learning and adapt to new challenges. These
+skills are essential for tasks such as planning, organizing, strategizing,
+maintaining attention to and recalling details, and effectively managing
+time and space. This approach fosters a holistic education that extends
+beyond academic achievement.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Community Engagement and Contribution</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our Values-In-Action (VIA) programmes and school-customized initiatives
+empower students to contribute meaningfully to the community. From contributing
+to the Jurong community to global initiatives, our students develop a sense
+of responsibility and care for the shared spaces within and beyond the
+school. Grounded in our school's core values, our D.A.R.E. values aim to
+develop a sense of service and responsibility in our students. Through
+lessons on current social, regional, and global issues, we provide opportunities
+for students to become reflective global citizens who make a positive impact
+on the lives of others and the environment.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>National Education and Citizenship Events</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Embracing National Education, we commemorate core annual events such as
+Total Defence Day, International Friendship Day, Racial Harmony Day, and
+National Day. These events provide our students with a holistic learning
+experience and foster a sense of national identity and pride.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><u>Total Defence Day (TDD)</u>
+</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p>TDD is commemorated in February (Term 1) every year and remains relevant
+to deal with the ever-evolving hybrid threats and challenges to Singapore.
+These include misinformation, supply chain disruptions and food security
+that affect communities and Singaporeans' way of life. Every Rulangnite
+has a part to play in our daily lives to ensure that Singapore is prepared
+for crises or disruptions, and that we remain resilient and united.</p>
+<p></p>
+<p></p>
+<p></p>
+<p><u>International Friendship Day (IFD)</u>
+</p>
+<p>International Friendship Day is celebrated every year to encourage our
+Rulangnites to connect with communities that are different from their own.&nbsp;
+On this day, it is dedicated to the understanding of Singapore’s relations
+with its neighbouring countries and beyond. It aims to nurture in our Rulangnites
+the spirit of friendship and partnership among different countries and
+people and to appreciate diverse cultures, different perspectives and ideas.</p>
+<p>c. <u>Racial Harmony Day (RHD)</u>
+</p>
+<p></p>
