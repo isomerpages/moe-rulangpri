@@ -18,8 +18,7 @@ environment</p>
 facilitators of tech-enabled learning experiences.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EdTech to personalise learning
 and provide individualised feedback</p>
-<p>&nbsp;</p>
-<h4><strong>Digital Literacy</strong></h4>
+<h4>&nbsp;<strong>Digital Literacy</strong></h4>
 <p>Digital Literacy (DL) is defined as a set of knowledge, skills and dispositions
 that would help Rulangnites to be confident, critical and responsible users
 of digital technologies for information, communication and problem-solving.
