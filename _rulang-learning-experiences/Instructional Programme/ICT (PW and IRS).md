@@ -26,7 +26,9 @@ of digital technologies for information, communication and problem-solving.
 Students will acquire digital skills across four components in the Find
 Think Apply Create framework.</p>
 <p></p>
-<p>Pic</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/digital_literacy.png">
+</div>
 <p></p>
 <p>The digital competencies are integrated into the curriculum across all
 levels to make the learning more relevant and authentic for the students.
@@ -119,8 +121,7 @@ The key programmes include:</p>
 </tr>
 </tbody>
 </table>
-<p><strong>e-Pedagogies – Teachers as designers and facilitators of tech-enabled learning experiences</strong>
-</p>
+<h4><strong>e-Pedagogies – Teachers as designers and facilitators of tech-enabled learning experiences</strong></h4>
 <p>The school embraces e-Pedagogies to nurture self-directed and collaborative
 innovators, with teachers serving as designers and facilitators of tech-enabled
 learning experiences. This approach is integrated into the school’s standard
@@ -133,9 +134,14 @@ enhance learning. Departments and teachers leverage the Student Learning
 Space (SLS) as a curriculum resource hub to enrich their teaching and learning
 practices.</p>
 <p></p>
-<p>Pic</p>
-<p><strong>Cyber Wellness</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/epedagogies_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/epedagogies_2.png">
+</div>
+<p></p>
+<h4><strong>Cyber Wellness</strong></h4>
 <p>The school offers an extensive cyber wellness programme that spans various
 platforms and avenues, aimed at promoting safe and responsible online behavior
 among students. The key platforms include:</p>
@@ -148,8 +154,7 @@ are engaged to raise awareness about cyber wellness among students through
 the creation of short video clips, pamphlets, etc.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Maker Education</strong>
-</p>
+<h4><strong>Maker Education</strong></h4>
 <p>Maker Education aims to:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide students with opportunities
 to engage in hands-on and active learning</p>
@@ -163,8 +168,10 @@ in Science, Technology, Engineering and Mathematics (STEM)</p>
 design, and bringing their ideas to life. A maker challenge will be held
 regularly during recess for each level, providing students with the opportunity
 to participate and complete the challenge during this time.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/makers_room.png">
+</div>
 <p></p>
-<p>PIc</p>
 <p></p>
 <p></p>
 <p></p>
