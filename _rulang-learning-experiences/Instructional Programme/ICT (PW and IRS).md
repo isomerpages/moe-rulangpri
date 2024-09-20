@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Instructional Programme
 variant: tiptap
 ---
-<h1>ICT </h1>
+<h1>ICT</h1>
 <p>Aligned with the MOE EdTech Masterplan 2030 and the school’s vision, the
 ICT Committee aims to nurture scholars of tomorrow, well-equipped with
 emerging 21st-century competencies (E21CC) and digital literacy. The goals
