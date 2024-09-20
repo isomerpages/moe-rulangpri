@@ -3,182 +3,169 @@ title: ICT (PW and IRS)
 permalink: /rulang-learning-experiences/Instructional-Programme/ict-pw-and-irs/
 description: ""
 third_nav_title: Instructional Programme
+variant: tiptap
 ---
-
-# ICT (PW and IRS)
-
-## ICT / Innovation & Niche / PW / MRL
-
-**Vision**
-
-**“Everyone Can Do IT”**
-
-The ICT committee envisions Information and Communication Technology (ICT) to be encompassed within the overall culture of the school through its infusion into the school’s standard processes including, delivery of lessons, developing process skills for knowledge acquisition, promotion of creative thinking, people development, and application of appropriate tools for enhanced efficiency in administration.
-
-<img src="/images/IMG-20170605-WA0015.jpg" 
-     style="width:80%">
-
-The four words articulated in the vision express for whom, how and why ICT is implemented:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-4ufn">everyone</th>
-    <th class="tg-lygy">-</th>
-    <th class="tg-lygy">all staff, pupils, resident vendors and parents</th>
-  </tr>
-</thead>
+<h1>ICT </h1>
+<p>Aligned with the MOE EdTech Masterplan 2030 and the school’s vision, the
+ICT Committee aims to nurture scholars of tomorrow, well-equipped with
+emerging 21st-century competencies (E21CC) and digital literacy. The goals
+of the Rulang EdTech implementation plan are:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EdTech as a capability multiplier
+to foster E21CC and Digital Literacy</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EdTech to transform learning
+environment</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teachers as designers and
+facilitators of tech-enabled learning experiences.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EdTech to personalise learning
+and provide individualised feedback</p>
+<p>&nbsp;</p>
+<h4><strong>Digital Literacy</strong></h4>
+<p>Digital Literacy (DL) is defined as a set of knowledge, skills and dispositions
+that would help Rulangnites to be confident, critical and responsible users
+of digital technologies for information, communication and problem-solving.
+Students will acquire digital skills across four components in the Find
+Think Apply Create framework.</p>
+<p></p>
+<p>Pic</p>
+<p></p>
+<p>The digital competencies are integrated into the curriculum across all
+levels to make the learning more relevant and authentic for the students.
+The key programmes include:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-4ufn">can</td>
-    <td class="tg-lygy">-</td>
-    <td class="tg-lygy">literacy and competency leading to appropriate application</td>
-  </tr>
-  <tr>
-    <td class="tg-4ufn">do</td>
-    <td class="tg-lygy">-</td>
-    <td class="tg-lygy">maximised and ethical usage for administration, communication, and teaching &amp; learning</td>
-  </tr>
-  <tr>
-    <td class="tg-4ufn">IT</td>
-    <td class="tg-lygy">-</td>
-    <td class="tg-lygy">technology used to manage information for enhanced efficiency <br>and support learning anytime, anywhere.</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Project Work – Kubo Planner</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Project Work – Little Programmers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Programme – Little Coders</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For all: Code for Fun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AEP: Micro:bit - Smart Homes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For selected pupils: Prototyping Smart Devices</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For all: Special Programme – Young Entrepreneurs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AEP: Micro:bit – Solar cars</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For selected pupils: Arduino – Making accessibility devices</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For all:
+<br>Code for Fun: AI Explorer</p>
+<p>Post-PSLE - Drone exploration</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/IMG_4719.jpg)
-ICT prepares the young to participate in a rapidly changing world in which almost all activities are increasingly transformed through access to varied and developing technology. It is crucial for pupils to know how to employ ICT to enable rapid and legal access to ideas and experiences from a wide range of people, communities and cultures. Increased capabilities in the use of ICT promote self-directed and collaborative learning as pupils are able to make informed judgements from the data gathered.
-Stakeholders who are well-versed in ICT also enhance the effectiveness and efficiency of administration and communication, as well as allows for the creation of a conducive learning environment for pupils. ICT-based assessment provides an alternative form of review of pupils’ learning and performance.
-![](/images/Camera_01_27022014_027.jpg)
-
-**Objectives**
-
-**The objectives of the ICT programmes are to:**
-
-- Provide pupils with ICT enriched learning experiences and focusing on SDL and CoL.
-- Provide opportunities for pupils to see the relevance of cyber wellness to their lives and acquire key cyber wellness skills.
-- Provide accessibility of ICT to pupils through more flexible and mobile infrastructure provision.
-
-**Desired Outcomes**
-
-The desired outcome which we hope that pupils develop competencies for self-directed and collaborative learning through the effective use of ICT as well as become discerning and responsible ICT users.
-
-**Ability-driven and Differentiated Teaching and Learning Programmes**
-
-In harnessing potential as well as capabilities in pupils, ICT programme is differentiated to meet the learning needs of different groups of pupils. This notion is clearly charted below
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-a3j2"><span style="color:#222;background-color:transparent">Mass</span></th>
-    <th class="tg-a3j2"><span style="color:#222;background-color:transparent">Talented</span></th>
-    <th class="tg-a3j2"><span style="color:#222;background-color:transparent">AEP Group</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lygy">E-learning activities <br><br>Baseline ICT Skills<br><br>Integrated Robotics Curriculum(Project works)<br><br>Cyberwellness Education</td>
-    <td class="tg-tsok">Microsoft Skills Competition<br><br>New South Wales ICT Skills<br><br>Techno Club<br><br>Cyber Wellness Ambassador</td>
-    <td class="tg-tsok">Integrated Robotics</td>
-  </tr>
-</tbody>
-</table>
-
-![](/images/IMG-20170605-WA0032.jpg)
-
-# Media Resource Library
-
-**Vision**
-
-A haven where a community of learners becomes scholars.
-
-**Philosophy**
-![](/images/IMG_1479.jpg)
-Print and the digital resources are the media that unlock the door of knowledge and wonderment.
-
-The library is where our pupils uncover the complex, challenging yet mysterious and wonderful world around them. They explore and analyse a whole range of fiction and non-fiction, from Shakespeare to the sciences.
-
-Through a myriad of resources, books and digital media, our pupils will engage in scholarly activities to develop a deeper understanding of the richness and complexity of literature and its continuing relevance within our diverse global cultures. By the same means, the community of learners is enriched with what the sciences offer and their lives are enhanced by the world of arts and crafts.
-
-Having acquired the richness of language from the literary works available, our pupils develop the power to express their thoughts, feelings and aspirations in a logical, creative and imaginative way.
-
-Rulang Primary School has mapped a learning journey so that interesting and diversed learning can take place for the pupils. And Media Resource Library, in its main or supportive role, will work together to provide the necessary resources available.
-
-<img src="/images/20170803_091336.jpg" 
-     style="width:50%">
-<img src="/images/20170803_091426.jpg" 
-     style="width:50%">
-
-**Objectives**
-
-<img src="/images/picture%201.jpg" 
-     style="width:30%">
-
-The Media Resource Library strives to provide opportunities for pupils to develop their enjoyment, confidence and independence in learning and using multi-media resources.
-
-This requires the Media Resource Library to
-develop a current collection of multi-media resources for the Media Resource Library and iRead books for the class library that is relevant to all
-create areas within the library to accommodate various purpose and use for both staff and pupils
-
-**Desired Outcomes**
-
-With the wide range of books and fun activities held regularly, the library is an inviting place to more than just read!
-
-**Differentiated Teaching and Learning Programme for Readers**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm">Avid Readers</th>
-    <th class="tg-amwm">Enthusiastic Readers</th>
-    <th class="tg-amwm">Novice Readers</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-amwm" colspan="3">Activities</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><span style="background-color:transparent">Avid Readers </span>Class Library (iRead Books)<br><br><span style="background-color:transparent">Movies@MRL </span><br><br><span style="background-color:transparent">Book Talk &amp; Book Recommendation </span><br><br><span style="background-color:transparent">Aesthetic-cum-MRL Week</span></td>
-    <td class="tg-baqh"><span style="background-color:transparent">Avid Readers</span><br><br><span style="background-color:transparent">Class Library (iRead Books) </span><br><br><span style="background-color:transparent">Once Upon A Time@MRL Movies@MRL </span><br><br><span style="background-color:transparent">Book Talk &amp; Book Recommendation </span><br><br><span style="background-color:transparent">Aesthetic-cum-MRL Week</span></td>
-    <td class="tg-baqh"><br><span style="background-color:transparent">Avid Readers </span><br><br><span style="background-color:transparent">Class Library (iRead Books) </span><br><br><span style="background-color:transparent">Once Upon A Time@MRL Movies@MRL</span><br><span style="background-color:transparent"> </span><br><span style="background-color:transparent">Book Talk &amp; Book Recommendation </span><br><br><span style="background-color:transparent">Aesthetic-cum-MRL Week</span></td>
-  </tr>
-  <tr>
-    <td class="tg-amwm" colspan="3">Spaces</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><span style="background-color:transparent">Mini Auditorium </span><br><br><span style="background-color:transparent">Thematic Display Board</span><br><span style="background-color:transparent"> </span><br><span style="background-color:transparent">My Work Station</span><br><span style="background-color:transparent"> </span><br><span style="background-color:transparent">Class Library</span><br><span style="background-color:transparent"> </span><br><span style="background-color:transparent">Various study and reading corners in the library (Reference, Fiction and Non-Fiction)</span></td>
-    <td class="tg-baqh"><span style="background-color:transparent">Mini Auditorium </span><br><br><span style="background-color:transparent">Thematic Display Board </span><br><br><span style="background-color:transparent">My Learning Space </span><br><br><span style="background-color:transparent">My Work Station </span><br><br><span style="background-color:transparent">Class Library </span><br><br><span style="background-color:transparent">Various study and reading corners in the library (Reference, Fiction and Non-Fiction)</span></td>
-    <td class="tg-baqh"><span style="background-color:transparent">Mini Auditorium </span><br><br><span style="background-color:transparent">Thematic Display Board </span><br><br><span style="background-color:transparent">My Learning Space </span><br><br><span style="background-color:transparent">My Work Station </span><br><br><span style="background-color:transparent">Class Library </span><br><br><span style="background-color:transparent">Various study and reading corners in the library</span></td>
-  </tr>
-</tbody>
-</table>
+<p><strong>e-Pedagogies – Teachers as designers and facilitators of tech-enabled learning experiences</strong>
+</p>
+<p>The school embraces e-Pedagogies to nurture self-directed and collaborative
+innovators, with teachers serving as designers and facilitators of tech-enabled
+learning experiences. This approach is integrated into the school’s standard
+processes, encompassing the delivery of lessons and the development of
+process skills for knowledge acquisition, as well as the promotion of critical,
+adaptive, and inventive thinking.</p>
+<p>Teachers apply Key Application of Technology (KAT) as the core pedagogical
+consideration, guiding them to leverage the affordances of technology to
+enhance learning. Departments and teachers leverage the Student Learning
+Space (SLS) as a curriculum resource hub to enrich their teaching and learning
+practices.</p>
+<p></p>
+<p>Pic</p>
+<p><strong>Cyber Wellness</strong>
+</p>
+<p>The school offers an extensive cyber wellness programme that spans various
+platforms and avenues, aimed at promoting safe and responsible online behavior
+among students. The key platforms include:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyber Wellness Week</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Assembly talks</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyber Wellness Corner</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FTGP</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyber wellness ambassadors
+are engaged to raise awareness about cyber wellness among students through
+the creation of short video clips, pamphlets, etc.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Maker Education</strong>
+</p>
+<p>Maker Education aims to:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Provide students with opportunities
+to engage in hands-on and active learning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop students’ critical,
+adaptive and inventive thinking skills</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop students’ communication,
+collaboration and information skills</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Foster students’ interest
+in Science, Technology, Engineering and Mathematics (STEM)</p>
+<p>MakerSpace @ Rulang is a hub for creative and inventive thinking, experimentation,
+design, and bringing their ideas to life. A maker challenge will be held
+regularly during recess for each level, providing students with the opportunity
+to participate and complete the challenge during this time.</p>
+<p></p>
+<p>PIc</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
