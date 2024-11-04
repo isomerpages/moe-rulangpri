@@ -4,7 +4,7 @@ permalink: /special-programme/
 variant: tiptap
 description: SP
 ---
-<h2>Special Programme (SP)</h2>
+<h1>Special Programme (SP)</h1>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
