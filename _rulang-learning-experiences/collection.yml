@@ -2,7 +2,6 @@ collections:
   rulang-learning-experiences:
     output: true
     order:
-      - Special Programme.md
       - Instructional Programme/.keep
       - Instructional Programme/Aesthetic (Art and Music).md
       - Instructional Programme/CCE.md
@@ -14,6 +13,7 @@ collections:
       - Instructional Programme/Science.md
       - Accelerated Education Programme (AEP).md
       - Co Curricular Special Programme (CCSP).md
+      - Special Programme.md
       - Sexuality Education.md
       - Programme for Active Learning.md
       - ALP & LLP/.keep
