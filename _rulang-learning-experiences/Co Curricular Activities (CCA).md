@@ -1,16 +1,22 @@
 ---
-title: Co Curricular Special Programme (CCSP)
-permalink: /rulang-learning-experiences/co-curricular-special-programme-ccsp/
+title: Co Curricular Activities (CCA)
+permalink: /rulang-learning-experiences/co-curricular-activities/
 description: ""
 variant: tiptap
 ---
-<h1>Co-Curricular Special Programme (CCSP)</h1>
+<h1>Co-Curricular Activities(CCA)</h1>
 <p><strong>Overview of CCAs 2024</strong>
 </p>
 <p><strong>CCAs on Mondays</strong>
 </p>
 <p>All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -213,7 +219,13 @@ internal and external.</p>
 <p><strong>CCAs on Fridays</strong>
 </p>
 <p>All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
