@@ -19,6 +19,10 @@ on the logos to be directed to the different websites.</p>
 </p>
 </li>
 <li>
+<p><a href="/files/self_service_password_reset.pdf" rel="noopener noreferrer nofollow" target="_blank">Self-service MIMS password reset</a>
+</p>
+</li>
+<li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS Student Login Space</a>
 </p>
 </li>
