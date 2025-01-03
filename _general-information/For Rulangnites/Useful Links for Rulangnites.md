@@ -27,7 +27,7 @@ on the logos to be directed to the different websites.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/MOE_M365_Enhancement_Students_MS_Teams_VC_and_Chat_Quick_Guide_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Students' Guide for Teams Meeting.</a>
+<p><a href="/files/MOE_M365_Enhancement_Students_MS_Teams_VC_and_Chat_Quick_Guide_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Students' Guide for Teams Meeting</a>
 </p>
 </li>
 <li>
