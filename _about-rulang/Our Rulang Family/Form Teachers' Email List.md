@@ -389,9 +389,9 @@ variant: tiptap
 <p>(Ms) Wong Min Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loke_yuet_wai@schools.gov.sg</a>
+<p><a href="mailto:loke_yuet_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loke_yuet_wai@schools.gov.sg</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_min_wei@schools.gov.sg</a>
+<p><a href="mailto:wong_min_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_min_wei@schools.gov.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -406,9 +406,9 @@ variant: tiptap
 <p>(Mr) Ho Twee Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">doris_heng_kwok_jin@schools.gov.sg</a>
+<p><a href="mailto:doris_heng_kwok_jin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">doris_heng_kwok_jin@schools.gov.sg</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">ho_twee_lim@schools.gov.sg</a>
+<p><a href="mailto:ho_twee_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_twee_lim@schools.gov.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -424,9 +424,9 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohammed_Bazli_Azmy@schools.gov.sg</a>
+<p><a href="mailto:mohammed_Bazli_Azmy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_Bazli_Azmy@schools.gov.sg</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">susiayanto_sunaryo@schools.gov.sg</a>
+<p><a href="mailto:susiayanto_sunaryo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">susiayanto_sunaryo@schools.gov.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
