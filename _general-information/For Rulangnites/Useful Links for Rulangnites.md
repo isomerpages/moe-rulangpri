@@ -17,10 +17,12 @@ on the logos to be directed to the different websites.</p>
 <li>
 <p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON Login</a>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/self_service_password_reset.pdf" rel="noopener noreferrer nofollow" target="_blank">Self-service MIMS password reset</a>
+<p><a href="https://forms.gle/cSD7t457YZDMhn6r8" rel="noopener nofollow" target="_blank">Form to reset password</a>
 </p>
+</li>
+</ul>
 </li>
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS Student Login Space</a>
