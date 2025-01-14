@@ -19,7 +19,7 @@ on the logos to be directed to the different websites.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://forms.gle/cSD7t457YZDMhn6r8" rel="noopener nofollow" target="_blank">Form to reset MIMS password</a>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe3rC-wLL9k5t7ooDPY1nBZ2a_DNq2zTQwbhKjd5BsOYfozAQ/viewform?usp=sharing" rel="noopener nofollow" target="_blank">Form to reset MIMS password</a>
 </p>
 </li>
 </ul>
