@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Sexuality Education</h1>
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
 <p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
 in schools aims to enable students to understand the physiological, social
@@ -41,7 +41,7 @@ unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>)
 for more information on MOE Sexuality Education.</p>
-<p><strong>Overview of rulang Primary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of Rulang Primary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
