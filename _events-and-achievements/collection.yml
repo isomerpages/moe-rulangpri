@@ -2,7 +2,6 @@ collections:
   events-and-achievements:
     output: true
     order:
-      - Example TitleRulangnites' Achievements 2024.md
       - Rulangnites' Achievements 2023/.keep
       - Rulangnites' Achievements 2023/Cognitive.md
       - Rulangnites' Achievements 2023/Physical.md
