@@ -2,12 +2,12 @@ collections:
   events-and-achievements:
     output: true
     order:
-      - Rulangnites' Achievements 2024/Values In Action.md
-      - Rulangnites' Achievements 2024/Aesthetics.md
-      - Rulangnites' Achievements 2024/Social & Moral.md
       - Rulangnites' Achievements 2024/.keep
       - Rulangnites' Achievements 2024/Cognitive.md
       - Rulangnites' Achievements 2024/Physical.md
+      - Rulangnites' Achievements 2024/Social & Moral.md
+      - Rulangnites' Achievements 2024/Aesthetics.md
+      - Rulangnites' Achievements 2024/Values In Action.md
       - Rulangnites' Achievements 2023/.keep
       - Rulangnites' Achievements 2023/Cognitive.md
       - Rulangnites' Achievements 2023/Physical.md
