@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Rulangnites' Achievements 2023
 ---
-<h3>Cognitive Achievements 2023</h3>
+<h3>Cognitive Achievements </h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievement 2024/Slide66.jpg">
