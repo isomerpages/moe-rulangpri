@@ -2,6 +2,7 @@ collections:
   events-and-achievements:
     output: true
     order:
+      - Rulangnites' Achievements 2024/Social & Moral.md
       - Rulangnites' Achievements 2024/.keep
       - Rulangnites' Achievements 2024/Cognitive.md
       - Rulangnites' Achievements 2024/Physical.md
