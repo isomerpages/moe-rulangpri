@@ -7,11 +7,9 @@ variant: tiptap
 ---
 <h2><strong>School Leaders</strong></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rulang School Leaders" src="/images/school%20leaders%202024.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rulang_SLs.png">
 </div>
 <p><em>[From Left to Right]</em>
-</p>
-<p><em>Mr Philip Justin Moorthy (Vice-Principal, Admin)</em>
 </p>
 <p><em>Mr Adrian Tan (Vice-Principal)</em>
 </p>
