@@ -10,9 +10,8 @@ variant: tiptap
 <p><strong>CCAs on Mondays</strong>
 </p>
 <p>All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -31,10 +30,6 @@ variant: tiptap
 <p><strong>Expected Learning Outcomes</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Overall<br>Teacher-in-Charge</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -50,9 +45,6 @@ variant: tiptap
 <p>Pupils are trained in print making, sculpture making, digital art, graffiti
 art &amp; creative 3-D art.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Jennifer Loh</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -66,9 +58,6 @@ art &amp; creative 3-D art.</p>
 <p>Pupils learn game rules and fundamental skills of passing, dribbling,
 shooting, defensive stance and working in teams with emphasis on fair play
 and excellence.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Chen An</p>
 </td>
 </tr>
 <tr>
@@ -85,9 +74,6 @@ and excellence.</p>
 and in parts, and to express varied repertoire of music through use of
 vocals and physical movements. Pupils will be exposed to various performing
 platforms both internal and external.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jamie Lim</p>
 </td>
 </tr>
 <tr>
@@ -106,11 +92,6 @@ in performance and develop greater confidence in themselves. Dancing instils
 discipline. In doing so, pupils will learn to be more aware of their surroundings
 and better manage themselves.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nurwahidah</p>
-<p>&amp;</p>
-<p>Ms Ruhana</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -124,9 +105,6 @@ and better manage themselves.</p>
 <p>Pupils are trained progressively to learn various robotics construction
 and programming skills as well as do presentations and research.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Wong Kwok Choon</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -139,10 +117,6 @@ and programming skills as well as do presentations and research.</p>
 <td rowspan="1" colspan="1">
 <p>Pupils are trained in basic skipping techniques to coordinate skipping
 motion with rhythm, and stamina and muscles development techniques.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Ms Wu Yi</p>
 </td>
 </tr>
 <tr>
@@ -158,9 +132,6 @@ motion with rhythm, and stamina and muscles development techniques.</p>
 more aware of the needs of the community through leadership and social
 communication skills.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Fong Meng Thoong</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -174,26 +145,6 @@ communication skills.</p>
 <p>Pupils are trained in basic rules and regulations of the game, batting
 and throwing techniques and base running skills, team coordination and
 competitive strategies and game plans.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tang Teo Yong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Volleyball<br>(Boys ONLY)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Indoor Sports Hall (ISH) / Hall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pupils are trained in basic rules and regulations of the game, control
-and positioning of arms, striking techniques, physical conditioning, team
-coordination, competitive strategies and game plans.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Haizad Johan</p>
 </td>
 </tr>
 <tr>
@@ -209,9 +160,6 @@ coordination, competitive strategies and game plans.</p>
 and teamwork. Pupils will be exposed to various performing platforms both
 internal and external.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Adrian Poon</p>
-</td>
 </tr>
 </tbody>
 </table>
@@ -219,9 +167,8 @@ internal and external.</p>
 <p><strong>CCAs on Fridays</strong>
 </p>
 <p>All CCAs will run from 2.45 to 4.45 pm unless otherwise stated.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -240,10 +187,6 @@ internal and external.</p>
 <p><strong>Expected Learning Outcomes</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>Overall<br>Teacher-in-Charge</strong>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -257,12 +200,6 @@ internal and external.</p>
 <td rowspan="1" colspan="1">
 <p>Pupils are trained in print making, sculpture making, digital art, graffiti
 art &amp; creative 3-D art.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Salizawati
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -278,12 +215,6 @@ art &amp; creative 3-D art.</p>
 and experience necessary to appreciate and play the sport. Pupils will
 be taught the essential skills necessary to play in a competitive environment.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Shiyun
-<br>
-<br>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -298,9 +229,6 @@ be taught the essential skills necessary to play in a competitive environment.</
 and experience necessary to appreciate and play the sport. Pupils will
 be taught the basic rules and regulations of the game.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yang Xuehong</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -313,12 +241,6 @@ be taught the basic rules and regulations of the game.</p>
 <td rowspan="1" colspan="1">
 <p>Pupils learn useful life skills which enable them to demonstrate citizenship
 and serve the community as well as being independent and confident.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sng Chee Hoon Janice
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -336,9 +258,6 @@ techniques and the use of facial and bodily expressions to show emotions.
 Pupils will be exposed to various performing platforms both internal and
 external.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mrs Lin Lee Ying</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -354,9 +273,6 @@ in music theory which may lead to internationally recognised certification.
 Pupils will be exposed to various performing for both internal and external
 platforms</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mrs Tng-Tan Qiuting &amp; Mdm Catherine Soh</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -370,9 +286,6 @@ platforms</p>
 <td rowspan="1" colspan="1">
 <p>Pupils learn more about environmental issues and skills involved when
 conducting science experiments as well as nurture a love for botany.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jason Lim</p>
 </td>
 </tr>
 <tr>
@@ -388,9 +301,6 @@ conducting science experiments as well as nurture a love for botany.</p>
 such as floorball and football, techniques in dribbling, passing and shooting
 as well as competitive strategies and game plans.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Tristan Wee</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -403,9 +313,6 @@ as well as competitive strategies and game plans.</p>
 <td rowspan="1" colspan="1">
 <p>Pupils are exposed to various media skills such as photography, video
 editing and stop-motion. They are also exposed to issues in cyber wellness.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamed Bazli</p>
 </td>
 </tr>
 </tbody>
