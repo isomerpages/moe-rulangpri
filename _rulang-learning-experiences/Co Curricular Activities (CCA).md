@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Co-Curricular Activities(CCA)</h1>
-<p><strong>Overview of CCAs 2024</strong>
+<p><strong>Overview of CCAs 2025</strong>
 </p>
 <p><strong>CCAs on Mondays</strong>
 </p>
