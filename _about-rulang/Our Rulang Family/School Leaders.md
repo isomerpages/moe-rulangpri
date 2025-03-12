@@ -34,7 +34,7 @@ variant: tiptap
 <br>Email:&nbsp;<a href="mailto:Adrian_Tan_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Adrian_Tan_A@schools.gov.sg</a>
 </p>
 <p><strong>Vice-Principal (Admin)</strong>
-<br>Mr Tan Kok Leng Steven&nbsp;</p>
-<p>Email: <a href="mailto:Tan_Kok_Leng_Steven@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Kok_Leng_Steven@schools.gov.sg</a>
+<br>Mr Tan Kok Leng Steven
+<br>Email:&nbsp;<a href="mailto:mailto:tan_kok_leng_steven@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Kok_Leng_Steven@schools.gov.sg</a>
 </p>
 <p></p>
