@@ -15,7 +15,7 @@ on the logos to be directed to the different websites.</p>
 </p>
 </li>
 <li>
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON Login</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso" rel="noopener nofollow" target="_blank">MIMS Portal</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,10 +23,6 @@ on the logos to be directed to the different websites.</p>
 </p>
 </li>
 </ul>
-</li>
-<li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS Student Login Space</a>
-</p>
 </li>
 <li>
 <p><a href="https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html" rel="noopener noreferrer nofollow" target="_blank">Help Desk</a>
