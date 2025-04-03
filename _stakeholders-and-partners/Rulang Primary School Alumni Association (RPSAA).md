@@ -65,135 +65,14 @@ and create meaningful experiences with fellow Rulangnites.</p>
 <img style="width: 100%" height="auto" width="100%" alt="mid autum festival" src="/images/mid_autum_festival.png">
 </div>
 <p>Mid-Autumn Festival</p>
-<h4><strong>RPSAA Executive Committee</strong></h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Posts</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Names of RPSAA Members</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>President</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tan Poh Kok</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice President</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Heng Chang Loo</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice President</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Aydan Ang Wei Quan</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Secretary</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Han Yan</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Secretary</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Joy Lim Xin Rong</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Treasurer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Bob Ang Choon Leong</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Treasurer</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Elen Teow Siok Khim</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Youth Wing PIC 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Durga Devi</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Youth Wing PIC 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Andy Tan Hong Key</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Committee Members</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Liu Xiaoyang</strong>
-</p>
-<p><strong>Ng Wai Jif</strong>
-</p>
-<p><strong>Faye Gui Feng Yi</strong>
-</p>
-<p><strong>Aaron Tan Wei Han</strong>
-</p>
-<p><strong>Teo Weiliang</strong>
-</p>
-<p><strong>Chew Shuhua</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4><strong>RPS Alumni Association (ExCO)</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CNY Alumni" src="/images/Rulang_CNY_2024_274.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="RPS Alumni Association Org Chart" src="/images/RPS_Alumni_Association__ExCO_Org_Chart__low_compression.jpg">
+</div>
+<h4><strong>RPS Alumni Association Youth Wing (ExCO)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RPS_Alumni_Association_Youth_Wing__ExCO_Org_Chart_.png">
 </div>
 <h4><strong>RPSAA Patrons</strong></h4>
 <p>Central to the RPSAA's efforts are esteemed patrons, individuals whose
