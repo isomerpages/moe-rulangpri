@@ -11,9 +11,9 @@ among former Rulangnites and support our Alma Mater. It also serves as
 a platform for alumni to reconnect, conribute, and make a positive impact
 on Rulang Primary School.</p>
 <p>Led by visionary leaders such as Mr. Chew Chin Seng, Mr. Tan Teck Yoke,
-Mr. Wee Hang Yong, and presently Mr. Tan Poh Kok, the RPSAA has continuously
-strived to foster fellowship among its members, while nurturing a profound
-love and commitment to Rulang Primary School.</p>
+Mr. Wee Hang Yong, Mr. Tan Poh Kok and presently Mr. Aaron Tan, the RPSAA
+has continuously strived to foster fellowship among its members, while
+nurturing a profound love and commitment to Rulang Primary School.</p>
 <p><strong>At the heart of our mission lies several core objectives:</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -43,8 +43,9 @@ of our Alma Mater, from its humble beginnings as a village school to a
 school of excellence today. Through both financial assistance and expertise
 support, the association has championed numerous talent development programmes,
 providing opportunities for current Rulangnites to succeed.</p>
-<p>The RPSAA’s contributions extend far and wide, including sponsorship for <strong>scholarships for the top 3 pupils of each level, CCA Individual Outstanding Achievement Awards</strong>, <strong>Student All Round Achievement Award</strong>,
-and the <strong>Passion Fund</strong> for students in the GEP programme.</p>
+<p>The RPSAA’s contributions extend far and wide, including sponsorship for&nbsp;<strong>scholarships for the top 3 pupils of each level</strong>,&nbsp;<strong>Student All Round Achievement Award</strong>,
+and the&nbsp;<strong>Passion Fund</strong>&nbsp;for students in the GEP
+programme.</p>
 <h4><strong>Events and Activities</strong></h4>
 <p>A variety of engaging events and activities are organised by the RPSAA.
 This includes the annual Chinese New Year Reunion Dinner held at Rulang
