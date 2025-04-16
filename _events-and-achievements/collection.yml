@@ -2,7 +2,6 @@ collections:
   events-and-achievements:
     output: true
     order:
-      - 95th Anniversary.md
       - Rulangnites' Achievements 2024/.keep
       - Rulangnites' Achievements 2024/Cognitive.md
       - Rulangnites' Achievements 2024/Physical.md
@@ -15,6 +14,7 @@ collections:
       - Rulangnites' Achievements 2023/Social & Moral.md
       - Rulangnites' Achievements 2023/Aesthetics.md
       - Rulangnites' Achievements 2023/Community Involvement.md
+      - 95th Anniversary.md
       - 90th Anniversary.md
       - Singapore Book of Records (Largest National Flag).md
       - Event Photos.md
