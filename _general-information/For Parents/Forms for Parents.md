@@ -102,8 +102,7 @@ and the School is not obliged to give any reason for an unsuccessful application
 </li>
 <li>
 <p>All parents will be notified by School via email by 17 Aug 2026.</p>
-<p><strong>5. Application Timeline</strong>
-</p>
+<h3><strong>5. Application Timeline</strong></h3>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -138,17 +137,15 @@ and the School is not obliged to give any reason for an unsuccessful application
 </tr>
 </tbody>
 </table>
-<h4><strong>6. Future plan</strong></h4>
+<h3><strong>6. Future plan</strong></h3>
 <p>Parents of children born between 2 January 2022 and 1 January 2023, who
 are Singapore Citizens (SC) or Singapore Permanent Residents (SPR), can
 apply for the Parent Volunteer Scheme only during the period from 1 July
 2026 to 12 March 2027.</p>
-<p><strong>7. Information</strong>
-</p>
-<p>Parents may refer to <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/primary/p1-registration</a> for
-information on Primary One Registration Exercise.</p>
-<p><strong>8. Consent</strong>
-</p>
+<h3><strong>7. Information</strong></h3>
+<p>Parents may refer to https://moe.gov.sg/primary/p1-registration for information
+on Primary One Registration Exercise.</p>
+<h3><strong>8. Consent</strong></h3>
 <p>I have read all the above terms and conditions and agree to all the terms
 and conditions governing the management of the Parent Volunteer Application
 Exercise in Rulang Primary School. I would like to proceed to the <a href="https://go.gov.sg/rulang2026pvregistration" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Application Form</a>
