@@ -124,4 +124,4 @@ Parents of children born between 2 January 2022 and 1 January 2023, who are Sing
 
 Parents may refer to [https://moe.gov.sg](https://moe.gov.sg/) for information on Primary One Registration Exercise.
 
-8. Please click here to proceed to the Parent Volunteer Application Form [Parent Volunteer Application Form](https://go.gov.sg/rulang2026pvregistration)
+8. Please click here to proceed to the [Parent Volunteer Application Form](https://go.gov.sg/rulang2026pvregistration)
