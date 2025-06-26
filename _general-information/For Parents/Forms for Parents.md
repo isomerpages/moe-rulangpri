@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1>Forms for Parents</h1>
 <p>Click below to get to the relevant forms.</p>
-<h3><strong>(1) Waiting List Form</strong></h3>
+<h4><strong>(1) Waiting List Form</strong></h4>
 <p>For Singapore Citizen / Singapore Permanent Resident pupils who wish to
 apply for a place in Rulang Primary School, please click at the link below.</p>
 <ul data-tight="true" class="tight">
@@ -18,9 +18,11 @@ apply for a place in Rulang Primary School, please click at the link below.</p>
 </ul>
 <p>Please complete the form online. If you have any questions, please feel
 free to contact us through our general office.</p>
-<h3><strong>(2) Parent Volunteer Registration Form</strong></h3>
-<h3><strong>Parent Volunteer (PV) Application</strong></h3>
-<h4>Rulang Primary School values our Parent Volunteers' contribution to the school and welcomes all interested parents to apply as Parent Volunteers under our Parent Volunteer Scheme.</h4>
+<h4><strong>(2) Parent Volunteer Registration Form</strong></h4>
+<h4><strong>Parent Volunteer (PV) Application</strong></h4>
+<p>Rulang Primary School values our Parent Volunteers' contribution to the
+school and welcomes all interested parents to apply as Parent Volunteers
+under our Parent Volunteer Scheme.</p>
 <h4><strong>1. Eligibility</strong></h4>
 <p>Parents of children born between 2 Jan 2021 and 1 Jan 2022 who are Singapore
 Citizens (SC) or Singapore Permanent Residents (SPR) are eligible for this
