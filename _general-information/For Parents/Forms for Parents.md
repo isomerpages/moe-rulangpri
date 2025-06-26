@@ -119,6 +119,8 @@ and the School is not obliged to give any reason for an unsuccessful application
 <li>
 <p><strong>Application Timeline</strong>
 </p>
+</li>
+</ol>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -126,39 +128,31 @@ and the School is not obliged to give any reason for an unsuccessful application
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>1 July 2025 to 30 June 2026</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Application Period for Parent Volunteers</strong>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 July - 14 August 2026</strong>
-</p>
+<p>1 July 2025 to 30 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Review applications received</strong>
-</p>
+<p>Application Period for Parent Volunteers</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>17 August 2026</strong>
-</p>
+<p>1 July 2025 to 30 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>All applicants will be notified by school via email</strong>
-</p>
+<p>Review application received</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 August 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All applicants will be notified by school via email</p>
 </td>
 </tr>
 </tbody>
 </table>
-</li>
-</ol>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p><strong>Future plan</strong>
@@ -173,7 +167,7 @@ apply for the Parent Volunteer Scheme only during the period from 1 July
 </p>
 <p>Parents may refer to <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg</a> for
 information on Primary One Registration Exercise.</p>
-<p><strong>8. Parent Volunteer Application Form(Child born between 2 January 2021 to 1 January 2022)</strong>
+<p><strong>8. Consent</strong>
 </p>
 <p>I have read all the above terms and conditions and consent to all the
 terms and conditions governing the management of the Parent Volunteer Application
