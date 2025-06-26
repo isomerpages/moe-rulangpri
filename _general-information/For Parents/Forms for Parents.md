@@ -50,8 +50,9 @@ services. Balloting will be conducted should the number of applications
 <p>You are required to complete the Parent Volunteer Application Form.</p>
 </li>
 <li>
-<p>The mode of submission is via FormSG (found below). Completed application
-forms must be received by the School no later than Tuesday, 30 June 2026.</p>
+<p>The mode of submission is via<strong> FormSG</strong> (found below). Completed
+application forms must be received by the School no later than Tuesday,
+30 June 2026.</p>
 </li>
 <li>
 <p>You will receive an acknowledgement email upon successful submission.</p>
