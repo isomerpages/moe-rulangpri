@@ -113,14 +113,11 @@ and the School is not obliged to give any reason for an unsuccessful application
 </li>
 <li>
 <p>All parents will be notified by School via email by 17 Aug 2026.</p>
-</li>
-</ul>
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p><strong>Application Timeline</strong>
+<p></p>
+<p><strong>5. Application Timeline</strong>
 </p>
 </li>
-</ol>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -129,7 +126,7 @@ and the School is not obliged to give any reason for an unsuccessful application
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 July 2025 to 30 June 2026</p>
+<p>1 July 205 to 30 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application Period for Parent Volunteers</p>
@@ -137,10 +134,10 @@ and the School is not obliged to give any reason for an unsuccessful application
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 July 2025 to 30 June 2026</p>
+<p>1 July - 14 Aujgust 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Review application received</p>
+<p>Review applications received</p>
 </td>
 </tr>
 <tr>
@@ -148,22 +145,22 @@ and the School is not obliged to give any reason for an unsuccessful application
 <p>17 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All applicants will be notified by school via email</p>
+<p>All applicants will be notified by school via email.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<ol start="6" data-tight="true" class="tight">
+<ul>
 <li>
-<p><strong>Future plan</strong>
+<p><strong>6. Future plan</strong>
 </p>
 </li>
-</ol>
+</ul>
 <p>Parents of children born between 2 January 2022 and 1 January 2023, who
 are Singapore Citizens (SC) or Singapore Permanent Residents (SPR), can
 apply for the Parent Volunteer Scheme only during the period from 1 July
 2026 to 12 March 2027.</p>
-<p><strong>7. Information</strong>
+<p><strong>7.  Information</strong>
 </p>
 <p>Parents may refer to <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg</a> for
 information on Primary One Registration Exercise.</p>
