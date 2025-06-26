@@ -7,7 +7,7 @@ variant: markdown
 ---
 # Forms for Parents
 
-Click below to view the relevant forms.
+Click below to get to the relevant forms.
 
 **(1) Waiting List Form**
 
