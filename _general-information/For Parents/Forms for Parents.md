@@ -39,8 +39,8 @@ programme.</p>
 <p>Under this Parent Volunteer Scheme, a parent may be able to register his/her
 child under Phase 2B of the Primary One Registration Exercise if he/she
 meets the following criteria:</p><pre><code>a.  Child is a Singapore Citizen or Singapore Permanent Residents&nbsp;
-
 b.  Parent has joined the school as a Parent Volunteer and has contributed at least forty (40) hours of voluntary service to the school before June the year the child is due for P1 registration&nbsp;</code></pre>
+<p></p>
 </li>
 <li>
 <p>Please be informed that your child <strong>is not</strong> guaranteed a
@@ -90,16 +90,8 @@ of contributions best meet the needs of the school and our students.</p>
 <p>Based on the P1 registration for Rulang Primary School over the past few
 years, balloting is usually conducted at Phase 2B. Priority admission to
 a school will be given to children in this order:</p><pre><code>i.  Singapore Citizens living within 1km of the school&nbsp;
-
-ii.  Singapore Citizens living between 1km and 2km of the school&nbsp;
-
-iii.  Singapore Citizens living outside 2km of the school&nbsp;
-
-iv.  Permanent Residents living witihin 1km of the school&nbsp;
-
-v.  Permanent Residents living between 1km and 2km of the school&nbsp;
-
-vi.  Permanent Residents living outside 2km of the school&nbsp;&nbsp;</code></pre>
+ii.  Singapore Citizens living between 1km and 2km of the school&nbsp;iii.  Singapore Citizens living outside 2km of the school&nbsp;iv.  Permanent Residents living witihin 1km of the school&nbsp;v.  Permanent Residents living between 1km and 2km of the school&nbsp;vi.  Permanent Residents living outside 2km of the school&nbsp;&nbsp;</code></pre>
+<p></p>
 </li>
 <li>
 <p>Thus, in the selection of Parent Volunteers, <em>greater consideration will be given to parents of Singapore Citizen children who live within 1km from the school from the time of registration</em>.
