@@ -61,15 +61,13 @@ forms must be received by the School no later than Tuesday, 30 June 2026.</p>
 </li>
 <li>
 <p>You will receive an acknowledgement email upon successful submission.</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Important Notes:</p>
-</li>
-<li>
 <p>Applications received after 30 June 2026 will not be considered</p>
-</li>
-<li>
 <p>Incomplete applications will be rejected</p>
+</li>
+</ul>
 </li>
 </ul>
 <p><strong>4. Application Outcomes</strong>
@@ -134,7 +132,7 @@ and the School is not obliged to give any reason for an unsuccessful application
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 July - 14 Aujgust 2025</p>
+<p>1 July - 14 August 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Review applications received</p>
