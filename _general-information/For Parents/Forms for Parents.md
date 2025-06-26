@@ -160,7 +160,7 @@ and the School is not obliged to give any reason for an unsuccessful application
 are Singapore Citizens (SC) or Singapore Permanent Residents (SPR), can
 apply for the Parent Volunteer Scheme only during the period from 1 July
 2026 to 12 March 2027.</p>
-<p><strong>7.  Information</strong>
+<p><strong>7. Information</strong>
 </p>
 <p>Parents may refer to <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg</a> for
 information on Primary One Registration Exercise.</p>
