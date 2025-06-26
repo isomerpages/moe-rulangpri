@@ -7,8 +7,7 @@ variant: tiptap
 ---
 <h1>Forms for Parents</h1>
 <p>Click below to get to the relevant forms.</p>
-<p><strong>(1) Waiting List Form</strong>
-</p>
+<h3><strong>(1) Waiting List Form</strong></h3>
 <p>For Singapore Citizen / Singapore Permanent Resident pupils who wish to
 apply for a place in Rulang Primary School, please click at the link below.</p>
 <ul data-tight="true" class="tight">
@@ -19,20 +18,14 @@ apply for a place in Rulang Primary School, please click at the link below.</p>
 </ul>
 <p>Please complete the form online. If you have any questions, please feel
 free to contact us through our general office.</p>
-<p><strong>(2) Parent Volunteer Registration Form</strong>
-</p>
-<p><strong>Parent Volunteer (PV) Application</strong>
-</p>
-<p>Rulang Primary School values our Parent Volunteers' contribution to the
-school and welcomes all interested parents to apply as Parent Volunteers
-under our Parent Volunteer Scheme.</p>
-<p><strong>1. Eligibility</strong>
-</p>
+<h3><strong>(2) Parent Volunteer Registration Form</strong></h3>
+<h3><strong>Parent Volunteer (PV) Application</strong></h3>
+<h4>Rulang Primary School values our Parent Volunteers' contribution to the school and welcomes all interested parents to apply as Parent Volunteers under our Parent Volunteer Scheme.</h4>
+<h4><strong>1. Eligibility</strong></h4>
 <p>Parents of children born between 2 Jan 2021 and 1 Jan 2022 who are Singapore
 Citizens (SC) or Singapore Permanent Residents (SPR) are eligible for this
 programme.</p>
-<p><strong>2. Primary One Registration (Phase 2B)</strong>
-</p>
+<h4><strong>2. Primary One Registration (Phase 2B)</strong></h4>
 <ul>
 <li>
 <p>Under this Parent Volunteer Scheme, a parent may be able to register his/her
@@ -49,8 +42,7 @@ services. Balloting will be conducted should the number of applications
 (including active community leaders) exceed the number of vacancies.</p>
 </li>
 </ul>
-<p><strong>3. Application Process</strong>
-</p>
+<h4><strong>3. Application Process</strong></h4>
 <ul>
 <li>
 <p>You are required to complete the Parent Volunteer Application Form.</p>
@@ -70,8 +62,7 @@ forms must be received by the School no later than Tuesday, 30 June 2026.</p>
 </ul>
 </li>
 </ul>
-<p><strong>4. Application Outcomes</strong>
-</p>
+<h4><strong>4. Application Outcomes</strong></h4>
 <ul>
 <li>
 <p>The selection of Parent Volunteers <strong>is not</strong> on a first-come,
@@ -111,7 +102,6 @@ and the School is not obliged to give any reason for an unsuccessful application
 </li>
 <li>
 <p>All parents will be notified by School via email by 17 Aug 2026.</p>
-<p></p>
 <p><strong>5. Application Timeline</strong>
 </p>
 </li>
@@ -148,12 +138,7 @@ and the School is not obliged to give any reason for an unsuccessful application
 </tr>
 </tbody>
 </table>
-<ul>
-<li>
-<p><strong>6. Future plan</strong>
-</p>
-</li>
-</ul>
+<h4><strong>6. Future plan</strong></h4>
 <p>Parents of children born between 2 January 2022 and 1 January 2023, who
 are Singapore Citizens (SC) or Singapore Permanent Residents (SPR), can
 apply for the Parent Volunteer Scheme only during the period from 1 July
