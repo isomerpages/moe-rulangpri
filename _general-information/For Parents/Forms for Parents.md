@@ -96,14 +96,14 @@ vi.  Permanent Residents living outside 2km of the school&nbsp;&nbsp;</code></pr
 <p></p>
 </li>
 <li>
-<p>Thus, in the selection of Parent Volunteers, <em><u>greater consideration will be given to parents of Singapore Citizen children who live within 1 km from the school from the time of registration. </u></em>This
+<p>Thus, in the selection of Parent Volunteers, <u>greater consideration will be given to parents of Singapore Citizen children who live within 1 km from the school from the time of registration.</u> This
 is in view of balloting, if necessary, under Phase 2B, where citizenship
 and home-school distance are considered.</p>
 </li>
 <li>
-<p>Based on the past few years’ data, <u>we typically accept no more than 12 parent volunteers each year</u>.
-This is in consideration of the limited number of vacancies we have under
-Phase 2B based on past years’ trends.</p>
+<p>Based on the past few years’ data, <u>we typically accept no more than 12 parent volunteers each year.</u> This
+is in consideration of the limited number of vacancies we have under Phase
+2B based on past years’ trends.</p>
 </li>
 <li>
 <p>The decision of the school in the selection of Parent Volunteers is final
