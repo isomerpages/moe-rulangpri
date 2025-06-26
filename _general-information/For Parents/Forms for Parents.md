@@ -127,8 +127,8 @@ apply for the Parent Volunteer Scheme only during the period from 1 July
 2026 to 12 March 2027.</p>
 <p><strong>7. Information</strong>
 </p>
-<p>Parents may refer to <a href="https://moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg</a> for information on Primary
-One Registration Exercise.</p>
+<p>Parents may refer to <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg</a> for
+information on Primary One Registration Exercise.</p>
 <p><strong>8. Parent Volunteer Application Form(Child born between 2 January 2021 to 1 January 2022)</strong>
 </p>
 <p>I have read all the above terms and conditions and consent to all the
