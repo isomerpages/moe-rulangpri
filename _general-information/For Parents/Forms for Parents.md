@@ -162,11 +162,11 @@ apply for the Parent Volunteer Scheme only during the period from 1 July
 2026 to 12 March 2027.</p>
 <p><strong>7. Information</strong>
 </p>
-<p>Parents may refer to <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg</a> for
+<p>Parents may refer to <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg/primary/p1-registration</a> for
 information on Primary One Registration Exercise.</p>
 <p><strong>8. Consent</strong>
 </p>
-<p>I have read all the above terms and conditions and consent to all the
-terms and conditions governing the management of the Parent Volunteer Application
+<p>I have read all the above terms and conditions and agree to all the terms
+and conditions governing the management of the Parent Volunteer Application
 Exercise in Rulang Primary School. I would like to proceed to the <a href="https://go.gov.sg/rulang2026pvregistration" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Application Form</a>
 </p>
