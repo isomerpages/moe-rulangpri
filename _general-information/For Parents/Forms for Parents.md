@@ -25,15 +25,13 @@ free to contact us through our general office.</p>
 <p>Rulang Primary School values our Parent Volunteers' contribution to the
 school and welcomes all interested parents to apply as Parent Volunteers
 under our Parent Volunteer Scheme.</p>
-<p>**1. Eligibility&nbsp;**</p>
-<ul data-tight="true" class="tight">
-<li>
+<p><strong>1. Eligibility</strong>
+</p>
 <p>Parents of children born between 2 Jan 2021 and 1 Jan 2022 who are Singapore
 Citizens (SC) or Singapore Permanent Residents (SPR) are eligible for this
 programme.</p>
-</li>
-</ul>
-<p>**2. Primary One Registration (Phase 2B)&nbsp;&nbsp;**</p>
+<p><strong>2. Primary One Registration (Phase 2B)</strong>
+</p>
 <ul>
 <li>
 <p>Under this Parent Volunteer Scheme, a parent may be able to register his/her
@@ -73,7 +71,8 @@ forms must be received by the School no later than Tuesday, 30 June 2026.</p>
 <p>Incomplete applications will be rejected</p>
 </li>
 </ul>
-<p>**4. Application Outcomes&nbsp;**</p>
+<p><strong>4. Application Outcomes</strong>
+</p>
 <ul>
 <li>
 <p>The selection of Parent Volunteers <strong>is not</strong> on a first-come,
@@ -115,7 +114,8 @@ and the School is not obliged to give any reason for an unsuccessful application
 <p>All parents will be notified by School via email by 17 Aug 2026.</p>
 </li>
 </ul>
-<p>**5. Application Timeline&nbsp;**</p>
+<p><strong>5. Application Timeline</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Application Timeline" src="/images/Application_Timeline.png">
 </div>
@@ -129,8 +129,8 @@ apply for the Parent Volunteer Scheme only during the period from 1 July
 </p>
 <p>Parents may refer to <a href="https://moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://moe.gov.sg</a> for information on Primary
 One Registration Exercise.</p>
-<p><strong>8. Parent Volunteer Application Form</strong>(Child born between
-2 January 2021 to 1 January 2022)</p>
+<p><strong>8. Parent Volunteer Application Form(Child born between 2 January 2021 to 1 January 2022)</strong>
+</p>
 <p>I have read all the above terms and conditions and consent to all the
 terms and conditions governing the management of the Parent Volunteer Application
 Exercise in Rulang Primary School. I would like to proceed to the <a href="https://go.gov.sg/rulang2026pvregistration" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Application Form</a>
