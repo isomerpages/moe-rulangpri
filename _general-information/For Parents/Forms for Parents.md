@@ -89,12 +89,12 @@ of contributions best meet the needs of the school and our students.</p>
 <li>
 <p>Based on the P1 registration for Rulang Primary School over the past few
 years, balloting is usually conducted at Phase 2B. Priority admission to
-a school will be given to children in this order:</p><pre><code>i.   Singapore Citizens living within 1 km of the school&nbsp;
-ii.  Singapore Citizens living between 1 km and 2 km of the school&nbsp;
-iii. Singapore Citizens living outside 2 km of the school&nbsp;
-iv.  Permanent Residents living witihin 1 km of the school&nbsp;
-v.   Permanent Residents living between 1 km and 2 km of the school&nbsp;
-vi.  Permanent Residents living outside 2 km of the school&nbsp;&nbsp;</code></pre>
+a school will be given to children in this order:</p><pre><code>i.   Singapore Citizens living within 1km of the school&nbsp;
+ii.  Singapore Citizens living between 1km and 2km of the school&nbsp;
+iii. Singapore Citizens living outside 2km of the school&nbsp;
+iv.  Permanent Residents living witihin 1km of the school&nbsp;
+v.   Permanent Residents living between 1km and 2km of the school&nbsp;
+vi.  Permanent Residents living outside 2km of the school&nbsp;&nbsp;</code></pre>
 <p></p>
 </li>
 <li>
