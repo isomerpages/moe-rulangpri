@@ -59,8 +59,14 @@ application forms must be received by the School no later than Tuesday,
 <ul data-tight="true" class="tight">
 <li>
 <p>Important Notes:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Applications received after 30 June 2026 will not be considered</p>
+</li>
+<li>
 <p>Incomplete applications will be rejected</p>
+</li>
+</ul>
 </li>
 </ul>
 </li>
