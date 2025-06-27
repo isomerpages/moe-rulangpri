@@ -90,9 +90,11 @@ vi.  Permanent Residents living outside 2km of the school&nbsp;&nbsp;</code></pr
 <p></p>
 </li>
 <li>
-<p>Thus, in the selection of Parent Volunteers, <u>greater consideration will be given to parents of Singapore Citizen children who live within 1 km from the school from the time of registration.</u> This
-is in view of balloting, if necessary, under Phase 2B, where citizenship
-and home-school distance are considered.</p>
+<p>Thus, in the selection of Parent Volunteers, greater consideration will
+be given to parents of Singapore Citizen children who live within 1 km
+from the school from the time of registration. This is in view of balloting,
+if necessary, under Phase 2B, where citizenship and home-school distance
+are considered.</p>
 </li>
 <li>
 <p>Based on the past few years’ data, <u>we typically accept no more than 12 parent volunteers each year.</u> This
@@ -124,7 +126,7 @@ and the School is not obliged to give any reason for an unsuccessful application
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 July - 14 August 2025</p>
+<p>1 July - 14 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Review applications received</p>
@@ -146,8 +148,8 @@ are Singapore Citizens (SC) or Singapore Permanent Residents (SPR), can
 apply for the Parent Volunteer Scheme only during the period from 1 July
 2026 to 12 March 2027.</p>
 <h3><strong>7. Information</strong></h3>
-<p>Parents may refer to https://moe.gov.sg/primary/p1-registration for information
-on Primary One Registration Exercise.</p>
+<p>Parents may refer to <a href="https://moe.gov.sg/primary/p1-registration" rel="noopener nofollow" target="_blank">https://moe.gov.sg/primary/p1-registration</a> for
+information on Primary One Registration Exercise.</p>
 <h3><strong>8. Consent</strong></h3>
 <p>I have read all the above terms and conditions and agree to all the terms
 and conditions governing the management of the Parent Volunteer Application
