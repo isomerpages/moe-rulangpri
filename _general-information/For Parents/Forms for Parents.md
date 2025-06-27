@@ -124,7 +124,7 @@ and the School is not obliged to give any reason for an unsuccessful application
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 July 205 to 30 June 2026</p>
+<p>1 July 2025 to 30 June 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application Period for Parent Volunteers</p>
