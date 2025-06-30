@@ -113,7 +113,7 @@ of vacancies we have under Phase 2B based on past years’ trends.</p>
 and the School is not obliged to give any reason for an unsuccessful application.</p>
 </li>
 <li>
-<p>All parents will be notified by School via email by 17 Aug 2026.</p>
+<p>All parents will be notified by School via email by 18 Aug 2026.</p>
 <h3><strong>5. Application Timeline</strong></h3>
 </li>
 </ul>
