@@ -109,7 +109,7 @@ parent volunteers each year. This is in consideration of the limited number
 of vacancies we have under Phase 2B based on past years’ trends.</p>
 </li>
 <li>
-<p>The decision of the school in the selection of Parent Volunteers is final
+<p>The decision of the School in the selection of Parent Volunteers is final
 and the School is not obliged to give any reason for an unsuccessful application.</p>
 </li>
 <li>
@@ -144,7 +144,7 @@ and the School is not obliged to give any reason for an unsuccessful application
 <p>By 18 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All applicants will be notified by school via email.</p>
+<p>All applicants will be notified by school via email</p>
 </td>
 </tr>
 </tbody>
