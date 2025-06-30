@@ -9,7 +9,8 @@ variant: tiptap
 <p>Click below to get to the relevant forms.</p>
 <h4><strong>(1) Waiting List Form</strong></h4>
 <p>For Singapore Citizen / Singapore Permanent Resident pupils who wish to
-apply for a place in Rulang Primary School, please click at the link below.</p>
+apply for a place in Rulang Primary School, please click at the link below.
+The School's decision is final and no appeal will be accepted.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://form.gov.sg/#!/60c6b488204151001269e4b3" rel="noopener noreferrer nofollow" target="_blank">Waiting List Form</a>
@@ -135,12 +136,12 @@ and the School is not obliged to give any reason for an unsuccessful application
 <p>1 July - 14 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Review applications received</p>
+<p>School reviews applications received</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 August 2026</p>
+<p>By 18 August 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants will be notified by school via email.</p>
@@ -148,16 +149,20 @@ and the School is not obliged to give any reason for an unsuccessful application
 </tr>
 </tbody>
 </table>
-<h3><strong>6. Future plan</strong></h3>
+<h3><strong>6. Future plan (For 2028 Primary 1 Cohort)</strong></h3>
 <p>Parents of children born between 2 January 2022 and 1 January 2023, who
 are Singapore Citizens (SC) or Singapore Permanent Residents (SPR), can
 apply for the Parent Volunteer Scheme only during the period from 1 July
-2026 to 12 March 2027.</p>
+2026 to 12 March 2027. The shortened application period is to allow successful
+applicants to have a longer period of time to serve out their forty (40)
+hours of service.</p>
 <h3><strong>7. Information</strong></h3>
 <p>Parents may refer to <a href="https://moe.gov.sg/primary/p1-registration" rel="noopener nofollow" target="_blank">https://moe.gov.sg/primary/p1-registration</a> for
 information on Primary One Registration Exercise.</p>
 <h3><strong>8. Consent</strong></h3>
-<p>I have read all the above terms and conditions and agree to all the terms
-and conditions governing the management of the Parent Volunteer Application
-Exercise in Rulang Primary School. I would like to proceed to the <a href="https://go.gov.sg/rulang2026pvregistration" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Application Form</a>
+<p>Before clicking on the application form, I have read all the above terms
+and conditions. All applicants would be taken to have read and consented
+to all the terms and conditions governing the management of the Parent
+Volunteer Application Exercise in Rulang Primary School. I would like to
+proceed to the <a href="https://go.gov.sg/rulang2026pvregistration" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Application Form</a>
 </p>
