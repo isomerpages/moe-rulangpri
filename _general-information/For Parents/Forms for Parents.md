@@ -160,9 +160,8 @@ hours of service.</p>
 <p>Parents may refer to <a href="https://moe.gov.sg/primary/p1-registration" rel="noopener nofollow" target="_blank">https://moe.gov.sg/primary/p1-registration</a> for
 information on Primary One Registration Exercise.</p>
 <h3><strong>8. Consent</strong></h3>
-<p>Before clicking on the application form, I have read all the above terms
-and conditions. All applicants would be taken to have read and consented
+<p>Before clicking on the application form, please do read through the above
+terms and conditions. All applicants would be taken to have read and consented
 to all the terms and conditions governing the management of the Parent
-Volunteer Application Exercise in Rulang Primary School. I would like to
-proceed to the <a href="https://go.gov.sg/rulang2026pvregistration" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Application Form</a>
+Volunteer Application Exercise in Rulang Primary School. <a href="https://go.gov.sg/rulang2026pvregistration" rel="noopener noreferrer nofollow" target="_blank">Parent Volunteer Application Form</a>
 </p>
