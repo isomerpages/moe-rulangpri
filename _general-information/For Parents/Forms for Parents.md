@@ -149,7 +149,7 @@ and the School is not obliged to give any reason for an unsuccessful application
 </tr>
 </tbody>
 </table>
-<h3><strong>6. Future plan (For 2028 Primary 1 Cohort)</strong></h3>
+<h3><strong>6. Future plan (For 2029 Primary 1 Cohort)</strong></h3>
 <p>Parents of children born between 2 January 2022 and 1 January 2023, who
 are Singapore Citizens (SC) or Singapore Permanent Residents (SPR), can
 apply for the Parent Volunteer Scheme only during the period from 1 July
