@@ -110,7 +110,8 @@ of vacancies we have under Phase 2B based on past years’ trends.</p>
 </li>
 <li>
 <p>The decision of the School in the selection of Parent Volunteers is final
-and the School is not obliged to give any reason for an unsuccessful application.</p>
+and the School is not obliged to give any reason for an unsuccessful application.
+No appeal will be accepted.</p>
 </li>
 <li>
 <p>All parents will be notified by School via email by 18 Aug 2026.</p>
