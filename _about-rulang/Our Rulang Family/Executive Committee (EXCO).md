@@ -238,11 +238,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vacant</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_chuen_chi_gary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Awaiting new Appointee</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
