@@ -596,7 +596,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>(Mdm) Lynn Chia</p>
-<p>(Mrs) Tristan Matthew Wee Yong</p>
+<p>(Mr) Tristan Matthew Wee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_ee_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_ee_ling@schools.gov.sg</a>
