@@ -234,20 +234,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD ICT</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Chuen Chi Gary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_chuen_chi_gary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chuen_chi_gary@schools.gov.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>HOD Aesthetics (Covering)</strong>
 </p>
 </td>
