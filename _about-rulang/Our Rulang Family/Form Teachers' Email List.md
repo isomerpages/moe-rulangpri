@@ -104,7 +104,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>(Mr) Tang Teo Yong</p>
-<p>(Ms) Serene Lee</p>
+<p>(Ms) Lee Huay Chin, Serene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tang_teo_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_teo_yong@schools.gov.sg</a>
