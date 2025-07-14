@@ -1,0 +1,17 @@
+collections:
+  about-rulang:
+    output: true
+    order:
+      - School's History.md
+      - Principal's Message.md
+      - Our Rulang Family/.keep
+      - Our Rulang Family/School Leaders.md
+      - Our Rulang Family/Executive Committee (EXCO).md
+      - Our Rulang Family/Form Teachers' Email List.md
+      - School Crest & Philosophy.md
+      - Mission, Vision, Motto, Core Values, Desired Outcomes.md
+      - Expectations of Rulangnites.md
+      - School Song.md
+      - TRUE HEARTs Culture.md
+      - Strategic Thrusts.md
+      - Rulang Virtual Tour.md

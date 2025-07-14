@@ -1,0 +1,21 @@
+collections:
+  rulang-learning-experiences:
+    output: true
+    order:
+      - Instructional Programme/.keep
+      - Instructional Programme/Aesthetic (Art and Music).md
+      - Instructional Programme/CCE.md
+      - Instructional Programme/English.md
+      - Instructional Programme/Infocomm Technology (ICT).md
+      - Instructional Programme/Mathematics.md
+      - Instructional Programme/Mother Tongue.md
+      - Instructional Programme/PE,CCA & HE.md
+      - Instructional Programme/Science.md
+      - Accelerated Education Programme (AEP).md
+      - Co Curricular Activities (CCA).md
+      - Special Programme (SP).md
+      - Sexuality Education.md
+      - Programme for Active Learning.md
+      - ALP & LLP/.keep
+      - ALP & LLP/Applied Learning Programme (ALP) @ Robotics.md
+      - ALP & LLP/Learning for Life Programme (LLP) @ Aesthetics Sports.md
