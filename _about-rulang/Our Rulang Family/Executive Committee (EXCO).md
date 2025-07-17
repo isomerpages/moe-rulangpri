@@ -248,19 +248,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH Aesthetics (Internal)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Salizawati Binte Abdul Aziz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:salizawati_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">salizawati_abdul_aziz@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>HOD PE &amp; CCA (Internal)</strong>
 </p>
 </td>
@@ -432,6 +419,19 @@ variant: tiptap
 <p><a href="mailto:norlida_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norlida_abdullah@schools.gov.sg</a>
 </p>
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH Aesthetics (Internal)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Salizawati Binte Abdul Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:salizawati_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">salizawati_abdul_aziz@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
