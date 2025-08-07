@@ -13,7 +13,7 @@ apply for a place in Rulang Primary School, please click at the link below.
 The School's decision is final and no appeal will be accepted.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://form.gov.sg/#!/60c6b488204151001269e4b3" rel="noopener noreferrer nofollow" target="_blank">Waiting List Form</a>
+<p><a href="https://form.gov.sg/689386e77eeeeaa6ad34dde8" rel="noopener noreferrer nofollow" target="_blank">Waiting List Form</a>
 </p>
 </li>
 </ul>
