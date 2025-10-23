@@ -60,7 +60,8 @@ third_nav_title: Others
 </tr>
 </tbody>
 </table>
-<h4><strong>Stall Requirements</strong></h4>
+<h3><strong>Drinks Stall</strong></h3>
+<h3><strong>Stall Requirements</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Applicant must be Singapore Citizen or Singapore Permanent Resident.</p>
