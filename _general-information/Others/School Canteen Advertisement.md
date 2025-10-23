@@ -40,7 +40,7 @@ third_nav_title: Others
 <p>10 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Refer to below</p>
+<p>Halal</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ third_nav_title: Others
 <p>10 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Refer to below</p>
+<p>Non-Halal</p>
 </td>
 </tr>
 </tbody>
