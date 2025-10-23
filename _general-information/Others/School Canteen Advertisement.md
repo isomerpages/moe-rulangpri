@@ -115,3 +115,18 @@ Street 52 Singapore 649295 latest by <strong><u>10 November 2025, 4:00pm</u></st
 </ol>
 <p><a href="/files/Application_Form_for_Canteen_Stall.pdf" rel="noopener nofollow" target="_blank">Application form for canteen stall</a>
 </p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Photocopy of NRIC (front and back).</p>
+<p></p>
+</li>
+<li>
+<p>List of proposed menu and pricing for all items.</p>
+<p></p>
+</li>
+<li>
+<p>Photocopy of Workforce Skills Qualification (WSQ) Food Safety Course Level
+1 Certificate(s) of applicant and assistant (if any).</p>
+</li>
+</ol>
+<p></p>
