@@ -104,6 +104,8 @@ canteen stall.</p>
 Singapore Food Agency (SFA).</p>
 </li>
 </ol>
-<p></p>
-<p></p>
+<h4><strong>Application Procedure</strong></h4>
+<p>Interested applicants are to complete and submit the following documents
+to the General Office of Rulang Primary School located at 6 Jurong West
+Street 52 Singapore 649295 latest by <strong><u>10 November 2025, 4:00pm</u></strong>:</p>
 <p></p>
