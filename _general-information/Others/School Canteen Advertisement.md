@@ -132,4 +132,7 @@ Street 52 Singapore 649295 latest by <strong><u>10 November 2025, 4:00pm</u></st
 <h4><strong>Enquiries</strong></h4>
 <p>For enquiries, please feel free to email to <a href="mailto:rulang_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rulang_ps@moe.edu.sg</a>, attention
 to the School Committee Team.</p>
-<p></p>
+<h4><strong>Shortlisting</strong></h4>
+<p>Shortlisted applicants will be notified for an interview and will be required
+to provide food sampling for the School Canteen Selection Committee at
+their own expense.</p>
