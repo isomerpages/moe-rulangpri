@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Others
 ---
 <h3><strong>School Canteen Advertisement</strong></h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -24,9 +23,6 @@ third_nav_title: Others
 <th rowspan="1" colspan="1">
 <p>Closing Date</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Requirements</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -39,9 +35,6 @@ third_nav_title: Others
 <td rowspan="1" colspan="1">
 <p>10 Nov 2025</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Halal</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -53,9 +46,6 @@ third_nav_title: Others
 </td>
 <td rowspan="1" colspan="1">
 <p>10 Nov 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Non-Halal</p>
 </td>
 </tr>
 </tbody>
