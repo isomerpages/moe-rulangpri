@@ -70,9 +70,40 @@ third_nav_title: Others
 <p>Must provide drinks that meet the health and nutritional standards set
 by&nbsp;Health Promotion Board under the Healthy Meals in School Programme
 (HMSP) guidelines. (Refer to <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">link</a>)</p>
+<p></p>
+</li>
+<li>
+<p>Both the applicant and assistant must hold a valid WSQ Food Hygiene Certificate
+Course.</p>
+<p></p>
+</li>
+<li>
+<p>Must provide quality drinks and service at reasonable prices, in consultation
+with the school.</p>
+<p></p>
+</li>
+<li>
+<p>Required to maintain a high standard of food and personal hygiene.</p>
+<p></p>
+</li>
+<li>
+<p>Healthy and fit to operate the stall.</p>
+<p></p>
+</li>
+<li>
+<p>Must be personally present at the stall.</p>
+<p></p>
+</li>
+<li>
+<p>Preferably possess catering experience or experience in running a school
+canteen stall.</p>
+<p></p>
+</li>
+<li>
+<p>The successful applicant must apply for a Food Stall License with the
+Singapore Food Agency (SFA).</p>
 </li>
 </ol>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
