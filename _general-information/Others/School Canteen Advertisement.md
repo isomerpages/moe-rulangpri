@@ -60,7 +60,7 @@ third_nav_title: Others
 </tr>
 </tbody>
 </table>
-<h3><strong>Drinks Stall</strong></h3>
+<h3><strong>1. Drinks Stall</strong></h3>
 <h3><strong>Stall Requirements</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
