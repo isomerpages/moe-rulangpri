@@ -137,3 +137,18 @@ to the School Committee Team.</p>
 <p>Shortlisted applicants will be notified for an interview and will be required
 to provide food sampling for the School Canteen Selection Committee at
 their own expense.</p>
+<h3><strong>2. Western Food Stall</strong></h3>
+<h3><strong>Stall Requirements</strong></h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicant must be Singapore Citizen or Singapore Permanent Resident.</p>
+<p></p>
+</li>
+<li>
+<p>Must provide food that meets the health and nutritional standards set
+by Health Promotion Board under the Healthy Meals in School Programme (HMSP)
+guidelines. (Refer to <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">link</a>)</p>
+</li>
+</ol>
+<p></p>
+<p></p>
