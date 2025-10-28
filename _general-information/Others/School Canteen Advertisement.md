@@ -29,7 +29,7 @@ third_nav_title: Others
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Drinks</strong>
+<p><strong>Cold Drinks &amp; Cut Fruits</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,7 +50,7 @@ third_nav_title: Others
 </tr>
 </tbody>
 </table>
-<h3><strong>1. Drinks Stall</strong></h3>
+<h3><strong>1. Cold Drinks &amp; Cut Fruits Stall</strong></h3>
 <h3><strong>Stall Requirements</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -58,19 +58,18 @@ third_nav_title: Others
 <p></p>
 </li>
 <li>
-<p>Must provide drinks that meet the health and nutritional standards set
-by&nbsp;Health Promotion Board under the Healthy Meals in School Programme
-(HMSP) guidelines. (Refer to <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">link</a>)</p>
+<p>Must provide cold drinks and fruits that meet the health and nutritional
+standards set by&nbsp;Health Promotion Board under the Healthy Meals in
+School Programme (HMSP) guidelines. (Refer to <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">link</a>)</p>
 <p></p>
 </li>
 <li>
-<p>Both the applicant and assistant must hold a valid WSQ Food Hygiene Certificate
-Course.</p>
+<p>Both the applicant and assistant must hold a valid WSQ Food Hygiene Certificate.</p>
 <p></p>
 </li>
 <li>
-<p>Must provide quality drinks and service at reasonable prices, in consultation
-with the school.</p>
+<p>Must provide quality drinks, fruits and service at reasonable prices,
+in consultation with the school.</p>
 <p></p>
 </li>
 <li>
@@ -141,8 +140,7 @@ guidelines. (Refer to <a href="https://www.hpb.gov.sg/schools/school-programmes/
 <p></p>
 </li>
 <li>
-<p>Both the applicant and assistant must hold a valid WSQ Food Hygiene Certificate
-Course.</p>
+<p>Both the applicant and assistant must hold a valid WSQ Food Hygiene Certificate.</p>
 <p></p>
 </li>
 <li>
