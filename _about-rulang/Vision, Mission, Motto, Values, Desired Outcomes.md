@@ -19,6 +19,6 @@ resilient and creative citizens who will contribute to a better tomorrow</p>
 </div>
 <h2>Desired Outcomes</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Able%20Total%20Curricul%20Rulang%20poster-1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Desired_Outcomes_for_Rulangnites_20251222.jpg">
 </div>
 <p></p>
