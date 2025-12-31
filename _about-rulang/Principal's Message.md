@@ -51,4 +51,4 @@ towards a better tomorrow.</p>
 Rulang Primary School grow from strength to strength as we journey towards
 our centennial year.</p>
 <p>Mrs Koh Chern Ee</p>
-<p>Principal</p>
+<p>&nbsp;Principal</p>
