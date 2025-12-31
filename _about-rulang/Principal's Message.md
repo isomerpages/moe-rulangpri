@@ -25,4 +25,4 @@ Guided by our mission, strengthened by our rich history and supported by our sta
 I invite you to join us in our mission to further our cause, and to see Rulang Primary School grow from strength to strength as we journey towards our centennial year.
 
 Mrs Koh Chern Ee
-Principal
+&nbsp;Principal
