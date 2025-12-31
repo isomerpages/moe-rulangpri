@@ -48,5 +48,9 @@ on the logos to be directed to the different websites.</p>
 <p><a href="https://www.bbc.co.uk/bitesize/topics/zf2f9j6/articles/z3c6tfr#z34thyc" rel="noopener noreferrer nofollow" target="_blank">Mat Dance Typing</a>
 </p>
 </li>
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">SLS</a>
+</p>
+</li>
 </ul>
 <p></p>
