@@ -50,6 +50,5 @@ towards a better tomorrow.</p>
 <p>I invite you to join us in our mission to further our cause, and to see
 Rulang Primary School grow from strength to strength as we journey towards
 our centennial year.</p>
-<p>Mrs Koh Chern</p>
-<p>&amp;nbsp;Principal</p>
-<p></p>
+<p>Mrs Koh Chern Ee</p>
+<p>Principal</p>
