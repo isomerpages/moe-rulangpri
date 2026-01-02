@@ -2,7 +2,7 @@
 title: Principal's Message
 permalink: /about-rulang/principals-message/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h1>Principal's Message</h1>
 <div class="isomer-image-wrapper">
@@ -50,5 +50,4 @@ towards a better tomorrow.</p>
 <p>I invite you to join us in our mission to further our cause, and to see
 Rulang Primary School grow from strength to strength as we journey towards
 our centennial year.</p>
-<p>Mrs Koh Chern Ee</p>
-<p>Principal</p>
+<p>Mrs Koh Chern Ee<br>Principal</p>

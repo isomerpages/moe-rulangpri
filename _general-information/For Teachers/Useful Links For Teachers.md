@@ -74,8 +74,9 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS</a>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">SLS</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p><strong>RULANG-SPECIFIC LINKS</strong>
