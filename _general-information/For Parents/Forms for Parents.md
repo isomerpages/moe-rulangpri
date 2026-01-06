@@ -9,16 +9,33 @@ variant: tiptap
 <p>Click below to get to the relevant forms.</p>
 <h4><strong>(1) Waiting List Form</strong></h4>
 <p>For Singapore Citizen / Singapore Permanent Resident pupils who wish to
-apply for a place in Rulang Primary School, please click at the link below.
-The School's decision is final and no appeal will be accepted.</p>
+apply for a place in Rulang Primary School, please complete the online
+waiting list form using the link below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://form.gov.sg/68b14c375134291b9263987e" rel="noopener noreferrer nofollow" target="_blank">Waiting List Form</a>
 </p>
 </li>
 </ul>
-<p>Please complete the form online. If you have any questions, please feel
-free to contact us through our general office.</p>
+<p></p>
+<p>Important information:&nbsp;</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Waiting list applications are processed on a yearly basis and must be
+renewed annually, regardless of when the initial application was submitted;</p>
+</li>
+<li>
+<p>Due to the high volume of transfer requests, only successful applicants
+will be notified and no updates on application status will be provided;
+and</p>
+</li>
+<li>
+<p>The School's decision is final and no appeals will be accepted.</p>
+</li>
+</ol>
+<p>For enquiries regarding the application process, please contact our General
+Office during school hours.</p>
+<p></p>
 <h4><strong>(2) Parent Volunteer Registration Form</strong></h4>
 <h4><strong>Parent Volunteer (PV) Application</strong></h4>
 <p>Rulang Primary School values our Parent Volunteers' contribution to the
