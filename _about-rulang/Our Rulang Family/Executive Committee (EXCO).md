@@ -128,6 +128,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Administration Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ong Sze Sze, Sally</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ong_Sze_Sze_Sally@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Sze_Sze_Sally@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Operations Manager 1</strong>
 </p>
 </td>
