@@ -114,7 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administration Manager</strong>
+<p><strong>Administration Manager 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,7 +128,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administration Manager</strong>
+<p><strong>Administration Manager 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
