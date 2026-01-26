@@ -41,7 +41,7 @@ unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>)
 for more information on MOE Sexuality Education.</p>
-<p><strong>OVERVIEW OF RULANG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF RULANG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
