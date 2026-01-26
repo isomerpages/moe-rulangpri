@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1>Sexuality Education</h1>
-<p><strong>MOE Sexuality Education in Schools</strong>
+<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
 </p>
 <p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
 in schools aims to enable students to understand the physiological, social
@@ -41,7 +41,7 @@ unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>)
 for more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Rulang Primary School’s Sexuality Education Programme for 2025</strong>
+<p><strong>OVERVIEW OF RULANG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -78,10 +78,10 @@ rewarding relationships with others, including those with members of the
 opposite sex. Students are also guided to make wise, informed and responsible
 decisions to keep themselves safe from sexuality-related risks.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_sexuality_ed_p5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_sexuality_ed_p5.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_sexuality_ed_p6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_sexuality_ed_p6.jpg">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
