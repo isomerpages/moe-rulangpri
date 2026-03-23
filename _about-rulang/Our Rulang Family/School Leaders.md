@@ -9,16 +9,12 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_After.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RPS_SLs.jpg">
 </div>
 <h1><strong>Contact</strong></h1>
 <p><strong>Principal</strong>
 <br>Mrs Koh Chern Ee
 <br>Email:&nbsp;<a href="mailto:Yeow_Chern_Ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yeow_Chern_Ee@schools.gov.sg</a>
-</p>
-<p><strong>Vice-Principal</strong>
-<br>Mr Toh Jin Tian &nbsp;
-<br>Email:&nbsp;<a href="mailto:TOH_Jin_Tian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Toh_Jin_Tian@schools.gov.sg</a>
 </p>
 <p><strong>Vice-Principal</strong>
 <br>Mr Adrian Tan&nbsp;
