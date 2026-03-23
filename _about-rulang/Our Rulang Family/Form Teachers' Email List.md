@@ -56,7 +56,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:maslishah_punari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maslishah_punari@schools.gov.sg</a>
 </p>
-<p><a href="mailto:Tristan_Matthew_Wee_Yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tristan_Matthew_Wee_Yong@schools.gov.sg</a>
+<p><a href="mailto:tristan_matthew_wee_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tristan_matthew_wee_yong@schools.gov.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -313,11 +313,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chow Hua Vincent</p>
+<p>Mdm Siti Aisah Bte Badul Karim</p>
 <p>Mdm Xiao Xiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_chow_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chow_hua@schools.gov.sg</a>
+<p><a href="mailto:siti_aisah_karim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aisah_karim@schools.gov.sg</a>
 </p>
 <p><a href="mailto:xiao_xiao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xiao_xiao@schools.gov.sg</a>
 </p>
@@ -439,12 +439,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Huay Chin, Serene</p>
-<p>Ms Wu Yi</p>
+<p>Ms Liu Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_huay_chin_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_huay_chin_serene@schools.gov.sg</a>
 </p>
-<p><a href="mailto:wu_yi_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_yi_a@schools.gov.sg</a>
+<p><a href="mailto:liu_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_hui@schools.gov.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
