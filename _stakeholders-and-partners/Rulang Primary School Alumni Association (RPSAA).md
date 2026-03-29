@@ -74,7 +74,7 @@ and create meaningful experiences with fellow Rulangnites.</p>
 <h4><strong>RPS Alumni Association Youth Wing (ExCO)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Youthwing_Exco_Chart.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/youthwing2026.png">
 </div>
 <h4><strong>RPSAA Patrons</strong></h4>
 <p>Central to the RPSAA's efforts are esteemed patrons, individuals whose
