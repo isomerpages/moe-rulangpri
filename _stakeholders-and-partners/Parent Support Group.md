@@ -7,8 +7,9 @@ variant: tiptap
 <h1>Parent Support Group</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent_Support_Group_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG.jpg">
 </div>
+<p></p>
 <p>Since its inception in 2006, the Parents Support Group (PSG) of Rulang
 Primary School has played a pivotal role in engaging parents of our existing
 students, in support of our children's education. In strengthening ties
