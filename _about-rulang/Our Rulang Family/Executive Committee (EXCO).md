@@ -45,19 +45,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Toh Jin Tian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Toh_Jin_Tian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Toh_Jin_Tian@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice-Principal</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Jian Zhong Adrian</p>
 </td>
 <td rowspan="1" colspan="1">
