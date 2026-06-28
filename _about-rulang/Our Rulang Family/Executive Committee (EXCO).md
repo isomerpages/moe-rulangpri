@@ -536,6 +536,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SH/PE &amp; CCA (Covering)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tristan Matthew Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tristan_Matthew_Wee_Yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tristan_Matthew_Wee_Yong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>SH/Student Leadership &amp; Well-Being</strong>
 </p>
 <p></p>
