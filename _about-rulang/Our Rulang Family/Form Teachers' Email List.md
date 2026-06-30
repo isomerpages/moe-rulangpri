@@ -528,11 +528,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sharon Loke</p>
+<p>Mr Mazlan Ismael</p>
 <p>Ms Wong Min Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loke_yuet_wai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loke_yuet_wai@schools.gov.sg</a>
+<p><a href="mailto:Mazlan_Ismael@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mazlan_Ismael@schools.gov.sg</a>
 </p>
 <p><a href="mailto:wong_min_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_min_wei@schools.gov.sg</a>
 </p>
@@ -579,12 +579,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Bee Lian</p>
 <p>Mdm Wong Ching Kuen Fion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_bee_lian_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_bee_lian_b@schools.gov.sg</a>
-</p>
 <p><a href="mailto:wong_ching_kuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_kuen@schools.gov.sg</a>
 </p>
 <p>&nbsp;</p>
@@ -834,6 +831,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Goh Wei Howe</p>
 <p>Ms Rosneayu Binte Rosenen</p>
+<p>Nurwahidah Binte Rosli</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -841,7 +839,8 @@ variant: tiptap
 </p>
 <p><a href="mailto:rosneayu_rosenen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rosneayu_rosenen@schools.gov.sg</a>
 </p>
-<p>&nbsp;</p>
+<p><a href="mailto:nurwahidah_rosli@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurwahidah_rosli@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
