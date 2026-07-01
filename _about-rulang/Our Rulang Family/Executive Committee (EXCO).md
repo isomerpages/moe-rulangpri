@@ -524,6 +524,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>SH Student Management</strong>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Maslishah Punari</p>
@@ -532,6 +533,21 @@ variant: tiptap
 <p><a href="mailto:maslishah_punari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">maslishah_punari@schools.gov.sg</a>
 </p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH/PE &amp; CCA (Covering)</strong>
+</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tristan Matthew Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Tristan_Matthew_Wee_Yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tristan_Matthew_Wee_Yong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
