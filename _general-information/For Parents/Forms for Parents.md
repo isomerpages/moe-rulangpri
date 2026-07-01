@@ -42,7 +42,7 @@ Office during school hours.</p>
 school and welcomes all interested parents to apply as Parent Volunteers
 under our Parent Volunteer Scheme.</p>
 <h4><strong>1. Eligibility</strong></h4>
-<p>Parents of children born between 2 Jan 2021 and 1 Jan 2022 who are Singapore
+<p>Parents of children born between 2 Jan 2022 and 1 Jan 2023 who are Singapore
 Citizens (SC) or Singapore Permanent Residents (SPR) are eligible for this
 programme.</p>
 <h4><strong>2. Primary One Registration (Phase 2B)</strong></h4>
@@ -69,8 +69,8 @@ services. Balloting will be conducted should the number of applications
 </li>
 <li>
 <p>The mode of submission is via<strong> FormSG</strong> (found below). Completed
-application forms must be received by the School no later than Tuesday,
-30 June 2026.</p>
+application forms must be received from the period from 1 August 2026 to
+31 October 2026.</p>
 </li>
 <li>
 <p>You will receive an acknowledgement email upon successful submission.</p>
@@ -79,7 +79,7 @@ application forms must be received by the School no later than Tuesday,
 <p>Important Notes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Applications received after 30 June 2026 will not be considered</p>
+<p>Applications received after 31 October 2026 will not be considered</p>
 </li>
 <li>
 <p>Incomplete applications will be rejected</p>
@@ -131,7 +131,7 @@ and no appeal will be accepted thereafter. The School is not obliged to
 give any reason for an unsuccessful application.</p>
 </li>
 <li>
-<p>All parents will be notified by School via email by 18 Aug 2026.</p>
+<p>All parents will be notified by School via email by 15 Feb 2027.</p>
 <h3><strong>5. Application Timeline</strong></h3>
 </li>
 </ul>
@@ -143,7 +143,7 @@ give any reason for an unsuccessful application.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 July 2025 to 30 June 2026</p>
+<p>1 August 2026 to 31 October 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application Period for Parent Volunteers</p>
@@ -151,7 +151,7 @@ give any reason for an unsuccessful application.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 July - 14 August 2026</p>
+<p>1 November 2026 to 5 February 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School reviews applications received</p>
@@ -159,7 +159,7 @@ give any reason for an unsuccessful application.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>By 18 August 2026</p>
+<p>By 15 February 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All applicants will be notified by school via email</p>
@@ -167,17 +167,10 @@ give any reason for an unsuccessful application.</p>
 </tr>
 </tbody>
 </table>
-<h3><strong>6. Future plan (For 2029 Primary 1 Cohort)</strong></h3>
-<p>Parents of children born between 2 January 2022 and 1 January 2023, who
-are Singapore Citizens (SC) or Singapore Permanent Residents (SPR), can
-apply for the Parent Volunteer Scheme only during the period from 1 July
-2026 to 12 March 2027. The shortened application period is to allow successful
-applicants to have a longer period of time to serve out their forty (40)
-hours of service.</p>
-<h3><strong>7. Information</strong></h3>
+<h3><strong>6. Information</strong></h3>
 <p>Parents may refer to <a href="https://moe.gov.sg/primary/p1-registration" rel="noopener nofollow" target="_blank">https://moe.gov.sg/primary/p1-registration</a> for
 information on Primary One Registration Exercise.</p>
-<h3><strong>8. Consent</strong></h3>
+<h3><strong>7. Consent</strong></h3>
 <p>Before clicking on the application form, please do read through the above
 terms and conditions. All applicants would be taken to have read and consented
 to all the terms and conditions governing the management of the Parent
